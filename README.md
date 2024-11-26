@@ -3,6 +3,7 @@
 ## Dataset yang anda pilih
 
 NYC and Tokyo Check-in
+https://www.kaggle.com/datasets/chetanism/foursquare-nyc-and-tokyo-checkin-dataset/data
 
 ## Deskripsi data
 
