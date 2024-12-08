@@ -4,3 +4,4 @@ streamlit-folium
 matplotlib
 numpy
 plotly
+scipy
