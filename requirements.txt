@@ -1,6 +1,6 @@
-folium==0.14.0
-streamlit==1.25.0
-streamlit-folium==0.13.0
-matplotlib==3.8.0
-numpy==1.26.0
-plotly==5.17.0
+folium
+streamlit
+streamlit-folium
+matplotlib
+numpy
+plotly
