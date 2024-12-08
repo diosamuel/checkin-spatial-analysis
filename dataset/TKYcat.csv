@@ -1,0 +1,248 @@
+venueCategory,count,Kategori
+Train Station,200428,Transportasi Umum
+Subway,41666,Transportasi Umum
+Ramen /  Noodle House,17303,Tempat Makan
+Convenience Store,16833,Belanja & Hiburan
+Japanese Restaurant,15680,Tempat Makan
+Bar,14940,Tempat Makan
+Food & Drink Shop,14023,Tempat Makan
+Electronics Store,10897,Belanja & Hiburan
+Mall,10839,Belanja & Hiburan
+Coffee Shop,8959,Tempat Makan
+Office,8789,Tempat Kerja
+Café,8603,Tempat Makan
+Bridge,8162,Layanan Publik
+Bus Station,7965,Transportasi Umum
+Road,7528,Layanan Publik
+Bookstore,7418,Belanja & Hiburan
+Park,7247,Wisata
+Fast Food Restaurant,6806,Tempat Makan
+Arcade,6153,Wisata
+College Academic Building,5981,Layanan Publik
+Government Building,5116,Layanan Publik
+Building,5036,Residental (Perumahan/Privat)
+Chinese Restaurant,4718,Tempat Makan
+Hobby Shop,4648,Belanja & Hiburan
+Miscellaneous Shop,4549,Belanja & Hiburan
+Department Store,4152,Belanja & Hiburan
+University,3486,Layanan Publik
+Gym / Fitness Center,3486,Layanan Publik
+Other Great Outdoors,3298,Wisata
+Medical Center,3280,Layanan Publik
+Home (private),3106,Residental (Perumahan/Privat)
+Italian Restaurant,3029,Tempat Makan
+Light Rail,2985,Transportasi Umum
+Restaurant,2921,Tempat Makan
+Clothing Store,2920,Belanja & Hiburan
+Airport,2902,Transportasi Umum
+Movie Theater,2763,Belanja & Hiburan
+Shrine,2696,Layanan Publik
+Indian Restaurant,2639,Tempat Makan
+Convention Center,2229,Tempat Kerja
+Event Space,2209,Layanan Publik
+Drugstore / Pharmacy,2041,Belanja & Hiburan
+Music Venue,1909,Belanja & Hiburan
+Hotel,1902,Residental (Perumahan/Privat)
+Diner,1851,Tempat Makan
+Video Store,1761,Belanja & Hiburan
+BBQ Joint,1738,Tempat Makan
+Sushi Restaurant,1679,Tempat Makan
+Concert Hall,1633,Layanan Publik
+Plaza,1490,Belanja & Hiburan
+Record Shop,1474,Belanja & Hiburan
+Stadium,1469,Layanan Publik
+Temple,1449,Layanan Publik
+Toy / Game Store,1401,Belanja & Hiburan
+Bank,1359,Layanan Publik
+Mobile Phone Shop,1340,Belanja & Hiburan
+Post Office,1291,Tempat Kerja
+Burger Joint,1289,Tempat Makan
+Bakery,1264,Tempat Makan
+General Entertainment,1250,Belanja & Hiburan
+Furniture / Home Store,1192,Belanja & Hiburan
+Spa / Massage,1100,Layanan Publik
+Playground,1089,Wisata
+Library,1085,Layanan Publik
+Historic Site,1070,Wisata
+Sculpture Garden,985,Wisata
+Deli / Bodega,954,Belanja & Hiburan
+Asian Restaurant,951,Belanja & Hiburan
+Art Gallery,904,Wisata
+Smoke Shop,902,Belanja & Hiburan
+Dessert Shop,893,Belanja & Hiburan
+Dumpling Restaurant,891,Belanja & Hiburan
+Salon / Barbershop,825,Layanan Publik
+Bowling Alley,811,Belanja & Hiburan
+Steakhouse,802,Tempat Makan
+Gas Station / Garage,792,Layanan Publik
+School,783,Layanan Publik
+Athletic & Sport,780,Layanan Publik
+Parking,774,Layanan Publik
+Sporting Goods Shop,772,Belanja & Hiburan
+High School,764,Layanan Publik
+Korean Restaurant,708,Tempat Makan
+Bike Shop,664,Belanja & Hiburan
+General College & University,656,Layanan Publik
+River,621,Wisata
+Hardware Store,613,Belanja & Hiburan
+Sandwich Place,611,Tempat Makan
+Neighborhood,589,Layanan Publik
+Gift Shop,582,Belanja & Hiburan
+Donut Shop,564,Tempat Makan
+Automotive Shop,556,Belanja & Hiburan
+Theater,556,Layanan Publik
+General Travel,523,Transportasi Umum
+Art Museum,520,Wisata
+Pizza Place,515,Tempat Makan
+Scenic Lookout,509,Wisata
+French Restaurant,493,Tempat Makan
+Other Nightlife,480,Wisata
+Residential Building (Apartment / Condo),472,Residental (Perumahan/Privat)
+American Restaurant,468,Tempat Makan
+Thai Restaurant,467,Tempat Makan
+Fried Chicken Joint,444,Tempat Makan
+Garden,432,Wisata
+Seafood Restaurant,429,Tempat Makan
+Arts & Crafts Store,403,Belanja & Hiburan
+Student Center,363,Layanan Publik
+Candy Store,358,Belanja & Hiburan
+Spiritual Center,347,Layanan Publik
+Video Game Store,327,Belanja & Hiburan
+Racetrack,305,Belanja & Hiburan
+Rest Area,298,Layanan Publik
+Beer Garden,294,Tempat Makan
+Laundry Service,293,Layanan Publik
+Music Store,291,Belanja & Hiburan
+Camera Store,289,Belanja & Hiburan
+History Museum,275,Wisata
+Museum,269,Wisata
+Food,268,Tempat Makan
+Military Base,265,Residental (Perumahan/Privat)
+Gaming Cafe,261,Belanja & Hiburan
+Paper / Office Supplies Store,258,Belanja & Hiburan
+Tea Room,256,Tempat Makan
+Soup Place,254,Tempat Makan
+Shop & Service,253,Belanja & Hiburan
+Elementary School,246,Layanan Publik
+Science Museum,242,Wisata
+Internet Cafe,242,Belanja & Hiburan
+Ice Cream Shop,228,Tempat Makan
+Ferry,226,Wisata
+Cosmetics Shop,220,Belanja & Hiburan
+Church,212,Layanan Publik
+Travel & Transport,204,Transportasi Umum
+Casino,202,Belanja & Hiburan
+Trade School,196,Layanan Publik
+Cemetery,193,Layanan Publik
+Spanish Restaurant,187,Tempat Makan
+Pool,186,Wisata
+Flower Shop,176,Belanja & Hiburan
+Factory,170,Tempat Kerja
+Wings Joint,163,Tempat Makan
+Moving Target,160,Belanja & Hiburan
+Brewery,157,Tempat Kerja
+Pet Store,157,Belanja & Hiburan
+Snack Place,156,Tempat Makan
+Community College,148,Layanan Publik
+Performing Arts Venue,146,Layanan Publik
+Mexican Restaurant,127,Tempat Makan
+Embassy / Consulate,127,Tempat Kerja
+Aquarium,112,Wisata
+German Restaurant,111,Belanja & Hiburan
+Car Dealership,108,Tempat Makan
+Nursery School,107,Layanan Publik
+Food Truck,105,Tempat Makan
+Comedy Club,99,Layanan Publik
+Zoo,99,Wisata
+Travel Lounge,98,Transportasi Umum
+Gastropub,98,Transportasi Umum
+Thrift / Vintage Store,96,Belanja & Hiburan
+Jewelry Store,95,Belanja & Hiburan
+Pool Hall,92,Belanja & Hiburan
+Recycling Facility,92,Layanan Publik
+Outdoors & Recreation,90,Wisata
+Hot Dog Joint,88,Tempat Makan
+Vietnamese Restaurant,85,Tempat Makan
+Fair,78,Layanan Publik
+Harbor / Marina,76,Transportasi Umum
+Taxi,74,Transportasi Umum
+Design Studio,69,Tempat Kerja
+Professional & Other Places,69,Residental (Perumahan/Privat)
+Vegetarian / Vegan Restaurant,66,Tempat Makan
+Nightlife Spot,64,Belanja & Hiburan
+Breakfast Spot,63,Tempat Makan
+Middle School,63,Layanan Publik
+Rental Car Location,62,Layanan Publik
+Public Art,60,Layanan Publik
+Medical School,60,Layanan Publik
+Dim Sum Restaurant,58,Tempat Makan
+Antique Shop,56,Belanja & Hiburan
+Brazilian Restaurant,55,Tempat Makan
+Bike Rental / Bike Share,53,Transportasi Umum
+Caribbean Restaurant,49,Tempat Makan
+Tapas Restaurant,49,Tempat Makan
+Middle Eastern Restaurant,49,Tempat Makan
+Funeral Home,46,Residental (Perumahan/Privat)
+Beach,44,Wisata
+Cupcake Shop,43,Belanja & Hiburan
+College Stadium,40,Layanan Publik
+Nail Salon,39,Layanan Publik
+Mediterranean Restaurant,38,Tempat Makan
+Bagel Shop,36,Belanja & Hiburan
+Winery,35,Tempat Kerja
+Sorority House,33,Residental (Perumahan/Privat)
+Board Shop,31,Belanja & Hiburan
+College & University,30,Layanan Publik
+Planetarium,26,Wisata
+Australian Restaurant,26,Tempat Makan
+Eastern European Restaurant,24,Tempat Makan
+Photography Lab,24,Layanan Publik
+Music School,24,Layanan Publik
+Mosque,23,Layanan Publik
+Campground,23,Wisata
+Garden Center,23,Wisata
+Financial or Legal Service,21,Layanan Publik
+Turkish Restaurant,20,Tempat Makan
+Motorcycle Shop,20,Belanja & Hiburan
+Tanning Salon,20,Layanan Publik
+Salad Place,19,Tempat Makan
+Car Wash,19,Layanan Publik
+Law School,17,Layanan Publik
+Bridal Shop,16,Belanja & Hiburan
+Arts & Entertainment,13,Belanja & Hiburan
+Fraternity House,13,Residental (Perumahan/Privat)
+Scandinavian Restaurant,12,Tempat Makan
+Cajun / Creole Restaurant,12,Tempat Makan
+Housing Development,12,Tempat Kerja
+Newsstand,11,Belanja & Hiburan
+Castle,11,Wisata
+Flea Market,10,Belanja & Hiburan
+Taco Place,9,Tempat Makan
+Fish & Chips Shop,9,Belanja & Hiburan
+Storage Facility,8,Belanja & Hiburan
+Malaysian Restaurant,8,Tempat Makan
+Latin American Restaurant,8,Tempat Makan
+City,7,Layanan Publik
+Distillery,7,Tempat Kerja
+Animal Shelter,7,Layanan Publik
+Portuguese Restaurant,7,Tempat Makan
+South American Restaurant,6,Tempat Makan
+African Restaurant,6,Tempat Makan
+College Theater,6,Layanan Publik
+Burrito Place,6,Tempat Makan
+Peruvian Restaurant,5,Tempat Makan
+Synagogue,5,Layanan Publik
+Cuban Restaurant,5,Tempat Makan
+Ethiopian Restaurant,4,Tempat Makan
+Market,4,Belanja & Hiburan
+Moroccan Restaurant,3,Tempat Makan
+Swiss Restaurant,2,Tempat Makan
+Argentinian Restaurant,2,Tempat Makan
+Mac & Cheese Joint,2,Tempat Makan
+Pet Service,2,Layanan Publik
+Southern / Soul Food Restaurant,1,Tempat Makan
+Ski Area,1,Wisata
+Arepa Restaurant,1,Tempat Makan
+Gluten-free Restaurant,1,Tempat Makan
+Afghan Restaurant,1,Tempat Makan
+Falafel Restaurant,1,Tempat Makan
