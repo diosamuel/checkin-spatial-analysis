@@ -8,9 +8,8 @@ import plotly.figure_factory as ff
 import pandas as pd
 import plotly.express as px
 from util.fetching import fetchAPI
-
-NYC = pd.read_csv("dataset/dataset_TSMC2014_NYC.csv")
-TKY = pd.read_csv("dataset/dataset_TSMC2014_TKY.csv")
+NYC = pd.read_csv("dataset/dataset_TSMC2014_NYC.csv")#.sample(500,random_state=42)
+TKY = pd.read_csv("dataset/dataset_TSMC2014_TKY.csv")#.sample(500,random_state=42)
 dataset = {
     "NYC":NYC,
     "TKY":TKY
@@ -20,7 +19,7 @@ st.markdown(
     """
     <style>
         section[data-testid="stSidebar"] {
-            width: 1000px !important; # Set the width to your desired value
+            /*width: 5000px !important; # Set the width to your desired value*/
         }
     </style>
     """,
@@ -58,7 +57,7 @@ def MostVisited(city):
     if city == "NYC":
         data = NYC["venueCategory"].value_counts().head(10).sort_values(ascending=True).reset_index()
     else:
-        data = TKY["venueCategory"].value_counts().head(10).sort_values(ascending=True).reset_index()
+        data = TKY["Kategori"].value_counts().head(10).sort_values(ascending=True).reset_index()
     df = data
     fig = px.bar(
         df,
