@@ -47,26 +47,20 @@ if(output["last_object_clicked_popup"]):
 venue_counts = sidebar.dataset[st.session_state["chosenCity"]]['venueId'].value_counts().sort_values(ascending=False)
 
 st.header(f"Tempat Populer di {st.session_state["chosenCity"]}")
-df = venue_counts.head(2).reset_index()
+df = venue_counts.head(5).reset_index()
 for pos in range(len(df)-1):
     col1,col2 = st.columns(2)
-    with col1:
-        loc = df.iloc[pos]
-        with st.container():
-            data=fetchAPI(loc["venueId"])
-            data = data["response"]["venue"]
-            st.header(data["name"])
-            st.write(loc["venueId"])
-            if("address" in data["location"]):
-                st.write(data["location"]["address"])
-            st.write(data["contact"])
-            st.write(data["canonicalUrl"])
-            # if st.button("Lihat Jam Sibuk",key=uuid.uuid1()):
-            #     print("Sibuk bangat")
-            if st.button("cube"):
-                st.write("KENAPA INI KGK JALAN SU")
-                st.session_state["selectedVenue"] = loc["venueId"]
-                st.rerun()
+    # with col1:
+    loc = df.iloc[pos]
+    with st.container():
+        data=fetchAPI(loc["venueId"])
+        data = data["response"]["venue"]
+        st.header(data["name"])
+        st.write(loc["venueId"])
+        if("address" in data["location"]):
+            st.write(data["location"]["address"])
+        st.write(data["contact"])
+        st.write(data["canonicalUrl"])
     # with col2:
     #     loc = df.iloc[pos+1]
     #     with st.container():
