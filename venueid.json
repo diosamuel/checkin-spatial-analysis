@@ -1,1 +1,404 @@
-{"meta":{"code":200,"requestId":"6745bb13bac2c53d7afde017"},"notifications":[{"type":"notificationTray","item":{"unreadCount":0}}],"response":{"venue":{"id":"4bc7086715a7ef3bef9878da","name":"Premier Physical Therapy","contact":{"phone":"2126962727","formattedPhone":"(212) 696-2727","twitter":"professionalpt_","facebook":"171747152866337","facebookUsername":"ProfessionalPT","facebookName":"Professional Physical Therapy"},"location":{"address":"461 Park Ave S","crossStreet":"E 31st St","lat":40.74516035826439,"lng":-73.98230930840316,"labeledLatLngs":[{"label":"entrance","lat":40.745228,"lng":-73.982486},{"label":"display","lat":40.74516035826439,"lng":-73.98230930840316}],"radius50":19,"radius90":238,"postalCode":"10016","cc":"US","city":"New York","state":"NY","country":"United States","formattedAddress":["461 Park Ave S (E 31st St)","New York, NY 10016","United States"]},"canonicalUrl":"https:\/\/foursquare.com\/v\/premier-physical-therapy\/4bc7086715a7ef3bef9878da","categories":[{"id":"5744ccdfe4b0c0459246b4af","name":"Physical Therapy Clinic","pluralName":"Physical Therapy Clinics","shortName":"Physical Therapy Clinic","icon":{"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/medical_doctorsoffice_","suffix":".png"},"categoryCode":15026,"mapIcon":"fsq-default","primary":true}],"verified":true,"stats":{"tipCount":2},"url":"https:\/\/www.professionalpt.com\/office\/murray-hill","likes":{"count":0,"groups":[]},"like":false,"dislike":false,"ok":false,"header":"This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.","explanation":"We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.","allowMenuUrlEdit":true,"beenHere":{"count":0,"unconfirmedCount":0,"marked":false,"lastCheckinExpiredAt":0},"photos":{"count":6,"groups":[{"type":"venue","name":"Venue photos","count":6,"items":[{"id":"5c2fb9c2b25fee002bb4b403","createdAt":1546631618,"source":{"name":"Yext Yext","url":"http:\/\/yext.com"},"prefix":"https:\/\/fastly.4sqi.net\/img\/general\/","suffix":"\/87388367_9r6dyL0aHjXJrIHvnrvD1Y_dSKVr9cVRZUjKViwcP6c.jpg","width":619,"height":464,"user":{"id":"87388367","firstName":"Yext","lastName":"Yext","handle":"yexty2998150","privateProfile":false,"gender":"none","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/blank_boy.png","default":true}},"visibility":"public"},{"id":"5c2fb9c2acb00b002cf9ac4e","createdAt":1546631618,"source":{"name":"Yext Yext","url":"http:\/\/yext.com"},"prefix":"https:\/\/fastly.4sqi.net\/img\/general\/","suffix":"\/87388367_AiMQPYY3fsIGmHty5W2TjFbP21rxV_cM0wmRZJE5wR0.jpg","width":619,"height":464,"user":{"id":"87388367","firstName":"Yext","lastName":"Yext","handle":"yexty2998150","privateProfile":false,"gender":"none","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/blank_boy.png","default":true}},"visibility":"public"},{"id":"5c2fb9c1ad910e002c57b116","createdAt":1546631617,"source":{"name":"Yext Yext","url":"http:\/\/yext.com"},"prefix":"https:\/\/fastly.4sqi.net\/img\/general\/","suffix":"\/87388367_YRnF05qIWFHWJKr4u0JSTckTyGj8QMGZ0e0PJuLpg2k.jpg","width":619,"height":464,"user":{"id":"87388367","firstName":"Yext","lastName":"Yext","handle":"yexty2998150","privateProfile":false,"gender":"none","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/blank_boy.png","default":true}},"visibility":"public"},{"id":"5c2faa0b9b0473002cad5290","createdAt":1546627595,"source":{"name":"Yext Yext","url":"http:\/\/yext.com"},"prefix":"https:\/\/fastly.4sqi.net\/img\/general\/","suffix":"\/87388367_8q7aN_8jsGaUb37i4NvCmrMc7XMDKi-Qar7jvr44N0M.jpg","width":619,"height":411,"user":{"id":"87388367","firstName":"Yext","lastName":"Yext","handle":"yexty2998150","privateProfile":false,"gender":"none","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/blank_boy.png","default":true}},"visibility":"public"}]}]},"reasons":{"count":0,"items":[]},"description":"Welcome to our Physical Therapy Clinic at Murray Hill in Midtown East Manhattan NYC. Located on the eleventh floor at 461 Park Avenue South New York, NY. Our patient-centric treatment philosophy focuses on providing exceptional and compassionate care to the entire person, not just their injury...","storeId":"","page":{"pageInfo":{"description":"Physical therapy & sports rehabilitation clinic with one-on-one treatments and 11 convenient locations throughout New York City, Westchester & Connecticut.","links":{"count":1,"items":[{"url":"http:\/\/www.premierptny.com"}]}},"user":{"id":"21958838","firstName":"Premier PT of NY\/CT","handle":"premierptny","privateProfile":false,"gender":"none","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/GCZLX3IATRUY5GHD.png"},"type":"chain","tips":{"count":0},"lists":{"groups":[{"type":"created","count":2,"items":[]}]},"homeCity":"New York, NY","bio":"","contact":{"twitter":"premierptny"}}},"createdAt":1271335015,"hereNow":{"count":0,"summary":"Nobody here","groups":[]},"tips":{"count":2,"groups":[{"type":"following","name":"Tips from people you follow","count":0,"items":[]},{"type":"others","name":"All tips","count":2,"items":[{"id":"4f725121e4b010795ca0f2ec","createdAt":1332891937,"text":"Toni is excellent! I have gotten so much better!","type":"user","canonicalUrl":"https:\/\/foursquare.com\/item\/4f725121e4b010795ca0f2ec","likes":{"count":0,"groups":[]},"like":false,"logView":true,"agreeCount":0,"disagreeCount":0,"todo":{"count":0},"user":{"id":"9104677","firstName":"Christie","lastName":"Calahan","handle":"christiecalahan","privateProfile":false,"gender":"female","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/3LVODNI2XPIDAQGT.jpg"}}},{"id":"4d7832920ddba35da35e3d76","createdAt":1299722898,"text":"Kelly is the best!","type":"user","canonicalUrl":"https:\/\/foursquare.com\/item\/4d7832920ddba35da35e3d76","likes":{"count":0,"groups":[]},"like":false,"logView":true,"agreeCount":0,"disagreeCount":0,"todo":{"count":0},"user":{"id":"7433321","firstName":"Heather","lastName":"R.","handle":"hlsilver","privateProfile":false,"gender":"female","countryCode":"US","followingRelationship":"none","photo":{"prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/7433321-32C3TWKXN2YPYP0H.jpg"}}}]}]},"shortUrl":"http:\/\/4sq.com\/bfABGK","timeZone":"America\/New_York","listed":{"count":0,"groups":[]},"hours":{"status":"Open until 8:00 PM","richStatus":{"entities":[],"text":"Open until 8:00 PM"},"isOpen":true,"isLocalHoliday":false,"dayData":[],"timeframes":[{"days":"Mon\u2013Tue, Thu","includesToday":true,"open":[{"renderedTime":"7:00 AM\u20138:00 PM"}],"segments":[]},{"days":"Wed, Fri","open":[{"renderedTime":"7:00 AM\u20133:00 PM"}],"segments":[]}]},"popular":{"isOpen":false,"isLocalHoliday":false,"timeframes":[{"days":"Today","includesToday":true,"open":[{"renderedTime":"10:00 AM\u20132:00 PM"},{"renderedTime":"5:00 PM\u20138:00 PM"}],"segments":[]},{"days":"Wed","open":[{"renderedTime":"7:00 AM\u20138:00 PM"}],"segments":[]},{"days":"Thu","open":[{"renderedTime":"8:00 AM\u20139:00 AM"},{"renderedTime":"Noon\u20138:00 PM"}],"segments":[]},{"days":"Fri","open":[{"renderedTime":"7:00 AM\u20134:00 PM"},{"renderedTime":"6:00 PM\u20137:00 PM"}],"segments":[]},{"days":"Sat\u2013Sun","open":[{"renderedTime":"None"}],"segments":[]},{"days":"Mon","open":[{"renderedTime":"7:00 AM\u201310:00 AM"},{"renderedTime":"Noon\u20132:00 PM"},{"renderedTime":"5:00 PM\u20138:00 PM"}],"segments":[]}]},"seasonalHours":[],"defaultHours":{"status":"Open until 8:00 PM","richStatus":{"entities":[],"text":"Open until 8:00 PM"},"isOpen":true,"isLocalHoliday":false,"dayData":[],"timeframes":[{"days":"Mon\u2013Tue, Thu","includesToday":true,"open":[{"renderedTime":"7:00 AM\u20138:00 PM"}],"segments":[]},{"days":"Wed, Fri","open":[{"renderedTime":"7:00 AM\u20133:00 PM"}],"segments":[]}]},"pageUpdates":{"count":0},"inbox":{"count":0,"items":[]},"attributes":{"groups":[]},"bestPhoto":{"id":"5c2fb9c2b25fee002bb4b403","createdAt":1546631618,"source":{"name":"Yext Yext","url":"http:\/\/yext.com"},"prefix":"https:\/\/fastly.4sqi.net\/img\/general\/","suffix":"\/87388367_9r6dyL0aHjXJrIHvnrvD1Y_dSKVr9cVRZUjKViwcP6c.jpg","width":619,"height":464,"visibility":"public"}}}}
+{
+  "meta": { "code": 200, "requestId": "6745bb13bac2c53d7afde017" },
+  "notifications": [
+    { "type": "notificationTray", "item": { "unreadCount": 0 } }
+  ],
+  "response": {
+    "venue": {
+      "id": "4bc7086715a7ef3bef9878da",
+      "name": "Premier Physical Therapy",
+      "contact": {
+        "phone": "2126962727",
+        "formattedPhone": "(212) 696-2727",
+        "twitter": "professionalpt_",
+        "facebook": "171747152866337",
+        "facebookUsername": "ProfessionalPT",
+        "facebookName": "Professional Physical Therapy"
+      },
+      "location": {
+        "address": "461 Park Ave S",
+        "crossStreet": "E 31st St",
+        "lat": 40.74516035826439,
+        "lng": -73.98230930840316,
+        "labeledLatLngs": [
+          { "label": "entrance", "lat": 40.745228, "lng": -73.982486 },
+          {
+            "label": "display",
+            "lat": 40.74516035826439,
+            "lng": -73.98230930840316
+          }
+        ],
+        "radius50": 19,
+        "radius90": 238,
+        "postalCode": "10016",
+        "cc": "US",
+        "city": "New York",
+        "state": "NY",
+        "country": "United States",
+        "formattedAddress": [
+          "461 Park Ave S (E 31st St)",
+          "New York, NY 10016",
+          "United States"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/v/premier-physical-therapy/4bc7086715a7ef3bef9878da",
+      "categories": [
+        {
+          "id": "5744ccdfe4b0c0459246b4af",
+          "name": "Physical Therapy Clinic",
+          "pluralName": "Physical Therapy Clinics",
+          "shortName": "Physical Therapy Clinic",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_doctorsoffice_",
+            "suffix": ".png"
+          },
+          "categoryCode": 15026,
+          "mapIcon": "fsq-default",
+          "primary": true
+        }
+      ],
+      "verified": true,
+      "stats": { "tipCount": 2 },
+      "url": "https://www.professionalpt.com/office/murray-hill",
+      "likes": { "count": 0, "groups": [] },
+      "like": false,
+      "dislike": false,
+      "ok": false,
+      "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+      "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "photos": {
+        "count": 6,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 6,
+            "items": [
+              {
+                "id": "5c2fb9c2b25fee002bb4b403",
+                "createdAt": 1546631618,
+                "source": { "name": "Yext Yext", "url": "http://yext.com" },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/87388367_9r6dyL0aHjXJrIHvnrvD1Y_dSKVr9cVRZUjKViwcP6c.jpg",
+                "width": 619,
+                "height": 464,
+                "user": {
+                  "id": "87388367",
+                  "firstName": "Yext",
+                  "lastName": "Yext",
+                  "handle": "yexty2998150",
+                  "privateProfile": false,
+                  "gender": "none",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                },
+                "visibility": "public"
+              },
+              {
+                "id": "5c2fb9c2acb00b002cf9ac4e",
+                "createdAt": 1546631618,
+                "source": { "name": "Yext Yext", "url": "http://yext.com" },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/87388367_AiMQPYY3fsIGmHty5W2TjFbP21rxV_cM0wmRZJE5wR0.jpg",
+                "width": 619,
+                "height": 464,
+                "user": {
+                  "id": "87388367",
+                  "firstName": "Yext",
+                  "lastName": "Yext",
+                  "handle": "yexty2998150",
+                  "privateProfile": false,
+                  "gender": "none",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                },
+                "visibility": "public"
+              },
+              {
+                "id": "5c2fb9c1ad910e002c57b116",
+                "createdAt": 1546631617,
+                "source": { "name": "Yext Yext", "url": "http://yext.com" },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/87388367_YRnF05qIWFHWJKr4u0JSTckTyGj8QMGZ0e0PJuLpg2k.jpg",
+                "width": 619,
+                "height": 464,
+                "user": {
+                  "id": "87388367",
+                  "firstName": "Yext",
+                  "lastName": "Yext",
+                  "handle": "yexty2998150",
+                  "privateProfile": false,
+                  "gender": "none",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                },
+                "visibility": "public"
+              },
+              {
+                "id": "5c2faa0b9b0473002cad5290",
+                "createdAt": 1546627595,
+                "source": { "name": "Yext Yext", "url": "http://yext.com" },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/87388367_8q7aN_8jsGaUb37i4NvCmrMc7XMDKi-Qar7jvr44N0M.jpg",
+                "width": 619,
+                "height": 411,
+                "user": {
+                  "id": "87388367",
+                  "firstName": "Yext",
+                  "lastName": "Yext",
+                  "handle": "yexty2998150",
+                  "privateProfile": false,
+                  "gender": "none",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "reasons": { "count": 0, "items": [] },
+      "description": "Welcome to our Physical Therapy Clinic at Murray Hill in Midtown East Manhattan NYC. Located on the eleventh floor at 461 Park Avenue South New York, NY. Our patient-centric treatment philosophy focuses on providing exceptional and compassionate care to the entire person, not just their injury...",
+      "storeId": "",
+      "page": {
+        "pageInfo": {
+          "description": "Physical therapy & sports rehabilitation clinic with one-on-one treatments and 11 convenient locations throughout New York City, Westchester & Connecticut.",
+          "links": {
+            "count": 1,
+            "items": [{ "url": "http://www.premierptny.com" }]
+          }
+        },
+        "user": {
+          "id": "21958838",
+          "firstName": "Premier PT of NY/CT",
+          "handle": "premierptny",
+          "privateProfile": false,
+          "gender": "none",
+          "countryCode": "US",
+          "followingRelationship": "none",
+          "photo": {
+            "prefix": "https://fastly.4sqi.net/img/user/",
+            "suffix": "/GCZLX3IATRUY5GHD.png"
+          },
+          "type": "chain",
+          "tips": { "count": 0 },
+          "lists": {
+            "groups": [{ "type": "created", "count": 2, "items": [] }]
+          },
+          "homeCity": "New York, NY",
+          "bio": "",
+          "contact": { "twitter": "premierptny" }
+        }
+      },
+      "createdAt": 1271335015,
+      "hereNow": { "count": 0, "summary": "Nobody here", "groups": [] },
+      "tips": {
+        "count": 2,
+        "groups": [
+          {
+            "type": "following",
+            "name": "Tips from people you follow",
+            "count": 0,
+            "items": []
+          },
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 2,
+            "items": [
+              {
+                "id": "4f725121e4b010795ca0f2ec",
+                "createdAt": 1332891937,
+                "text": "Toni is excellent! I have gotten so much better!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f725121e4b010795ca0f2ec",
+                "likes": { "count": 0, "groups": [] },
+                "like": false,
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "9104677",
+                  "firstName": "Christie",
+                  "lastName": "Calahan",
+                  "handle": "christiecalahan",
+                  "privateProfile": false,
+                  "gender": "female",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/3LVODNI2XPIDAQGT.jpg"
+                  }
+                }
+              },
+              {
+                "id": "4d7832920ddba35da35e3d76",
+                "createdAt": 1299722898,
+                "text": "Kelly is the best!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4d7832920ddba35da35e3d76",
+                "likes": { "count": 0, "groups": [] },
+                "like": false,
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "7433321",
+                  "firstName": "Heather",
+                  "lastName": "R.",
+                  "handle": "hlsilver",
+                  "privateProfile": false,
+                  "gender": "female",
+                  "countryCode": "US",
+                  "followingRelationship": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/7433321-32C3TWKXN2YPYP0H.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/bfABGK",
+      "timeZone": "America/New_York",
+      "listed": { "count": 0, "groups": [] },
+      "hours": {
+        "status": "Open until 8:00 PM",
+        "richStatus": { "entities": [], "text": "Open until 8:00 PM" },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Tue, Thu",
+            "includesToday": true,
+            "open": [{ "renderedTime": "7:00 AM\u20138:00 PM" }],
+            "segments": []
+          },
+          {
+            "days": "Wed, Fri",
+            "open": [{ "renderedTime": "7:00 AM\u20133:00 PM" }],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              { "renderedTime": "10:00 AM\u20132:00 PM" },
+              { "renderedTime": "5:00 PM\u20138:00 PM" }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed",
+            "open": [{ "renderedTime": "7:00 AM\u20138:00 PM" }],
+            "segments": []
+          },
+          {
+            "days": "Thu",
+            "open": [
+              { "renderedTime": "8:00 AM\u20139:00 AM" },
+              { "renderedTime": "Noon\u20138:00 PM" }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              { "renderedTime": "7:00 AM\u20134:00 PM" },
+              { "renderedTime": "6:00 PM\u20137:00 PM" }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat\u2013Sun",
+            "open": [{ "renderedTime": "None" }],
+            "segments": []
+          },
+          {
+            "days": "Mon",
+            "open": [
+              { "renderedTime": "7:00 AM\u201310:00 AM" },
+              { "renderedTime": "Noon\u20132:00 PM" },
+              { "renderedTime": "5:00 PM\u20138:00 PM" }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "seasonalHours": [],
+      "defaultHours": {
+        "status": "Open until 8:00 PM",
+        "richStatus": { "entities": [], "text": "Open until 8:00 PM" },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Tue, Thu",
+            "includesToday": true,
+            "open": [{ "renderedTime": "7:00 AM\u20138:00 PM" }],
+            "segments": []
+          },
+          {
+            "days": "Wed, Fri",
+            "open": [{ "renderedTime": "7:00 AM\u20133:00 PM" }],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": { "count": 0 },
+      "inbox": { "count": 0, "items": [] },
+      "attributes": { "groups": [] },
+      "bestPhoto": {
+        "id": "5c2fb9c2b25fee002bb4b403",
+        "createdAt": 1546631618,
+        "source": { "name": "Yext Yext", "url": "http://yext.com" },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/87388367_9r6dyL0aHjXJrIHvnrvD1Y_dSKVr9cVRZUjKViwcP6c.jpg",
+        "width": 619,
+        "height": 464,
+        "visibility": "public"
+      }
+    }
+  }
+}

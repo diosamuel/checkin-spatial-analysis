@@ -1,6 +1,6 @@
 import requests
 import json
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 def fetchAPI(venueId):
     # venueId = "42911d00f964a520f5231fe3"
