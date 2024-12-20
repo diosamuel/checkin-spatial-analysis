@@ -16,8 +16,8 @@ with st.sidebar:
     kategori = st.selectbox("Kategori",('Transportasi Umum', 'Tempat Makan', 'Belanja & Hiburan',
        'Tempat Kerja', 'Layanan Publik', 'Wisata',
        'Residental (Perumahan/Privat)'))
-    if kategori:
-        WorkHourCategory(kategori,kota)
+    # if kategori:
+    #     WorkHourCategory(kategori,kota)
     MostVisitedPlace(kota)
 
 # Main section
@@ -36,8 +36,23 @@ if "chosenCity" in st.session_state:
     # Render map
     heat = st.checkbox("heatmap")
     density = st.checkbox("density")
-    output = st_folium(RenderMap(data, latlong,chosen_city), width=1000, height=500)
-
+    pinpoin = st.checkbox("pinpoin")
+    rendered = RenderMap(data, latlong,chosen_city,heatmap=heat,density=density,pinpoin=pinpoin)
+    output = st_folium(rendered, width=1000, height=500)
+    if(output["last_object_clicked_popup"]):
+        @st.dialog(f"Informasi")
+        def yapper():
+            st.session_state["selectedVenue"]=output["last_object_clicked_popup"]
+            data = fetchAPI(st.session_state["selectedVenue"])
+            venue_data = data.get("response", {}).get("venue", {})
+            st.subheader(venue_data.get("name", "Unknown"))
+            address = venue_data.get("location", {}).get("address")
+            if address:
+                st.write(address)
+            st.write(venue_data.get("contact", "No contact info"))
+            st.write(venue_data.get("canonicalUrl", "No URL available"))
+            WorkHour(st.session_state["selectedVenue"],chosen_city)
+        yapper()
     # Display popular venues
     venue_counts = data['venueId'].value_counts().head(10).reset_index()
     venue_counts.columns = ["Venue", "Count"]
