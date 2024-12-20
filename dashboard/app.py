@@ -13,12 +13,18 @@ with st.sidebar:
     kota = st.selectbox("Pilih Kota", ("NYC", "TKY"))
     st.session_state["chosenCity"] = kota
     MostVisited(kota)
+    kategori = st.selectbox("Kategori",('Transportasi Umum', 'Tempat Makan', 'Belanja & Hiburan',
+       'Tempat Kerja', 'Layanan Publik', 'Wisata',
+       'Residental (Perumahan/Privat)'))
+    if kategori:
+        WorkHourCategory(kategori,kota)
     MostVisitedPlace(kota)
 
 # Main section
 if "chosenCity" in st.session_state:
     chosen_city = st.session_state["chosenCity"]
-    st.header(f"Peta Spasial Kota {chosen_city}")
+    st.header(f"Selamat Datang di Dashboard Kota! {chosen_city}")
+    st.markdown(f"### Peta Spasial Kota {chosen_city}")
 
     # Load dataset
     data = dataset[chosen_city]
@@ -28,6 +34,8 @@ if "chosenCity" in st.session_state:
     })
 
     # Render map
+    heat = st.checkbox("heatmap")
+    density = st.checkbox("density")
     output = st_folium(RenderMap(data, latlong,chosen_city), width=1000, height=500)
 
     # Display popular venues
@@ -53,6 +61,11 @@ if "chosenCity" in st.session_state:
                         @st.dialog(f"Informasi {venue_data.get("name")} ")
                         def yapper():
                             st.session_state["selectedVenue"]=loc["Venue"]
-                            st.write(loc["Venue"])
                             WorkHour(st.session_state["selectedVenue"],chosen_city)
+                            lat = venue_data.get("location", {}).get("lat")
+                            lng = venue_data.get("location", {}).get("lng")
+                            map_center = [lat, lng]
+                            m = folium.Map(location=map_center, zoom_start=20)
+                            folium.Marker(location=map_center, popup=venue_data.get("name", "Unknown")).add_to(m)
+                            st_folium(m, width=700, height=500)
                         yapper()

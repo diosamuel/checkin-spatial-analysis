@@ -57,6 +57,35 @@ def WorkHour(venueId,city):
     )
     st.plotly_chart(fig, use_container_width=True)
 
+def WorkHourCategory(Kategori,city):
+    # venue = fetchAPI(Kategori)
+    # st.session_state["selectedVenueJSON"] = venue
+    if city=="NYC":
+        place = NYC[NYC["Kategori"] == Kategori]
+    else:
+        place = TKY[TKY["Kategori"] == Kategori]
+    place = place.reset_index()
+    place['Day'] = pd.to_datetime(place['utcTimestamp']).dt.day_name()
+    daysCount = place["Day"].value_counts().reset_index()
+    print(daysCount)
+    fixed_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    fig = px.bar(
+        daysCount,
+        x="Day",
+        y="count",
+        orientation="v",
+        title=f"Hari sibuk pada tempat {Kategori}",
+        labels={"count": "Total Pengunjung", "day": "Hari"},
+        color_discrete_sequence=["skyblue"],
+        category_orders={"Day":fixed_order}
+    )
+    fig.update_layout(
+        width=800,
+        xaxis=dict(showgrid=True, gridcolor="lightgray", gridwidth=0.5),
+        yaxis=dict(tickangle=-45),
+        title=dict(x=0.25),
+    )
+    st.plotly_chart(fig, use_container_width=True)
 
 def MostVisited(city):
     if city == "NYC":

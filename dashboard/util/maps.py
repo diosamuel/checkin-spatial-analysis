@@ -3,7 +3,7 @@ from folium.plugins import Draw
 from streamlit_folium import st_folium
 import folium
 import geopandas as gpd
-def RenderMap(data,latlong,city):
+def RenderMap(data,latlong,city,heatmap=False):
     m = folium.Map(location=[data.iloc[0]["latitude"],data.iloc[0]["longitude"]], zoom_start=10)
     folium.raster_layers.TileLayer(
         tiles="https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}",
@@ -28,7 +28,8 @@ def RenderMap(data,latlong,city):
             control=True
         ).add_to(m)
     # borough = gpd.read_file('dataset/Borough Boundaries.geojson')
-    HeatMap(latlong).add_to(m)
+    if heatmap:
+        HeatMap(latlong).add_to(m)
     # Draw().add_to(m)
     # folium.GeoJson(borough).add_to(m)
     return m
