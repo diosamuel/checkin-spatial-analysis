@@ -1,95 +1,58 @@
 import folium
 import streamlit as st
 from folium.plugins import HeatMap
-from folium.plugins import Draw
 from streamlit_folium import st_folium
-import matplotlib.pyplot as plt
-import numpy as np
-import plotly.figure_factory as ff
 import pandas as pd
-from util import sidebar
-from util.tools import haversine
+from util.sidebar import *
 from util.fetching import fetchAPI
-import random
 import uuid
+from util.maps import RenderMap
 
-if st.session_state is not None:
-    st.session_state["selectedVenue"] = "42911d00f964a520f5231fe3"
-
+# Sidebar for city selection
 with st.sidebar:
-    kota:str = st.selectbox("Pilih Kota",("NYC", "TKY"))
+    kota = st.selectbox("Pilih Kota", ("NYC", "TKY"))
     st.session_state["chosenCity"] = kota
-    sidebar.WorkHour(st.session_state["selectedVenue"])
-    sidebar.MostVisited(kota)
-    sidebar.MostVisitedPlace(kota)
+    MostVisited(kota)
+    MostVisitedPlace(kota)
 
+# Main section
+if "chosenCity" in st.session_state:
+    chosen_city = st.session_state["chosenCity"]
+    st.header(f"Peta Spasial Kota {chosen_city}")
 
-# Main
-if st.session_state["chosenCity"]:
-    st.header(f"Maps Of {st.session_state["chosenCity"]}")
-    data = sidebar.dataset[st.session_state["chosenCity"]]
+    # Load dataset
+    data = dataset[chosen_city]
     latlong = pd.DataFrame({
-        "latitude":data["latitude"],
-        "longitude":data["longitude"]
+        "latitude": data["latitude"],
+        "longitude": data["longitude"]
     })
 
-#render map
-m = folium.Map(location=[data.iloc[0]["latitude"],data.iloc[0]["longitude"]], zoom_start=10)
-HeatMap(latlong).add_to(m)
-Draw().add_to(m)
-fg = folium.FeatureGroup(name="State bounds")
-output = st_folium(m, width=1000, height=500,feature_group_to_add=fg)
+    # Render map
+    output = st_folium(RenderMap(data, latlong), width=1000, height=500)
 
-if(output["last_object_clicked_popup"]):
-    st.session_state["selectedVenue"] = output["last_object_clicked_popup"]
+    # Display popular venues
+    venue_counts = data['venueId'].value_counts().head(5).reset_index()
+    venue_counts.columns = ["Venue", "Count"]
+    st.header(f"Pilihan Tempat di {chosen_city}")
 
-#sample
-venue_counts = sidebar.dataset[st.session_state["chosenCity"]]['venueId'].value_counts().sort_values(ascending=False)
-
-st.header(f"Tempat Populer di {st.session_state["chosenCity"]}")
-df = venue_counts.head(5).reset_index()
-for pos in range(len(df)-1):
-    col1,col2 = st.columns(2)
-    # with col1:
-    loc = df.iloc[pos]
-    with st.container():
-        data=fetchAPI(loc["venueId"])
-        data = data["response"]["venue"]
-        st.header(data["name"])
-        st.write(loc["venueId"])
-        if("address" in data["location"]):
-            st.write(data["location"]["address"])
-        st.write(data["contact"])
-        st.write(data["canonicalUrl"])
-    # with col2:
-    #     loc = df.iloc[pos+1]
-    #     with st.container():
-    #         data=fetchAPI(loc["venueId"])
-    #         data = data["response"]["venue"]
-    #         st.header(data["name"])
-    #         st.write(loc["venueId"])
-    #         if("address" in data["location"]):
-    #             st.write(data["location"]["address"])
-    #         st.write(data["contact"])
-    #         st.write(data["canonicalUrl"])
-    #         if st.button("Lihat Jam Sibuk", key=uuid.uuid1()):
-    #             with st.sidebar:
-    #                 sidebar.WorkHour(loc["venueId"])
-
-# if st.button("Ada apa disini?"):
-#     radius = output["all_drawings"][0]["properties"]["radius"]
-#     selectedArea = output["all_drawings"][0]["geometry"]["coordinates"]
-#     st.write(selectedArea)
-#     for i in range(len(sidebar.NYC)):
-#         loc = sidebar.NYC.iloc[i]
-#         distance = haversine(selectedArea[1], selectedArea[0], loc["latitude"], loc["longitude"])
-#         if distance <= radius:
-#             fg.add_child(
-#                 folium.Marker(
-#                 location=[loc["latitude"], loc["longitude"]],
-#                 popup="Ini nih"
-#             ).add_to(m)
-#             )
-#             st.write(loc)
-#         else:
-#             st.write("No found")
+    for pos in range(0, len(venue_counts), 2):
+        cols = st.columns(2)
+        for i, col in enumerate(cols):
+            if pos + i < len(venue_counts):
+                loc = venue_counts.iloc[pos + i]
+                with col:
+                    data = fetchAPI(loc["Venue"])
+                    venue_data = data.get("response", {}).get("venue", {})
+                    st.subheader(venue_data.get("name", "Unknown"))
+                    st.write(loc["Venue"])
+                    address = venue_data.get("location", {}).get("address")
+                    if address:
+                        st.write(address)
+                    st.write(venue_data.get("contact", "No contact info"))
+                    st.write(venue_data.get("canonicalUrl", "No URL available"))
+                    if st.button(f"Informasi {venue_data.get("name")}"):
+                        @st.dialog(f"Informasi {venue_data.get("name")}")
+                        def yapper():
+                            st.session_state["selectedVenue"]=loc["Venue"]
+                            WorkHour(st.session_state["selectedVenue"])
+                        yapper()

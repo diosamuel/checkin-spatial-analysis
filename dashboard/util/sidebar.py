@@ -8,8 +8,10 @@ import plotly.figure_factory as ff
 import pandas as pd
 import plotly.express as px
 from util.fetching import fetchAPI
-NYC = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/NYC_final.csv")
-TKY = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/TKY_final.csv")
+NYC = pd.read_csv("dataset/NYC_final.csv")
+TKY = pd.read_csv("dataset/TKY_final.csv")
+# NYC = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/NYC_final.csv")
+# TKY = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/TKY_final.csv")
 dataset = {
     "NYC":NYC.sample(1000,random_state=42),
     "TKY":TKY.sample(1000,random_state=42)
@@ -18,15 +20,8 @@ st.markdown(
     """
     <style>
         section[data-testid="stSidebar"] {
-            width: 5000px !important; # Set the width to your desired value
+            width: 300px !important; # Set the width to your desired value
         }
-        .container {
-        padding: 10px;
-        border: 2px solid #f63366;
-        border-radius: 8px;
-        background-color: #f9f9f9;
-        margin-top: 20px;
-    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -70,7 +65,7 @@ def MostVisited(city):
         x="count",
         y="Kategori",
         orientation="h",
-        title=f"Top 10 Kategori Tempat Populer di {city}",
+        title=f"Top 10 Kategori Tempat Yang Sering Dikunjungi di {city}",
         labels={"count": "Total Visitor", "Kategori": ""},
         color_discrete_sequence=["orange"]
     )
@@ -98,9 +93,9 @@ def MostVisitedPlace(city):
         x="count",
         y="venueName",  # Use venueName for y-axis
         orientation="h",
-        title=f"Top 10 Tempat Populer di {city}",
+        title=f"Top 10 Tempat Yang Sering Dikunjungi di {city}",
         labels={"count": "Total Visitor", "venueName": "Venue Name"},
-        color_discrete_sequence=["orange"]
+        color_discrete_sequence=["purple"]
     )
 
     # Update layout
