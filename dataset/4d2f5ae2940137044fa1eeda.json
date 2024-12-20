@@ -1,0 +1,480 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765ce123d80c9456126a888"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4d2f5ae2940137044fa1eeda",
+            "name": "MTA Bus Stop- B46",
+            "contact": {},
+            "location": {
+                "address": "Gates & Malcolm X",
+                "lat": 40.68906933082349,
+                "lng": -73.93004118284237,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.68906933082349,
+                        "lng": -73.93004118284237
+                    }
+                ],
+                "radius50": 45,
+                "radius90": 188,
+                "postalCode": "11221",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Gates & Malcolm X",
+                    "Brooklyn, NY 11221",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/mta-bus-stop-b46/4d2f5ae2940137044fa1eeda",
+            "categories": [
+                {
+                    "id": "4d4b7105d754a06379d81259",
+                    "name": "Travel and Transportation",
+                    "pluralName": "Travel and Transportation",
+                    "shortName": "Travel and Transportation",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19000,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 1
+            },
+            "likes": {
+                "count": 4,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 4,
+                        "items": [
+                            {
+                                "id": "14940034",
+                                "firstName": "Brian",
+                                "lastName": "Lancaster",
+                                "handle": "bklsr1",
+                                "privateProfile": false,
+                                "gender": "male",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/SPFWJNFNESQTP2JP.jpg"
+                                }
+                            },
+                            {
+                                "id": "123039837",
+                                "firstName": "Maria",
+                                "lastName": "Montesano",
+                                "handle": "mariam1795346",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/123039837-BRNHAAAGSYJ0JR0J.jpg"
+                                }
+                            },
+                            {
+                                "id": "74688962",
+                                "firstName": "Robbie",
+                                "lastName": "Dante",
+                                "handle": "robbied6666599",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/74688962_VTVeZPs5_UfLidwkMSGQEshtjPDZYAsxG-ZnYj7igt4y-LXg8maoBT4u5_Mc8PHvuTMfnRxyn.jpg"
+                                }
+                            },
+                            {
+                                "id": "4918642",
+                                "firstName": "Sherina",
+                                "lastName": "Davis",
+                                "handle": "sherinad",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/MSZ2BLXMFJHRH3AI.jpg"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "summary": "Brian Lancaster, Maria Montesano, Robbie Dante & Sherina Davis"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+            "venueRatingBlacklisted": true,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 6,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 6,
+                        "items": [
+                            {
+                                "id": "646178b11cc1507d3f2bf3f3",
+                                "createdAt": 1684109489,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/1400860780_tDpj6bMUdcWtuqQlzsG5tOpDQHdi0govMJmXGlX0OHs.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "1400860780",
+                                    "firstName": "\u0631\u0646\u062f",
+                                    "handle": "rnd7137096",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/1400860780_Kxh-pptI_YDhoBbfyPNmuyFAV9f-SDqS1FbvQVLA-9RmD44SRmSRzRjpVBV1IbgCuzMpTx1Th.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "50078119e4b056df76d57ac7",
+                                "createdAt": 1342669081,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/L5ey93-xZaH0vgIqzYxcW9Ls6AakzJXY15HTp3x90hw.jpg",
+                                "width": 405,
+                                "height": 540,
+                                "user": {
+                                    "id": "30529799",
+                                    "firstName": "Samson",
+                                    "lastName": "Dj Quest",
+                                    "handle": "samsond5570416",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/YMVFTQ1LSES0HYVA.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "500b3ef9e4b02a36ea34c8e0",
+                                "createdAt": 1342914297,
+                                "source": {
+                                    "name": "Instagram",
+                                    "url": "http://instagram.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/UvnXp3_y4Jp3PD_-pGa2Y4DP8U7lajALhyt1nDZZiWU.jpg",
+                                "width": 612,
+                                "height": 612,
+                                "user": {
+                                    "id": "175339",
+                                    "firstName": "Clay",
+                                    "lastName": "Williams",
+                                    "handle": "ultraclay",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/IN12H01IKKQDRIPN.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "4ee12dc90e61689f52c7a811",
+                                "createdAt": 1323380169,
+                                "source": {
+                                    "name": "Foursquare for Android",
+                                    "url": "https://foursquare.com/download/#/android"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/VL0OMHTZLDTZ2OIWFUTZNAWNR0TZ1YJVDXQEXUCFEHYUJA1R.jpg",
+                                "width": 720,
+                                "height": 540,
+                                "user": {
+                                    "id": "7583089",
+                                    "firstName": "Jose",
+                                    "lastName": "Lugo",
+                                    "handle": "josel1644432",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/YKMHVRKPL4TKIKDR.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 0,
+                "items": []
+            },
+            "createdAt": 1294949090,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 1,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 1,
+                        "items": [
+                            {
+                                "id": "4ef218d92c5b44d261c5122d",
+                                "createdAt": 1324488921,
+                                "text": "B46 limited to Kings Plaza Mall in less than 45 minutes",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ef218d92c5b44d261c5122d",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 1,
+                                            "items": [
+                                                {
+                                                    "id": "67468468",
+                                                    "firstName": "VENUS",
+                                                    "lastName": "Hunter",
+                                                    "handle": "venushunter",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/67468468-S034LZW4Y10RKTWH.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "1 like"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 1,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "4918642",
+                                    "firstName": "Sherina",
+                                    "lastName": "Davis",
+                                    "handle": "sherinad",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/MSZ2BLXMFJHRH3AI.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/e9K0UH",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 0,
+                "groups": []
+            },
+            "popular": {
+                "isOpen": false,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue",
+                        "open": [
+                            {
+                                "renderedTime": "4:00 AM\u20135:00 AM"
+                            },
+                            {
+                                "renderedTime": "7:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Wed",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "4:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": []
+            },
+            "bestPhoto": {
+                "id": "646178b11cc1507d3f2bf3f3",
+                "createdAt": 1684109489,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/1400860780_tDpj6bMUdcWtuqQlzsG5tOpDQHdi0govMJmXGlX0OHs.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+            }
+        }
+    }
+}

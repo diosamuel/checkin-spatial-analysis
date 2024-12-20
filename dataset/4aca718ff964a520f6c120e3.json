@@ -1,0 +1,638 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765ce117f36f55a7804da1a"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4aca718ff964a520f6c120e3",
+            "name": "Lenox Hill Neighborhood House",
+            "contact": {
+                "phone": "2127445022",
+                "formattedPhone": "(212) 744-5022"
+            },
+            "location": {
+                "address": "343 E 70th St",
+                "crossStreet": "btwn1st & 2nd Ave",
+                "lat": 40.767026013941056,
+                "lng": -73.9577791364575,
+                "labeledLatLngs": [
+                    {
+                        "label": "entrance",
+                        "lat": 40.766963,
+                        "lng": -73.957845
+                    },
+                    {
+                        "label": "display",
+                        "lat": 40.767026013941056,
+                        "lng": -73.9577791364575
+                    }
+                ],
+                "radius50": 41,
+                "radius90": 321,
+                "postalCode": "10021",
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "343 E 70th St (btwn1st & 2nd Ave)",
+                    "New York, NY 10021",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/lenox-hill-neighborhood-house/4aca718ff964a520f6c120e3",
+            "categories": [
+                {
+                    "id": "50328a8e91d4c4b30a586d6c",
+                    "name": "Non-Profit Organization",
+                    "pluralName": "Non-Profit Organizations",
+                    "shortName": "Non-Profit Organization",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 12086,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                },
+                {
+                    "id": "4bf58dd8d48988d175941735",
+                    "name": "Gym and Studio",
+                    "pluralName": "Gym and Studios",
+                    "shortName": "Gym and Studio",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 18021,
+                    "mapIcon": "fsq-sports-rec"
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 4
+            },
+            "url": "http://www.lenoxhill.org",
+            "likes": {
+                "count": 7,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 7,
+                        "items": [
+                            {
+                                "id": "9841512",
+                                "firstName": "Christiana",
+                                "lastName": "Colon",
+                                "handle": "lornadevon",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/DESWVAREKP1VAVXX.jpg"
+                                }
+                            },
+                            {
+                                "id": "23112942",
+                                "firstName": "Leslie",
+                                "lastName": "Greenbaum",
+                                "handle": "leslieg3014309",
+                                "privateProfile": false,
+                                "gender": "male",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/G1XGRUMPRSYKEXZY.jpg"
+                                }
+                            },
+                            {
+                                "id": "8447053",
+                                "firstName": "Elvia",
+                                "lastName": "Francis",
+                                "handle": "elvia_francis",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/-U5FMW3BMLH5HQTH3.jpg"
+                                }
+                            },
+                            {
+                                "id": "46051897",
+                                "firstName": "Adam",
+                                "lastName": "Garcia",
+                                "handle": "oldschool_376",
+                                "privateProfile": false,
+                                "gender": "male",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/46051897_9gaIzAvI_Oe3cg_CFmS-ssAKqqEOR6eR6NSXJEuX0Lq6gek7K2RhDgC_D1wda8rFMhnOwd2Jn.jpg"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "summary": "Christiana Colon, Leslie Greenbaum, Elvia Francis & 4 others"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 7.4 out of 10.",
+            "rating": 7.4,
+            "ratingColor": "C5DE35",
+            "ratingSignals": 9,
+            "venueRatingBlacklisted": true,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "ok",
+            "deliveryProviders": [
+                {
+                    "id": "1784020",
+                    "url": "https://www.seamless.com/menu/dig---lenox-hill-1319-1st-avenue-new-york/1784020?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1784020",
+                    "provider": {
+                        "name": "seamless",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_seamless_20180129.png"
+                        }
+                    }
+                }
+            ],
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 1,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 1,
+                        "items": [
+                            {
+                                "id": "59975272f8cbd46f1c226a06",
+                                "createdAt": 1503089266,
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                                "width": 3888,
+                                "height": 2592,
+                                "user": {
+                                    "id": "212169387",
+                                    "firstName": "pivot_photos",
+                                    "handle": "pivot_ph1171738",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    },
+                                    "type": "page"
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 0,
+                "items": []
+            },
+            "createdAt": 1254781327,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 4,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 4,
+                        "items": [
+                            {
+                                "id": "5bda23ca5455b2003951ad07",
+                                "createdAt": 1541022666,
+                                "text": "Great people and nice facilities m",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5bda23ca5455b2003951ad07",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "23112942",
+                                    "firstName": "Leslie",
+                                    "lastName": "Greenbaum",
+                                    "handle": "leslieg3014309",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/G1XGRUMPRSYKEXZY.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            },
+                            {
+                                "id": "56468625498eb57e7124dcf6",
+                                "createdAt": 1447462437,
+                                "text": "Attended a meeting here.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/56468625498eb57e7124dcf6",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "25632917",
+                                    "firstName": "Robert",
+                                    "lastName": "Madison",
+                                    "handle": "robertm4978663",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/25632917-1Q0HPS0BSDTZIPAV.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "meh"
+                            },
+                            {
+                                "id": "515233c5e4b0f8fde9bff88a",
+                                "createdAt": 1364341701,
+                                "text": "Basketball is good on Monday nights & Saturday mornings",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/515233c5e4b0f8fde9bff88a",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "46051897",
+                                    "firstName": "Adam",
+                                    "lastName": "Garcia",
+                                    "handle": "oldschool_376",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/46051897_9gaIzAvI_Oe3cg_CFmS-ssAKqqEOR6eR6NSXJEuX0Lq6gek7K2RhDgC_D1wda8rFMhnOwd2Jn.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            },
+                            {
+                                "id": "4e383a5be4cdedd4a1b9c3e9",
+                                "createdAt": 1312307803,
+                                "text": "Senior yoga 9:30am on Thursdays",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4e383a5be4cdedd4a1b9c3e9",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "7765910",
+                                    "firstName": "Shanon",
+                                    "lastName": "Chaiken",
+                                    "handle": "chaiks",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/DL2POINOB0AYHWI2.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/8Xm9p1",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 3,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 3,
+                        "items": [
+                            {
+                                "id": "50a9187ae4b0534d8e066923",
+                                "name": "Common places",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "25230101",
+                                    "firstName": "Chad",
+                                    "lastName": "Hammer",
+                                    "handle": "chadh1322300",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/25230101-PXFNJBHSHULX1ADO.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/chadh1322300/list/common-places",
+                                "canonicalUrl": "https://foursquare.com/chadh1322300/list/common-places",
+                                "createdAt": 1353259130,
+                                "updatedAt": 1388875953,
+                                "followers": {
+                                    "count": 0
+                                },
+                                "listItems": {
+                                    "count": 11,
+                                    "items": [
+                                        {
+                                            "id": "v4aca718ff964a520f6c120e3",
+                                            "createdAt": 1353259908
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "501ad9bae4b0224728b0f67a",
+                                "name": "SPORTS",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "26887",
+                                    "firstName": "Sweets",
+                                    "lastName": "Sweetland",
+                                    "handle": "sweets1344",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/THTNBVO51ADUMPPT.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/sweets1344/list/sports",
+                                "canonicalUrl": "https://foursquare.com/sweets1344/list/sports",
+                                "createdAt": 1343936954,
+                                "updatedAt": 1602625791,
+                                "followers": {
+                                    "count": 0
+                                },
+                                "listItems": {
+                                    "count": 112,
+                                    "items": [
+                                        {
+                                            "id": "v4aca718ff964a520f6c120e3",
+                                            "createdAt": 1452199185
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "hours": {
+                "status": "Open until 8:15 PM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until 8:15 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Fri",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "6:30 AM\u20138:15 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20134:45 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20135:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20133:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue",
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Wed\u2013Thu",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open until 8:15 PM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until 8:15 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Fri",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "6:30 AM\u20138:15 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20134:45 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": []
+            },
+            "bestPhoto": {
+                "id": "59975272f8cbd46f1c226a06",
+                "createdAt": 1503089266,
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                "width": 3888,
+                "height": 2592,
+                "visibility": "public"
+            },
+            "colors": {
+                "highlightColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -14145480
+                },
+                "highlightTextColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -1
+                },
+                "algoVersion": 3
+            }
+        }
+    }
+}

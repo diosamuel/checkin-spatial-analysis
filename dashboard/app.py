@@ -31,7 +31,7 @@ if "chosenCity" in st.session_state:
     output = st_folium(RenderMap(data, latlong,chosen_city), width=1000, height=500)
 
     # Display popular venues
-    venue_counts = data['venueId'].value_counts().head(5).reset_index()
+    venue_counts = data['venueId'].value_counts().head(10).reset_index()
     venue_counts.columns = ["Venue", "Count"]
     st.header(f"Pilihan Tempat di {chosen_city}")
 
@@ -44,15 +44,15 @@ if "chosenCity" in st.session_state:
                     data = fetchAPI(loc["Venue"])
                     venue_data = data.get("response", {}).get("venue", {})
                     st.subheader(venue_data.get("name", "Unknown"))
-                    st.write(loc["Venue"])
                     address = venue_data.get("location", {}).get("address")
                     if address:
                         st.write(address)
                     st.write(venue_data.get("contact", "No contact info"))
                     st.write(venue_data.get("canonicalUrl", "No URL available"))
-                    if st.button(f"Informasi {venue_data.get('name')} {str(uuid.uuid4())}"):
+                    if st.button(f"Informasi {venue_data.get('name')}"):
                         @st.dialog(f"Informasi {venue_data.get("name")} ")
                         def yapper():
                             st.session_state["selectedVenue"]=loc["Venue"]
-                            WorkHour(st.session_state["selectedVenue"])
+                            st.write(loc["Venue"])
+                            WorkHour(st.session_state["selectedVenue"],chosen_city)
                         yapper()

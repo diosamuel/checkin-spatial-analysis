@@ -1,24 +1,6 @@
 import requests
 import json
 # from bs4 import BeautifulSoup
-# global tempo
-# tempo = 0
-# def fetchAPI(venueId):
-#     global tempo
-#     tempo=tempo+1
-#     print(f"called by {tempo}")
-#     # print(venueId)
-#     # venueId = "42911d00f964a520f5231fe3"
-#     # versioning = "%2020231010"
-#     # oauth_token = "URKT0K1X0DOFMRKYKKYVVPGI1GIWVBRFCTP005RJFH1JKS0C"
-#     # url = f"https://api.foursquare.com/v2/venues/{venueId}/?v={versioning}&oauth_token={oauth_token}"
-#     # headers = {"accept": "application/json"}
-#     # response = requests.get(url, headers=headers)
-#     with open("dataset/venueid.json",'rw') as file:
-#         response = file.read()
-#         return json.loads(response)
-#     # return json.loads(response.text)
-
 # def fetchUser(userId):
 #     API_PATH = f"http://foursquare.com/user/{userId}"
 #     response = requests.get(API_PATH)
@@ -35,7 +17,7 @@ def fetchAPI(venueId):
     # Check if the file already exists in the datasets/ folder
     file_path = f"dataset/{venueId}.json"
     if os.path.exists(file_path):
-        print(f"Data for venue ID {venueId} already exists. Fetch skipped.")
+        # print(f"Data for venue ID {venueId} already exists. Fetch skipped.")
         with open(file_path, "r", encoding="utf-8") as file:
             data = json.load(file)  # Load the JSON data from the file
         return data  # Return the data from the file

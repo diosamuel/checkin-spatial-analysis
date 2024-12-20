@@ -27,13 +27,17 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-def WorkHour(venueId):
+def WorkHour(venueId,city):
     venue = fetchAPI(venueId)
     st.session_state["selectedVenueJSON"] = venue
-    place = NYC[NYC["venueId"] == venueId]
+    if city=="NYC":
+        place = NYC[NYC["venueId"] == venueId]
+    else:
+        place = TKY[TKY["venueId"] == venueId]
     place = place.reset_index()
     place['Day'] = pd.to_datetime(place['utcTimestamp']).dt.day_name()
     daysCount = place["Day"].value_counts().reset_index()
+    print(daysCount)
     fixed_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     fig = px.bar(
         daysCount,
