@@ -16,8 +16,8 @@ with st.sidebar:
     kategori = st.selectbox("Kategori",('Transportasi Umum', 'Tempat Makan', 'Belanja & Hiburan',
        'Tempat Kerja', 'Layanan Publik', 'Wisata',
        'Residental (Perumahan/Privat)'))
-    # if kategori:
-    #     WorkHourCategory(kategori,kota)
+    if kategori:
+        WorkHourCategory(kategori,kota)
     MostVisitedPlace(kota)
 
 # Main section
