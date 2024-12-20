@@ -8,10 +8,10 @@ import plotly.figure_factory as ff
 import pandas as pd
 import plotly.express as px
 from util.fetching import fetchAPI
-NYC = pd.read_csv("dataset/NYC_final.csv")
-TKY = pd.read_csv("dataset/TKY_final.csv")
-# NYC = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/NYC_final.csv")
-# TKY = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/TKY_final.csv")
+# NYC = pd.read_csv("dataset/NYC_final.csv")
+# TKY = pd.read_csv("dataset/TKY_final.csv")
+NYC = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/NYC_final.csv")
+TKY = pd.read_csv("https://raw.githubusercontent.com/diosamuel/checkin-spatial-analysis/refs/heads/main/dataset/TKY_final.csv")
 dataset = {
     "NYC":NYC.sample(1000,random_state=42),
     "TKY":TKY.sample(1000,random_state=42)
