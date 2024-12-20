@@ -1,0 +1,859 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cc200e825f2ad580fd1a"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4a513b17f964a520d2b01fe3",
+            "name": "LIRR - Jamaica Station",
+            "contact": {
+                "phone": "7185231162",
+                "formattedPhone": "(718) 523-1162",
+                "twitter": "lirrdeals4u"
+            },
+            "location": {
+                "address": "Sutphin Blvd & Archer Ave",
+                "crossStreet": "Jamaica Ave",
+                "lat": 40.69949886663386,
+                "lng": -73.8082563149389,
+                "radius50": 72,
+                "radius90": 631,
+                "postalCode": "11435",
+                "cc": "US",
+                "neighborhood": "Jamaica",
+                "city": "Queens",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Sutphin Blvd & Archer Ave (Jamaica Ave)",
+                    "Queens, NY 11435",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/lirr--jamaica-station/4a513b17f964a520d2b01fe3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d129951735",
+                    "name": "Rail Station",
+                    "pluralName": "Rail Stations",
+                    "shortName": "Rail Station",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19047,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 312
+            },
+            "url": "http://www.mta.info/lirr",
+            "likes": {
+                "count": 395,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 395,
+                        "items": []
+                    }
+                ],
+                "summary": "395 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 5.5 out of 10.",
+            "rating": 5.5,
+            "ratingColor": "FF9600",
+            "ratingSignals": 954,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "poor",
+            "deliveryProviders": [
+                {
+                    "id": "7735288",
+                    "url": "https://www.seamless.com/menu/platter-station-106-19-154th-st-jamaica/7735288?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=7735288",
+                    "provider": {
+                        "name": "seamless",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_seamless_20180129.png"
+                        }
+                    }
+                }
+            ],
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 1718,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 1718,
+                        "items": [
+                            {
+                                "id": "58ffd0b767e5f227874cd6c0",
+                                "createdAt": 1493160119,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/1311732_ShWQw2Z3c6UIItk-qSFnsKJMyYnEfb-ylKY4c5QYTRw.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "1311732",
+                                    "firstName": "Jesse",
+                                    "lastName": "Grayman",
+                                    "handle": "kopyor",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "AU",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/OPZ5KRNY3XZWIM23.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "56fdb68c498e991d2512d331",
+                                "createdAt": 1459467916,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/168837281_iRUQe7bxgR8c2LOor56f-ULucFWlY4meTAj_ymtgmyk.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "168837281",
+                                    "firstName": "Oziel",
+                                    "lastName": "Borges",
+                                    "handle": "ozielb7846805",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/168837281-SSQ2O53YN41UMZIN.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "589ba20f005a0f1cef437636",
+                                "createdAt": 1486594575,
+                                "source": {
+                                    "name": "Swarm for Android",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/69565_xLw2DPldnl3h7ALEeQRBA_xexLnrMVpUvC79hXhqpuA.jpg",
+                                "width": 1836,
+                                "height": 3264,
+                                "user": {
+                                    "id": "69565",
+                                    "firstName": "Grace",
+                                    "lastName": "Sotomayor",
+                                    "handle": "gracesotomayor",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "PR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/POCYZE4WOP43HHJP.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "581c7682cb54576c36e5c649",
+                                "createdAt": 1478260354,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/7396179_wNzI4Fi8CClwFbGJZcQyB_Jg0HrpyTCdtbqNahyICh8.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "7396179",
+                                    "firstName": "iChhann",
+                                    "handle": "ichhann",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/7396179-S3SGWXFLSPAKEWJB.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "page": {
+                "pageInfo": {
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://www.mta.info/lirr"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "26322907",
+                    "firstName": "LIRR",
+                    "handle": "lirrdeals4u",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/ZHZTTZLF41XOW0GR.jpg"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 0
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "Long Island, New York",
+                    "bio": "",
+                    "contact": {
+                        "twitter": "lirrdeals4u"
+                    }
+                }
+            },
+            "createdAt": 1246837527,
+            "hereNow": {
+                "count": 1,
+                "summary": "One other person is here",
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Other people here",
+                        "count": 1,
+                        "items": []
+                    }
+                ]
+            },
+            "tips": {
+                "count": 312,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 312,
+                        "items": [
+                            {
+                                "id": "4b7097d170c603bbebcf91b4",
+                                "createdAt": 1265670097,
+                                "text": "Never sit next to the bathrooms on the train.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b7097d170c603bbebcf91b4",
+                                "likes": {
+                                    "count": 83,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 83,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "83 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 20,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "376774",
+                                    "firstName": "Stacy",
+                                    "lastName": "Wilson",
+                                    "handle": "stacyw9149139",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/BTKZZQ1IDXWP3AOF.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4c0ae054bbc676b0d2ae4ad5",
+                                "createdAt": 1275781204,
+                                "text": "This Place Sucks Balls. Really, it does.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c0ae054bbc676b0d2ae4ad5",
+                                "likes": {
+                                    "count": 50,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 50,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "50 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 15,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 2
+                                },
+                                "user": {
+                                    "id": "3172",
+                                    "firstName": "Brett",
+                                    "lastName": "Petersel",
+                                    "handle": "johnh9604012",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/3172_ATCPj2sN_46yBJYY5Wj8gyhOyra6dYHdoqrD5dHybyGel9ew7y223dHnEjHC_xVGADXcHz7sJ.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "meh"
+                            },
+                            {
+                                "id": "4b4f8ab570c603bb656b90b4",
+                                "createdAt": 1263504053,
+                                "text": "Connecting point for the AirTrain to JFK",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b4f8ab570c603bb656b90b4",
+                                "likes": {
+                                    "count": 42,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 42,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "42 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "29412",
+                                    "firstName": "Bill",
+                                    "lastName": "Sobel",
+                                    "handle": "bsobel226",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/FL31P4NGVUJVOYZ0.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4c2571625c5ca5937f8544fe",
+                                "createdAt": 1277522274,
+                                "text": "MIND the Gap",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c2571625c5ca5937f8544fe",
+                                "likes": {
+                                    "count": 36,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 36,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "36 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 3,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "821004",
+                                    "firstName": "Mike",
+                                    "lastName": "Kujanek",
+                                    "handle": "mikekujanek",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/GIZH2BAU21OOBVH0.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/e0XZc",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 67,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 67,
+                        "items": [
+                            {
+                                "id": "4e4eb5c9628441666983e031",
+                                "name": "The 1940s",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "1241858",
+                                    "firstName": "The New York Daily News",
+                                    "handle": "nydailynews",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/3EV01452MGIUWBAQ.jpg"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nydailynews/list/the-1940s",
+                                "canonicalUrl": "https://foursquare.com/nydailynews/list/the-1940s",
+                                "createdAt": 1313781193,
+                                "updatedAt": 1423448000,
+                                "logView": true,
+                                "followers": {
+                                    "count": 116
+                                },
+                                "listItems": {
+                                    "count": 38,
+                                    "items": [
+                                        {
+                                            "id": "t4e5016686365e1419d030bc1",
+                                            "createdAt": 1313781193,
+                                            "tip": {
+                                                "id": "4e5016686365e1419d030bc1",
+                                                "createdAt": 1313871464,
+                                                "text": "PHOTO: With men off at war, the LIRR hired women to work the yards in 1942, at the link!",
+                                                "type": "user",
+                                                "url": "http://nydn.us/pu0cGQ",
+                                                "canonicalUrl": "https://foursquare.com/item/4e5016686365e1419d030bc1",
+                                                "likes": {
+                                                    "count": 17,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 17,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "17 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 17,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 12
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "1241858",
+                                                    "firstName": "The New York Daily News",
+                                                    "handle": "nydailynews",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/3EV01452MGIUWBAQ.jpg"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e4eb5e27d8bd425e485410d",
+                                "name": "Planes, Trains, and Automobiles: NYC Transit",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "1241858",
+                                    "firstName": "The New York Daily News",
+                                    "handle": "nydailynews",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/3EV01452MGIUWBAQ.jpg"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nydailynews/list/planes-trains-and-automobiles-nyc-transit",
+                                "canonicalUrl": "https://foursquare.com/nydailynews/list/planes-trains-and-automobiles-nyc-transit",
+                                "createdAt": 1313781218,
+                                "updatedAt": 1313873412,
+                                "logView": true,
+                                "followers": {
+                                    "count": 85
+                                },
+                                "listItems": {
+                                    "count": 23,
+                                    "items": [
+                                        {
+                                            "id": "t4e5016686365e1419d030bc1",
+                                            "createdAt": 1313781218,
+                                            "tip": {
+                                                "id": "4e5016686365e1419d030bc1",
+                                                "createdAt": 1313871464,
+                                                "text": "PHOTO: With men off at war, the LIRR hired women to work the yards in 1942, at the link!",
+                                                "type": "user",
+                                                "url": "http://nydn.us/pu0cGQ",
+                                                "canonicalUrl": "https://foursquare.com/item/4e5016686365e1419d030bc1",
+                                                "likes": {
+                                                    "count": 17,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 17,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "17 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 17,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 12
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "1241858",
+                                                    "firstName": "The New York Daily News",
+                                                    "handle": "nydailynews",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/3EV01452MGIUWBAQ.jpg"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "tickets",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    9,
+                                    16
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Buy your tickets ahead of time. They have closed the Windows..."
+                    },
+                    "count": 31
+                },
+                {
+                    "phrase": "watching the gap",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    23,
+                                    39
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... the gap instead of watching the gap...."
+                    },
+                    "count": 7
+                },
+                {
+                    "phrase": "transfers",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    34
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... time to kill between transfers, the AirTrain entrance upstairs is the best..."
+                    },
+                    "count": 15
+                }
+            ],
+            "hours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "2:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "10:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Wed",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "3:00 PM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. American Express)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "58ffd0b767e5f227874cd6c0",
+                "createdAt": 1493160119,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/1311732_ShWQw2Z3c6UIItk-qSFnsKJMyYnEfb-ylKY4c5QYTRw.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+            }
+        }
+    }
+}

@@ -3,10 +3,32 @@ from folium.plugins import Draw
 from streamlit_folium import st_folium
 import folium
 import geopandas as gpd
-def RenderMap(data,latlong):
+def RenderMap(data,latlong,city):
     m = folium.Map(location=[data.iloc[0]["latitude"],data.iloc[0]["longitude"]], zoom_start=10)
-    borough = gpd.read_file('dataset/Borough Boundaries.geojson')
+    folium.raster_layers.TileLayer(
+        tiles="https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}",
+        attr="Esri Oceans Basemap",
+        name="Esri Oceans",
+        control=True
+    ).add_to(m)
+    if city=="NYC":
+        folium.raster_layers.TileLayer(
+            tiles="https://tiles.arcgis.com/tiles/4yjifSiIG17X0gW4/arcgis/rest/services/NewYorkCity_PopDensity/MapServer/tile/{z}/{y}/{x}",
+            attr="New York Density",
+            name="NY Density",
+            overlay=True,
+            control=True
+        ).add_to(m)
+    else:
+        folium.raster_layers.TileLayer(
+            tiles="https://tiles.arcgis.com/tiles/4yjifSiIG17X0gW4/arcgis/rest/services/Tokyo_PopDensity/MapServer/tile/{z}/{y}/{x}",
+            attr="Tokyo Density",
+            name="Tokyo Density",
+            overlay=True,
+            control=True
+        ).add_to(m)
+    # borough = gpd.read_file('dataset/Borough Boundaries.geojson')
     HeatMap(latlong).add_to(m)
     # Draw().add_to(m)
-    folium.GeoJson(borough).add_to(m)
+    # folium.GeoJson(borough).add_to(m)
     return m

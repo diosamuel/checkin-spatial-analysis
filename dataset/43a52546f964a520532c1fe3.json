@@ -1,0 +1,886 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cc2664ee2e6a15edf6de"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "43a52546f964a520532c1fe3",
+            "name": "John F. Kennedy International Airport (JFK)",
+            "contact": {
+                "phone": "7182444444",
+                "formattedPhone": "(718) 244-4444",
+                "twitter": "jfkairport",
+                "instagram": "jfkairport",
+                "facebook": "102286653195916",
+                "facebookName": "John F.Kennedy International Airport"
+            },
+            "location": {
+                "address": "JFK Expy",
+                "crossStreet": "Van Wyck Expy",
+                "lat": 40.645121918369526,
+                "lng": -73.78460884094238,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.645121918369526,
+                        "lng": -73.78460884094238
+                    }
+                ],
+                "radius50": 664,
+                "radius90": 2638,
+                "postalCode": "11430",
+                "cc": "US",
+                "neighborhood": "Jamai",
+                "city": "Queens",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "JFK Expy (Van Wyck Expy)",
+                    "Queens, NY 11430",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/johnf.ke2992483",
+            "categories": [
+                {
+                    "id": "63be6904847c3692a84b9c29",
+                    "name": "International Airport",
+                    "pluralName": "International Airports",
+                    "shortName": "International Airport",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19040,
+                    "mapIcon": "fsq-travel",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 3384
+            },
+            "url": "https://www.jfkairport.com",
+            "likes": {
+                "count": 12500,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 12500,
+                        "items": []
+                    }
+                ],
+                "summary": "12500 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 6.4 out of 10.",
+            "rating": 6.4,
+            "ratingColor": "FFC800",
+            "ratingSignals": 21538,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "poor",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 39016,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 39016,
+                        "items": [
+                            {
+                                "id": "5e322b0071522f0008e87d3a",
+                                "createdAt": 1580346112,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/2461439_YyLU6F05X55gochWCYaYFFkkt8_0mbJ5YUftbyg9m2M.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "2461439",
+                                    "firstName": "Gil",
+                                    "lastName": "Fonseca",
+                                    "handle": "fonsecagil",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "BR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/BSL03KMZX4IXUXN1.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "58a888088ae363643ff06f0e",
+                                "createdAt": 1487439880,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/19021203_1uBxrz8zC0Lz0Tk_PjL47DAZXGqi2BUnyr9Gf5ASnSs.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "19021203",
+                                    "firstName": "Sam",
+                                    "lastName": "S",
+                                    "handle": "samuelsidler",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "CA",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/19021203-RBVBFTUVVSEC1KOL.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "611fe586bbfda2223f491c1c",
+                                "createdAt": 1629480326,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/499311590_so4Frewa0Ov1uX8GnMzY3CM52pvkgPgzvp-YLJYHSKU.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "499311590",
+                                    "firstName": "Bandar",
+                                    "handle": "bander337",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "SA",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/499311590_XIFiVkZG_n-Cg_z7JIcYLRSUrMyCwnZhzGGoNjg6bLhktDF1Zlh64MCU_6UEr23ZAjlF3Ctp4.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "590cf0d50d2be707b9bfffab",
+                                "createdAt": 1494020309,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/543061_a3POTu-YTqedmNvwZtt631Lv4qIivn1xmbnVRCEn9qM.jpg",
+                                "width": 1920,
+                                "height": 1400,
+                                "user": {
+                                    "id": "543061",
+                                    "firstName": "Jeff",
+                                    "lastName": "Savage",
+                                    "handle": "jeffthesavage",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/FYKMTNOS23ML3P51.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venuePage": {
+                "id": "63652169"
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "John F. Kennedy International Airport is the primary international airport serving New York City. It is the busiest international air passenger gateway into North America, the 14th-busiest airport in the world, and the sixth-busiest airport in the United States.",
+            "page": {
+                "user": {
+                    "id": "63652169",
+                    "firstName": "John F. Kennedy International Airport (JFK)",
+                    "handle": "johnf.ke2992483",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/63652169-TAFVZWWMZWE53ZFE.png"
+                    },
+                    "type": "venuePage",
+                    "venue": {
+                        "id": "43a52546f964a520532c1fe3"
+                    },
+                    "tips": {
+                        "count": 0
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "Jamaica, NY",
+                    "bio": "",
+                    "contact": {
+                        "facebook": "102286653195916"
+                    }
+                }
+            },
+            "createdAt": 1134896454,
+            "hereNow": {
+                "count": 22,
+                "summary": "22 people are here",
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Other people here",
+                        "count": 22,
+                        "items": []
+                    }
+                ]
+            },
+            "tips": {
+                "count": 3384,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 3384,
+                        "items": [
+                            {
+                                "id": "50894d3ee4b0560f31e36275",
+                                "createdAt": 1351175486,
+                                "text": "Need some rest from New York\u2019s skyscrapers? Go visit \u201cThe High Line\u201d in Chelsea! This public park built on a defunct railway that runs 30 feet above Manhattan really is extraordinary and relaxing.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/50894d3ee4b0560f31e36275",
+                                "photo": {
+                                    "id": "50894d458055ca989fc5174b",
+                                    "createdAt": 1351175493,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/2960181_VTDmHdvEfQvZ8PjQHttt8CNUZ9t9ZjQLIXCImJNzGuY.jpg",
+                                    "width": 2312,
+                                    "height": 1526,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "50894d458055ca989fc5174b",
+                                        "createdAt": 1351175493,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/2960181_VTDmHdvEfQvZ8PjQHttt8CNUZ9t9ZjQLIXCImJNzGuY.jpg",
+                                        "width": 2312,
+                                        "height": 1526,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/2960181_VTDmHdvEfQvZ8PjQHttt8CNUZ9t9ZjQLIXCImJNzGuY.jpg",
+                                "likes": {
+                                    "count": 507,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 507,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "507 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 1327,
+                                "disagreeCount": 0,
+                                "lastVoteText": "Upvoted 9 hours ago",
+                                "lastUpvoteTimestamp": 1734692163,
+                                "todo": {
+                                    "count": 42
+                                },
+                                "user": {
+                                    "id": "2960181",
+                                    "firstName": "Lufthansa",
+                                    "handle": "lufthansa",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "AT",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/2960181-AFBGXPTOKORED1IO.png"
+                                    },
+                                    "type": "chain"
+                                }
+                            },
+                            {
+                                "id": "4b58ca7470c603bbd79190b4",
+                                "createdAt": 1264110196,
+                                "text": "Airtrain it back to Manhattan if you're travelling solo. It takes an hour and it's only $7 compared to a $50 cab where you can get stuck in traffic. Just follow the signs.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b58ca7470c603bbd79190b4",
+                                "photo": {
+                                    "id": "50d35c9b582fb84ddb232d3b",
+                                    "createdAt": 1356029083,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/61_cQerGNrcsHjcBvacA6icQoLa45C01p_RbrqrPMFt9dU.png",
+                                    "width": 577,
+                                    "height": 442,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "50d35c9b582fb84ddb232d3b",
+                                        "createdAt": 1356029083,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/61_cQerGNrcsHjcBvacA6icQoLa45C01p_RbrqrPMFt9dU.png",
+                                        "width": 577,
+                                        "height": 442,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/61_cQerGNrcsHjcBvacA6icQoLa45C01p_RbrqrPMFt9dU.png",
+                                "likes": {
+                                    "count": 446,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 446,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "446 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "editedAt": 1356029133,
+                                "agreeCount": 438,
+                                "disagreeCount": 1,
+                                "todo": {
+                                    "count": 89
+                                },
+                                "user": {
+                                    "id": "61",
+                                    "firstName": "J Crowley",
+                                    "handle": "jcro",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "CA",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/61_Sz6d0TJQ_9rZekrhpzA_0Ukd3QuGeMG6B2rPst4EM0MWh_XyKenKcLpxBzdNUvXoy3ytmX-bV.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4cbcb6d34c60a093e1e752ca",
+                                "createdAt": 1287435987,
+                                "text": "Don't forget you son Kevin at home. He'll most likely have to fend off burglars on his own.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4cbcb6d34c60a093e1e752ca",
+                                "likes": {
+                                    "count": 314,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 314,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "314 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 307,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 16
+                                },
+                                "user": {
+                                    "id": "723678",
+                                    "firstName": "Shawn",
+                                    "lastName": "Bertrand",
+                                    "handle": "shawnb2300443",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/PSF43QRKPI1QO0XG.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4b821eb670c603bb3dcd92b4",
+                                "createdAt": 1266818742,
+                                "text": "Oh you checked a bag? Chances are you're probably reading this while you wait 5 hours for it. Stab yourself now.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b821eb670c603bb3dcd92b4",
+                                "likes": {
+                                    "count": 270,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 270,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "270 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 265,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 28
+                                },
+                                "user": {
+                                    "id": "6197",
+                                    "firstName": "Justine \ue022",
+                                    "lastName": "Ezarik",
+                                    "handle": "ezarik9997048",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/6197-F333L1F1REENBBZQ.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/4sRHfO",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 1882,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 1882,
+                        "items": [
+                            {
+                                "id": "51a28777498efb00e02126ac",
+                                "name": "Findistanbul.com",
+                                "description": "Just Find Istanbul",
+                                "type": "others",
+                                "user": {
+                                    "id": "57337461",
+                                    "firstName": "Findistanbul",
+                                    "handle": "findistanbul",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/CRWRQJBRMZJJJPVU.jpg"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/findistanbul/list/findistanbulcom",
+                                "canonicalUrl": "https://foursquare.com/findistanbul/list/findistanbulcom",
+                                "createdAt": 1369606007,
+                                "updatedAt": 1405096997,
+                                "photo": {
+                                    "id": "51965fa8e4b078faa2da5525",
+                                    "createdAt": 1368809384,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/31993_twcyVMlQJiczySqITouoIw4JSmBd7SUDJRYAIuWO264.jpg",
+                                    "width": 612,
+                                    "height": 612,
+                                    "user": {
+                                        "id": "31993",
+                                        "firstName": "Gijsbregt",
+                                        "lastName": "Brouwer",
+                                        "handle": "gijsbregt",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "address": "",
+                                        "city": "",
+                                        "state": "",
+                                        "countryCode": "NL",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/31993-2JWUWWSFFKNWCBCC.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 2753
+                                },
+                                "listItems": {
+                                    "count": 74,
+                                    "items": [
+                                        {
+                                            "id": "v43a52546f964a520532c1fe3",
+                                            "createdAt": 1377261406
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e79761545dd919c6127b618",
+                                "name": "Airports in US, Canada, Mexico and South America",
+                                "description": "Airport in Nortth and South America",
+                                "type": "others",
+                                "user": {
+                                    "id": "12100135",
+                                    "firstName": "Hiro A",
+                                    "lastName": "H R",
+                                    "handle": "arthurrussell",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/12100135-YTANKZDGZOPHBSTB.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": true,
+                                "url": "/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "canonicalUrl": "https://foursquare.com/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "createdAt": 1316582933,
+                                "updatedAt": 1537626554,
+                                "photo": {
+                                    "id": "4e84bba6b8f7fa1afc191e0a",
+                                    "createdAt": 1317321638,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/ERSP3UH2STFLZCH5ATDDKKK20C5JR2FBHFIVXDBDSJ1VPQTN.jpg",
+                                    "width": 720,
+                                    "height": 402,
+                                    "user": {
+                                        "id": "1176147",
+                                        "firstName": "Larry",
+                                        "lastName": "Fretz",
+                                        "handle": "larryfretz",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/5LV1JEWVY3R0AZWZ.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 1094
+                                },
+                                "listItems": {
+                                    "count": 200,
+                                    "items": [
+                                        {
+                                            "id": "t4cfd1c44a9042c0f2356e30a",
+                                            "createdAt": 1320075584,
+                                            "tip": {
+                                                "id": "4cfd1c44a9042c0f2356e30a",
+                                                "createdAt": 1291656260,
+                                                "text": "Next time you are traveling to and from New York City, go the \"Green\" way and use the subway and connect with the Airtrain. It only cost 5 dollars to use the Airtrain to/from Howard Beach or Sutphin s",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4cfd1c44a9042c0f2356e30a",
+                                                "likes": {
+                                                    "count": 82,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 82,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "82 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 82,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 33
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "2928225",
+                                                    "firstName": "SkyMall",
+                                                    "handle": "skymall",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/SNZOC5VK5QVXN3M4.jpg"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "4e7612b3b993a71aa4283965",
+                                                "createdAt": 1316360883,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/RIHNO4VLUPGPOXN4SU1LTFGQHHMAATJMWZV5T001QAMUICPI.jpg",
+                                                "width": 540,
+                                                "height": 720,
+                                                "user": {
+                                                    "id": "13689056",
+                                                    "firstName": "Jin",
+                                                    "lastName": "Lee",
+                                                    "handle": "jinl1249624",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/XLWWCZCJWYM5RM4N.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "terminal 4",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    10
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Terminal 4 finally has some decent eats--Marcus..."
+                    },
+                    "count": 124
+                },
+                {
+                    "phrase": "delta terminal",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    24,
+                                    38
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... Shake shacks in the Delta terminal. Skip the first one you see. The one..."
+                    },
+                    "count": 48
+                },
+                {
+                    "phrase": "airtrain",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    23,
+                                    31
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... 4. If needed, take AirTrain for free to other terminals. You're..."
+                    },
+                    "count": 71
+                }
+            ],
+            "hours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Free & Paid Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Free & Paid"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "touchTunes",
+                        "name": "TouchTunes Jukebox",
+                        "summary": "Yes",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "No",
+                                "displayValue": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "5e322b0071522f0008e87d3a",
+                "createdAt": 1580346112,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/2461439_YyLU6F05X55gochWCYaYFFkkt8_0mbJ5YUftbyg9m2M.jpg",
+                "width": 1920,
+                "height": 1440,
+                "visibility": "public"
+            }
+        }
+    }
+}

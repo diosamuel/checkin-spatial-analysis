@@ -84,7 +84,7 @@ def MostVisitedPlace(city):
         data = TKY["venueId"].value_counts().head(10).sort_values(ascending=True).reset_index()
     data.columns = ["venueId", "count"]
     def fetchId(venueId):
-        ambil=fetchAPI(venueId) 
+        ambil=fetchAPI(venueId)
         return ambil["response"]["venue"]["name"]
     data["venueName"] = data["venueId"].apply(fetchId)
     df = data

@@ -1,0 +1,843 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cc237f36f55a78fb6eba"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4ace6c89f964a52078d020e3",
+            "name": "LaGuardia Airport (LGA)",
+            "contact": {
+                "phone": "7185333400",
+                "formattedPhone": "(718) 533-3400",
+                "twitter": "lgaairport",
+                "instagram": "lgaairport",
+                "facebook": "624430744339535",
+                "facebookUsername": "LGAairport",
+                "facebookName": "LaGuardia Airport"
+            },
+            "location": {
+                "address": "Grand Central Pkwy",
+                "lat": 40.77288813003166,
+                "lng": -73.86880874633789,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.77288813003166,
+                        "lng": -73.86880874633789
+                    }
+                ],
+                "radius50": 573,
+                "radius90": 1327,
+                "postalCode": "11369",
+                "cc": "US",
+                "city": "Queens",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Grand Central Pkwy",
+                    "Queens, NY 11369",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/laguardi1789200",
+            "categories": [
+                {
+                    "id": "63be6904847c3692a84b9c29",
+                    "name": "International Airport",
+                    "pluralName": "International Airports",
+                    "shortName": "International Airport",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19040,
+                    "mapIcon": "fsq-travel",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 2587
+            },
+            "url": "https://laguardiaairport.com",
+            "hasMenu": true,
+            "likes": {
+                "count": 4218,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 4218,
+                        "items": []
+                    }
+                ],
+                "summary": "4218 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 4.9 out of 10.",
+            "rating": 4.9,
+            "ratingColor": "FF6701",
+            "ratingSignals": 11231,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "poor",
+            "menu": {
+                "type": "Prices",
+                "label": "Prices",
+                "anchor": "View Prices",
+                "url": "https://foursquare.com/laguardi1789200/menu",
+                "mobileUrl": "https://foursquare.com/v/4ace6c89f964a52078d020e3/device_menu"
+            },
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 20934,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 20934,
+                        "items": [
+                            {
+                                "id": "60a91506d2310a5f1619ddca",
+                                "createdAt": 1621693702,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/13708620_r-hzAguljl3IQHjU6TgBR5Icqbr5RshaOep2FKFynIM.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "13708620",
+                                    "firstName": "Kimmie",
+                                    "lastName": "Ohh",
+                                    "handle": "kimmieo7188285",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/13708620_Ack0oGof_0IVzllt83nG4jMC7bEmP9XqHPfVbiEsVAOwaUtXXte6uwOiBaxlY4pvPYzoSFeYt.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "556529c1498e9fada63c8fc2",
+                                "createdAt": 1432693185,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/32416174_PY26FTEiqoRzrUJBRKdxCyyoKqfqHSxIDyM6o8jlVeg.jpg",
+                                "width": 1440,
+                                "height": 1858,
+                                "user": {
+                                    "id": "32416174",
+                                    "firstName": "Michel",
+                                    "lastName": "Mtz. D.",
+                                    "handle": "michelmtzd",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "MX",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/32416174-2NSFZXVPVELJECDK.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "55d1c99d498e1aafc4850c26",
+                                "createdAt": 1439811997,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/38788404_kZOwEKMOg4ny9EYU46b8JfPu7MbeEcvPB1loHk3S1Pw.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "38788404",
+                                    "firstName": "Andrew",
+                                    "lastName": "Tsai",
+                                    "handle": "andrewt5936897",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/OPEIRXJIQ2DUSAZ4.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "578ce519498eb48f0dcf04a1",
+                                "createdAt": 1468851481,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/1003750_hLO9TiKHOv2BqDxKscip3_bbtx35ifRImZDEAuf-WRc.jpg",
+                                "width": 1440,
+                                "height": 1440,
+                                "user": {
+                                    "id": "1003750",
+                                    "firstName": "Gianna",
+                                    "lastName": "Alvino",
+                                    "handle": "run_lift_repeat",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/1003750-OUSGZLCJRITOHYVW.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venuePage": {
+                "id": "72484665"
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "LaGuardia is the busiest airport in the United States without any non-stop service to and from Europe.",
+            "page": {
+                "user": {
+                    "id": "72484665",
+                    "firstName": "LaGuardia Airport (LGA)",
+                    "handle": "laguardi1789200",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/72484665-5SXIKI0N4JYOWROU.png"
+                    },
+                    "type": "venuePage",
+                    "venue": {
+                        "id": "4ace6c89f964a52078d020e3"
+                    },
+                    "tips": {
+                        "count": 14
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "East Elmhurst, NY",
+                    "bio": "",
+                    "contact": {
+                        "facebook": "624430744339535"
+                    }
+                }
+            },
+            "createdAt": 1255042185,
+            "hereNow": {
+                "count": 23,
+                "summary": "23 people are here",
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Other people here",
+                        "count": 23,
+                        "items": []
+                    }
+                ]
+            },
+            "tips": {
+                "count": 2587,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 2587,
+                        "items": [
+                            {
+                                "id": "4c4deb20fa9d95216a802c0a",
+                                "createdAt": 1280174880,
+                                "text": "If you plan to be gone more than a few days, set an automatic timer to turn your lights on and off five times a second while pulsating techno music plays.",
+                                "type": "user",
+                                "url": "http://www.theonion.com/articles/planning-a-family-vacation,8070/",
+                                "canonicalUrl": "https://foursquare.com/item/4c4deb20fa9d95216a802c0a",
+                                "likes": {
+                                    "count": 729,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 729,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "729 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 722,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 295
+                                },
+                                "user": {
+                                    "id": "347482",
+                                    "firstName": "The Onion",
+                                    "handle": "theonion",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/ELQ03J5ID3ANTZUG.png"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4d135661b64da090e13a35e7",
+                                "createdAt": 1293112929,
+                                "text": "There's a special place in hell for airports who don't provide free Wi-fi.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d135661b64da090e13a35e7",
+                                "likes": {
+                                    "count": 189,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 189,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "189 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 188,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 4
+                                },
+                                "user": {
+                                    "id": "20903",
+                                    "firstName": "Ben",
+                                    "lastName": "Breier",
+                                    "handle": "misterdisco",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/20903-35LSW4TOJFFUFDMD.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4c94eb8d533aa093b9cfc345",
+                                "createdAt": 1284828045,
+                                "text": "Don't come here hungover. Gah! There's no good food unless you feel like throwing up an Auntie Anne's pretzel hotdog.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c94eb8d533aa093b9cfc345",
+                                "likes": {
+                                    "count": 141,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 141,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "141 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 82,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 3
+                                },
+                                "user": {
+                                    "id": "3231796",
+                                    "firstName": "Margaret",
+                                    "lastName": "Peppey",
+                                    "handle": "margarep5142494",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/E3EF1JLJORUXWFVL.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4c4e5da2c1f5ef3b5a562aab",
+                                "createdAt": 1280204194,
+                                "text": "As Kevin McCallister sits at Laguardia Airport in 1990's \"Home Alone 2\", he looks out at New York City and realizes that being separated from his family might not be such a bad thing after all.",
+                                "type": "user",
+                                "url": "http://www.netflix.com/Movie/Home_Alone_2_Lost_in_New_York/596983",
+                                "canonicalUrl": "https://foursquare.com/item/4c4e5da2c1f5ef3b5a562aab",
+                                "likes": {
+                                    "count": 123,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 123,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "123 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 118,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 11
+                                },
+                                "user": {
+                                    "id": "1911245",
+                                    "firstName": "Movie Mayor",
+                                    "handle": "moviemay2099372",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/3UNZO5W4VYVL05AK.jpg"
+                                    },
+                                    "type": "page"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/21nwnw",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 997,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 997,
+                        "items": [
+                            {
+                                "id": "4e79761545dd919c6127b618",
+                                "name": "Airports in US, Canada, Mexico and South America",
+                                "description": "Airport in Nortth and South America",
+                                "type": "others",
+                                "user": {
+                                    "id": "12100135",
+                                    "firstName": "Hiro A",
+                                    "lastName": "H R",
+                                    "handle": "arthurrussell",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/12100135-YTANKZDGZOPHBSTB.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": true,
+                                "url": "/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "canonicalUrl": "https://foursquare.com/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "createdAt": 1316582933,
+                                "updatedAt": 1537626554,
+                                "photo": {
+                                    "id": "4e84bba6b8f7fa1afc191e0a",
+                                    "createdAt": 1317321638,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/ERSP3UH2STFLZCH5ATDDKKK20C5JR2FBHFIVXDBDSJ1VPQTN.jpg",
+                                    "width": 720,
+                                    "height": 402,
+                                    "user": {
+                                        "id": "1176147",
+                                        "firstName": "Larry",
+                                        "lastName": "Fretz",
+                                        "handle": "larryfretz",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/5LV1JEWVY3R0AZWZ.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 1094
+                                },
+                                "listItems": {
+                                    "count": 200,
+                                    "items": [
+                                        {
+                                            "id": "t4d07c8f24dfb59411631b0c8",
+                                            "createdAt": 1320075808,
+                                            "tip": {
+                                                "id": "4d07c8f24dfb59411631b0c8",
+                                                "createdAt": 1292355826,
+                                                "text": "Would you like to try Obama's favorite burger when your traveling thru NY's LGA Airport? Go to Five Guy's Burgers and Fries in the central terminal before security at the American Airlines gates.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4d07c8f24dfb59411631b0c8",
+                                                "likes": {
+                                                    "count": 47,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 47,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "47 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 47,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 26
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "2928225",
+                                                    "firstName": "SkyMall",
+                                                    "handle": "skymall",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/SNZOC5VK5QVXN3M4.jpg"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "4e854e219a52340cbca0df9f",
+                                                "createdAt": 1317359137,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/WFDU4UKJZQZEUJVUKYU2DMS3AUXGFLDNCD0EZKPYWD54RGOY.jpg",
+                                                "width": 720,
+                                                "height": 540,
+                                                "user": {
+                                                    "id": "12100135",
+                                                    "firstName": "Hiro A",
+                                                    "lastName": "H R",
+                                                    "handle": "arthurrussell",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "JP",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/12100135-YTANKZDGZOPHBSTB.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e4dd5007d8bd425e479f729",
+                                "name": "World Airports",
+                                "description": "I'll get to them all someday.",
+                                "type": "others",
+                                "user": {
+                                    "id": "451703",
+                                    "firstName": "Christopher",
+                                    "lastName": "Bailey",
+                                    "handle": "baileybytes",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "CA",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/TZRWRX0O24HQUQFK.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": true,
+                                "url": "/baileybytes/list/world-airports",
+                                "canonicalUrl": "https://foursquare.com/baileybytes/list/world-airports",
+                                "createdAt": 1313723648,
+                                "updatedAt": 1541716930,
+                                "photo": {
+                                    "id": "4e823217cc2194458aa0a7b8",
+                                    "createdAt": 1317155351,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/YBXG2MUL3L2QJOADJD4FNZXXWB2QCF1ZTSKOEPUEPJ1FDYBR.jpg",
+                                    "width": 460,
+                                    "height": 345,
+                                    "user": {
+                                        "id": "311947",
+                                        "firstName": "Arjan",
+                                        "lastName": "Timmermans",
+                                        "handle": "arjant5945144",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "address": "",
+                                        "city": "",
+                                        "state": "",
+                                        "countryCode": "NL",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/311947_0ElJ0Be0_QPXMu5blxnTv8Jh-p_MCisfIh4-U154yxiA-t27r-Xh6i1qt9vJfIfLnuOo4NBhI.jpg"
+                                        }
+                                    },
+                                    "visibility": "friends"
+                                },
+                                "followers": {
+                                    "count": 1015
+                                },
+                                "listItems": {
+                                    "count": 200,
+                                    "items": [
+                                        {
+                                            "id": "v4ace6c89f964a52078d020e3",
+                                            "createdAt": 1317177042,
+                                            "photo": {
+                                                "id": "4e81e5e49a52b990a9e93c02",
+                                                "createdAt": 1317135844,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/ALTB15LTLAGSCSKYVBVQKUCXUZ4O0XYEF2GKLVFEJF5RVK1Q.jpg",
+                                                "width": 720,
+                                                "height": 540,
+                                                "user": {
+                                                    "id": "6298075",
+                                                    "firstName": "Tateru",
+                                                    "lastName": "Miyakubo",
+                                                    "handle": "taterum2076839",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "JP",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/VJN4CJ0LJMU1VKCK.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "delta terminal",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    40
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... Food court in US Air/ Delta terminal C is fantastic. Good pizza, great salad..."
+                    },
+                    "count": 79
+                },
+                {
+                    "phrase": "terminal c",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    10
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Terminal C has a Artichoke Pizza. Get your fix before..."
+                    },
+                    "count": 75
+                },
+                {
+                    "phrase": "terminal b",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    16,
+                                    26
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "The new part of terminal B is crazy nice."
+                    },
+                    "count": 75
+                }
+            ],
+            "hours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Paid Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Paid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "60a91506d2310a5f1619ddca",
+                "createdAt": 1621693702,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/13708620_r-hzAguljl3IQHjU6TgBR5Icqbr5RshaOep2FKFynIM.jpg",
+                "width": 1920,
+                "height": 1440,
+                "visibility": "public"
+            }
+        }
+    }
+}

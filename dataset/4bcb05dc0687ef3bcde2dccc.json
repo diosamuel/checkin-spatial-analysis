@@ -1,0 +1,937 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cca67f36f55a78fde84b"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4bcb05dc0687ef3bcde2dccc",
+            "name": "MTA Subway - Kings Highway (B/Q)",
+            "contact": {
+                "phone": "7183301234",
+                "formattedPhone": "(718) 330-1234",
+                "twitter": "nyctsubway",
+                "instagram": "mtanyctransit",
+                "facebook": "232635164606",
+                "facebookUsername": "MTANewYorkCityTransit",
+                "facebookName": "MTA New York City Transit"
+            },
+            "location": {
+                "address": "E 16th St. & Kings Hwy.",
+                "crossStreet": "at E 16th St",
+                "lat": 40.608719461253244,
+                "lng": -73.95772397518157,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.608719461253244,
+                        "lng": -73.95772397518157
+                    }
+                ],
+                "radius50": 33,
+                "radius90": 626,
+                "postalCode": "11229",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "E 16th St. & Kings Hwy. (at E 16th St)",
+                    "Brooklyn, NY 11229",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/mta-subway--kings-highway-bq/4bcb05dc0687ef3bcde2dccc",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fd931735",
+                    "name": "Metro Station",
+                    "pluralName": "Metro Stations",
+                    "shortName": "Metro",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/subway_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19046,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 18
+            },
+            "url": "http://www.mta.info",
+            "likes": {
+                "count": 39,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 39,
+                        "items": []
+                    }
+                ],
+                "summary": "39 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+            "venueRatingBlacklisted": true,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 228,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 228,
+                        "items": [
+                            {
+                                "id": "65dbc4fd8e9f8568c189b9cf",
+                                "createdAt": 1708901629,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/73263291_0MWJk1aMc2taZhq_m4O5XA0c70KCRs3FRtd52jPT3g4.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "73263291",
+                                    "firstName": "\u2667\u2606Al",
+                                    "lastName": "Ev\u2606\u2667",
+                                    "handle": "user73263291",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/73263291_GTQPEXO4_iE0kI0qnFwvLqTU1NScAZoETGpDjKeXGkSwa7XxnhHk6_OrRTevXR8W6wenNQyNw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "65bff5b511770b29b536ff79",
+                                "createdAt": 1707079093,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/73263291_CPV3R6V4pcIyH32Gk_FxQ9vZ0l7CRKxpvVYYBkgagMc.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "73263291",
+                                    "firstName": "\u2667\u2606Al",
+                                    "lastName": "Ev\u2606\u2667",
+                                    "handle": "user73263291",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/73263291_GTQPEXO4_iE0kI0qnFwvLqTU1NScAZoETGpDjKeXGkSwa7XxnhHk6_OrRTevXR8W6wenNQyNw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "657a47b123659f36fbc609cd",
+                                "createdAt": 1702512561,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/73263291_igvIP_nOp5iVKXeeimX-WWmNGGOOs6LMIfIrgtyk6sY.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "73263291",
+                                    "firstName": "\u2667\u2606Al",
+                                    "lastName": "Ev\u2606\u2667",
+                                    "handle": "user73263291",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/73263291_GTQPEXO4_iE0kI0qnFwvLqTU1NScAZoETGpDjKeXGkSwa7XxnhHk6_OrRTevXR8W6wenNQyNw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "6503742285257e3c6612edd7",
+                                "createdAt": 1694725154,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/73263291_FC9WCOkCTL3fcZZv1vvCGYPQo10PYF7zb5DDDMo3yJk.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "73263291",
+                                    "firstName": "\u2667\u2606Al",
+                                    "lastName": "Ev\u2606\u2667",
+                                    "handle": "user73263291",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/73263291_GTQPEXO4_iE0kI0qnFwvLqTU1NScAZoETGpDjKeXGkSwa7XxnhHk6_OrRTevXR8W6wenNQyNw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "createdAt": 1271596508,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 18,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 18,
+                        "items": [
+                            {
+                                "id": "4d8fa8b51716a143373d50f7",
+                                "createdAt": 1301260469,
+                                "text": "Never hurts to smile. Wake da fuck up New York. I know its 5 am but so what :)",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d8fa8b51716a143373d50f7",
+                                "likes": {
+                                    "count": 3,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 3,
+                                            "items": [
+                                                {
+                                                    "id": "4950263",
+                                                    "firstName": "Melissa",
+                                                    "lastName": "Polk",
+                                                    "handle": "mangoiissa",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/4950263-5XVHI1PG3VGC1B2H.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "10741362",
+                                                    "firstName": "Krystal",
+                                                    "lastName": "Loh",
+                                                    "handle": "pseudomachine",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1CJFYZ04QL5T01YY.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "1385236",
+                                                    "firstName": "Sammi",
+                                                    "lastName": "Lim",
+                                                    "handle": "ilikeloofahs",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "MY",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1385236-UQIV3XBSGZPS4XLP.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "3 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 3,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "3942139",
+                                    "firstName": "Artur",
+                                    "lastName": "Bronshteyn",
+                                    "handle": "prvtking",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/RKQ1RXK3SD03MUEM.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4f5a05d3e4b08b52a6cdf144",
+                                "createdAt": 1331299795,
+                                "text": "How about not literally SHOVING me out of the way to get on the damn train first? A fight waiting to happen.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f5a05d3e4b08b52a6cdf144",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 2,
+                                            "items": [
+                                                {
+                                                    "id": "12901651",
+                                                    "firstName": "Steven M.",
+                                                    "lastName": "Sorken",
+                                                    "handle": "stevenms1716613",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/0O0KJRSFIZ3R5BV0.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "1378945",
+                                                    "firstName": "Dontr\u00e9",
+                                                    "lastName": "Conerly",
+                                                    "handle": "dontreconerly",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1378945-N1EFUZC5HSEYHYXF.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "2 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "10741362",
+                                    "firstName": "Krystal",
+                                    "lastName": "Loh",
+                                    "handle": "pseudomachine",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/1CJFYZ04QL5T01YY.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4c1a97d555e4c9b687fe4723",
+                                "createdAt": 1276811221,
+                                "text": "Do not indulge the bums!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c1a97d555e4c9b687fe4723",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 2,
+                                            "items": [
+                                                {
+                                                    "id": "760350",
+                                                    "firstName": "George",
+                                                    "lastName": "Godik",
+                                                    "handle": "ggodik",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/760350_eiDHVHuf_CDY-QDyHN060go0wVVeGPF3YXaihElFt-bcWQKQ1OrYn_DVR25yrR1OF52dUg_Vc.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "9814380",
+                                                    "firstName": "Solomon",
+                                                    "lastName": "Boukai",
+                                                    "handle": "shlomoboukai",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/RILORKENPCD52EZR.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "2 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "1074472",
+                                    "firstName": "Baboon",
+                                    "lastName": "Cry more",
+                                    "handle": "arthurvee",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/1074472_3ySOShzS_BakQigm9kCPyWyNIhEa7raQgCWseG-DSrRmUjeVM5TNWWWLJ6hUpYZM35XhSoeAB.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "5290a2d211d2556bc7ef43ed",
+                                "createdAt": 1385210578,
+                                "text": "B train is better than q train",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5290a2d211d2556bc7ef43ed",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 1,
+                                            "items": [
+                                                {
+                                                    "id": "47427383",
+                                                    "firstName": "Valeriya",
+                                                    "lastName": "Sholokhova",
+                                                    "handle": "valeriys4158516",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/K2HPZOZJ1ALRMBGT.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "1 like"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "32839209",
+                                    "firstName": "Stella",
+                                    "lastName": "Geller",
+                                    "handle": "stellag2989317",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/FL5EJMNZXMKS3V02.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/9OAhwd",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 18,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 18,
+                        "items": [
+                            {
+                                "id": "4e49c767483b16676e37723b",
+                                "name": "MTA Subway Q Train",
+                                "description": "All Stops of the Q Subway Line, so you'll know where you're going.",
+                                "type": "others",
+                                "user": {
+                                    "id": "10554269",
+                                    "firstName": "StuffOnSwarm.com",
+                                    "handle": "stuffons9408585",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "TH",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/-OIUJJCENLURFSTJB.png"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/stuffons9408585/list/mta-subway-q-train",
+                                "canonicalUrl": "https://foursquare.com/stuffons9408585/list/mta-subway-q-train",
+                                "createdAt": 1313458023,
+                                "updatedAt": 1320867967,
+                                "followers": {
+                                    "count": 196
+                                },
+                                "listItems": {
+                                    "count": 35,
+                                    "items": [
+                                        {
+                                            "id": "t4e408af71fc742d9d1f90e10",
+                                            "createdAt": 1313458023,
+                                            "tip": {
+                                                "id": "4e408af71fc742d9d1f90e10",
+                                                "createdAt": 1312852727,
+                                                "text": "(B) to 145th Street/(Q) to Ditmars Boulevard:Next 5 Stops:+Avenue M+Avenue J+Avenue H+Newkirk Avenue+Cortelyou RoadInfo by www.stuffon4sq.comFollow us on Twitter @stuff_on_4sq",
+                                                "entities": [
+                                                    {
+                                                        "indices": [
+                                                            123,
+                                                            147
+                                                        ],
+                                                        "type": "url",
+                                                        "object": {
+                                                            "url": "http://www.stuffon4sq.comFollow"
+                                                        }
+                                                    }
+                                                ],
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4e408af71fc742d9d1f90e10",
+                                                "likes": {
+                                                    "count": 32,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 32,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "32 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 1,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 0
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "10554269",
+                                                    "firstName": "StuffOnSwarm.com",
+                                                    "handle": "stuffons9408585",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "TH",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/-OIUJJCENLURFSTJB.png"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4ebaf10c9adf137420af0a4b",
+                                "name": "MTA Subway B Train",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "10554269",
+                                    "firstName": "StuffOnSwarm.com",
+                                    "handle": "stuffons9408585",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "TH",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/-OIUJJCENLURFSTJB.png"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/stuffons9408585/list/mta-subway-b-train",
+                                "canonicalUrl": "https://foursquare.com/stuffons9408585/list/mta-subway-b-train",
+                                "createdAt": 1320874252,
+                                "updatedAt": 1320875374,
+                                "photo": {
+                                    "id": "4ebaf131775b2c800d09a32b",
+                                    "createdAt": 1320874289,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/TV2ZCAXOFMFBC23DSESYHZTLX540GMEQUZJXLZE0X5HZGQVI.jpg",
+                                    "width": 500,
+                                    "height": 500,
+                                    "user": {
+                                        "id": "10554269",
+                                        "firstName": "StuffOnSwarm.com",
+                                        "handle": "stuffons9408585",
+                                        "privateProfile": false,
+                                        "gender": "none",
+                                        "countryCode": "TH",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/-OIUJJCENLURFSTJB.png"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 43
+                                },
+                                "listItems": {
+                                    "count": 37,
+                                    "items": [
+                                        {
+                                            "id": "v4bcb05dc0687ef3bcde2dccc",
+                                            "createdAt": 1320875220,
+                                            "photo": {
+                                                "id": "4ebaf4c8f790d394b60d3808",
+                                                "createdAt": 1320875208,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/2L2TAOQAJVXU2MDUF5CTLCWYDNMC1ZIOS1UPAQLPPE03IWAY.jpg",
+                                                "width": 500,
+                                                "height": 500,
+                                                "user": {
+                                                    "id": "10554269",
+                                                    "firstName": "StuffOnSwarm.com",
+                                                    "handle": "stuffons9408585",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "TH",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/-OIUJJCENLURFSTJB.png"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "elevators",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    27,
+                                    36
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... they finally installed elevators"
+                    },
+                    "count": 4
+                },
+                {
+                    "phrase": "azteca",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    32
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... the street to Paraiso Azteca for great Mexican."
+                    },
+                    "count": 1
+                }
+            ],
+            "hours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u20134:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "1:00 PM\u20133:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "5:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Wed",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201311:00 AM"
+                            },
+                            {
+                                "renderedTime": "3:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20132:00 PM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. American Express & MasterCard)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "65dbc4fd8e9f8568c189b9cf",
+                "createdAt": 1708901629,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/73263291_0MWJk1aMc2taZhq_m4O5XA0c70KCRs3FRtd52jPT3g4.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+            }
+        }
+    }
+}

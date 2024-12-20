@@ -1,0 +1,1013 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cc228c4604610f613a77"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "40b68100f964a5207d001fe3",
+            "name": "Madison Square Park",
+            "contact": {
+                "phone": "2126399675",
+                "formattedPhone": "(212) 639-9675",
+                "twitter": "nycparks",
+                "instagram": "nycparks",
+                "facebook": "20292388081",
+                "facebookUsername": "nycparks",
+                "facebookName": "New York City Department of Parks & Recreation"
+            },
+            "location": {
+                "address": "Madison Ave",
+                "crossStreet": "btwn E 23rd & E 26th St",
+                "lat": 40.74226204193276,
+                "lng": -73.98800611495972,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.74226204193276,
+                        "lng": -73.98800611495972
+                    }
+                ],
+                "radius50": 97,
+                "radius90": 255,
+                "postalCode": "10010",
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Madison Ave (btwn E 23rd & E 26th St)",
+                    "New York, NY 10010",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/madison-square-park/40b68100f964a5207d001fe3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d163941735",
+                    "name": "Park",
+                    "pluralName": "Parks",
+                    "shortName": "Park",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 16032,
+                    "mapIcon": "fsq-landmarks-outdoors",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 479
+            },
+            "url": "https://www.nycgovparks.org/parks/madison-square-park",
+            "hasMenu": true,
+            "likes": {
+                "count": 4432,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 4432,
+                        "items": []
+                    }
+                ],
+                "summary": "4432 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 9.4 out of 10.",
+            "rating": 9.4,
+            "ratingColor": "00B551",
+            "ratingSignals": 5021,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "topRated",
+            "menu": {
+                "type": "Prices",
+                "label": "Prices",
+                "anchor": "View Prices",
+                "url": "https://foursquare.com/v/madison-square-park/40b68100f964a5207d001fe3/menu",
+                "mobileUrl": "https://foursquare.com/v/40b68100f964a5207d001fe3/device_menu"
+            },
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 13627,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 13627,
+                        "items": [
+                            {
+                                "id": "582c7d061656b84aed3e8420",
+                                "createdAt": 1479310598,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/36424109_8vmtkI25GakeZP4LIvDSDui2Wl64_b9aJ6v9XTCTIZA.jpg",
+                                "width": 1440,
+                                "height": 1440,
+                                "user": {
+                                    "id": "36424109",
+                                    "firstName": "Yuri",
+                                    "lastName": "~J.\u2668\ufe0f",
+                                    "handle": "yuri082468",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "HK",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/36424109_mgFSDp7K_pNgzgmOpAW_3nwDbmCiXrT_Fcl-WR2XzJ6AANox22xY3sC4OrVOk_eCFKUVCzqaw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "5a14953e2aff314825df0812",
+                                "createdAt": 1511298366,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/418567520_TDhVzQq--JmnJioHG-YwUwUm0DiEgUxlllArq11BO8Q.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "418567520",
+                                    "firstName": "Anne",
+                                    "lastName": "Levonen",
+                                    "handle": "annel5132132",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/418567520_UTDas9QI_irvtAOkJcB2TExANw7aWvPmwAbgipe2ojy4c0JDc6ENKmVAYYdqEY-SaQP4g0zem.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "57d1f07d498e8962c2487565",
+                                "createdAt": 1473376381,
+                                "source": {
+                                    "name": "Swarm for Android",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/48207734_4AjDChJXEOnyqWjT4PeJzdZHcZo4Gn-WuVEIhlQm-5k.jpg",
+                                "width": 1200,
+                                "height": 1600,
+                                "user": {
+                                    "id": "48207734",
+                                    "firstName": "MLRD",
+                                    "lastName": "\u00ae",
+                                    "handle": "mlrd7256657",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "CZ",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/48207734_M09vJoYA_lTD4RfflYl7y9IV6r8tZxK3kb_2eAUuMV8mlWI2ohjq4PAnx82kMHC_12Iw3EbaA.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "57c334a2498e1de2b87b4bb8",
+                                "createdAt": 1472410786,
+                                "source": {
+                                    "name": "Swarm for Android",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/85974778_MmDnDDAuZ4Ege00-hPOEY_oA6JZ5jQ9vTscu9IVZfKQ.jpg",
+                                "width": 3024,
+                                "height": 4032,
+                                "user": {
+                                    "id": "85974778",
+                                    "firstName": "Kilka",
+                                    "lastName": "Groznaya",
+                                    "handle": "kilkagroznaya",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "GB",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/85974778-B0SRHCOH2JMHPQO2.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "Madison Square Park, a seven-acre urban oasis, is located in the heart of Manhattan\u2019s Flatiron District. The Madison Square Park Conservancy raises the funds that support lush and brilliant horticulture, park maintenance, park security and a variety of free cultural programs.",
+            "storeId": "",
+            "page": {
+                "pageInfo": {
+                    "description": "New York City Department of Parks & Recreation is the steward of 5,000 of New York City\u2019s parks and park properties\u2014that\u2019s 14 percent of the city! You can follow NYC Parks for expert tips in every corner of the city. Be sure to check in at New York City\u2019s parks, playgrounds, recreation centers, monuments, food carts, and facilities to become a true New York explorer! Please read the City of New York's Social Media Customer Use Policy at nyc.gov/socialmediapolicy for information on communicating with Parks through social media. All service requests should be submitted through nyc.gov/311.",
+                    "banner": "https://is1.4sqi.net/userpix/KXPD2QEIPQPKFXPO.gif",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://nyc.gov/parks"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "805536",
+                    "firstName": "NYC Parks",
+                    "handle": "nycparks",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/001JBVL1X5TPDRTV.gif"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 414
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 23,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "New York, NY",
+                    "bio": "",
+                    "contact": {
+                        "twitter": "nycparks"
+                    }
+                }
+            },
+            "createdAt": 1085702400,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 479,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 479,
+                        "items": [
+                            {
+                                "id": "5181861b498e133f85a08e72",
+                                "createdAt": 1367442971,
+                                "text": "Today, I was here to unveil \"Red, Yellow and Blue\" by NYC-based artist Orly Genger. The exhibit runs through September 8, 2013.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5181861b498e133f85a08e72",
+                                "photo": {
+                                    "id": "5181861c704369ec8b595e72",
+                                    "createdAt": 1367442972,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/8237390_B0zkKvXpvwPTWwkcNxcef9LceH68t4c45Xj_MeloQMw.jpg",
+                                    "width": 640,
+                                    "height": 427,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "5181861c704369ec8b595e72",
+                                        "createdAt": 1367442972,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/8237390_B0zkKvXpvwPTWwkcNxcef9LceH68t4c45Xj_MeloQMw.jpg",
+                                        "width": 640,
+                                        "height": 427,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/8237390_B0zkKvXpvwPTWwkcNxcef9LceH68t4c45Xj_MeloQMw.jpg",
+                                "likes": {
+                                    "count": 73,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 73,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "73 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 70,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "8237390",
+                                    "firstName": "Mike Bloomberg",
+                                    "handle": "mikebloomberg",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/-J4PG0OVZQWRMMJ04.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4ccaefc552af9c74dbd0a864",
+                                "createdAt": 1288368069,
+                                "text": "From inside the park, you can get a great angle on the surrounding buildings for a Panoramic Stitch.  Outside the park on the west side, looking south, is a fantastic shot of the Flatiron Building.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ccaefc552af9c74dbd0a864",
+                                "likes": {
+                                    "count": 59,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 59,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "59 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 57,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 174
+                                },
+                                "user": {
+                                    "id": "3052639",
+                                    "firstName": "Windows Live Photo Gallery",
+                                    "handle": "windowslive",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/EO14EVSDDROIXRTL.png"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4f231869e4b02a95fcff522d",
+                                "createdAt": 1327700073,
+                                "text": "Enjoy world-class outdoor art in this historic park right in the heart of Manhattan.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f231869e4b02a95fcff522d",
+                                "likes": {
+                                    "count": 48,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 48,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "48 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 47,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 11
+                                },
+                                "user": {
+                                    "id": "805536",
+                                    "firstName": "NYC Parks",
+                                    "handle": "nycparks",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/001JBVL1X5TPDRTV.gif"
+                                    },
+                                    "type": "chain"
+                                }
+                            },
+                            {
+                                "id": "4aec7d0570c603bb22c18eb4",
+                                "createdAt": 1257012485,
+                                "text": "Find shake shack, grab a burger and check in there",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4aec7d0570c603bb22c18eb4",
+                                "likes": {
+                                    "count": 25,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 25,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "25 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 3
+                                },
+                                "user": {
+                                    "id": "36031",
+                                    "firstName": "Matt",
+                                    "handle": "meggertson",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/36031-Y1AXOXQILVBGHJP2.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/2BySq",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 2646,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 2646,
+                        "items": [
+                            {
+                                "id": "4e528c3c18381362f73026eb",
+                                "name": "New York City",
+                                "description": "Pr\u00eat \u00e0 croquer la Grosse Pomme?",
+                                "type": "others",
+                                "user": {
+                                    "id": "6082867",
+                                    "firstName": "ParisianGeek",
+                                    "handle": "parisiangeek",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "FR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/6082867-YRA5X0IQ1FO5OJA2.png"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/parisiangeek/list/new-york-city",
+                                "canonicalUrl": "https://foursquare.com/parisiangeek/list/new-york-city",
+                                "createdAt": 1314032700,
+                                "updatedAt": 1432916683,
+                                "photo": {
+                                    "id": "523389c911d2db109c49c4ab",
+                                    "createdAt": 1379109321,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/256867_CIu5FhyHmuNdnJ3TRW-OMt3fy62Q8yjrzN-fNVFCqjw.jpg",
+                                    "width": 960,
+                                    "height": 641,
+                                    "user": {
+                                        "id": "256867",
+                                        "firstName": "Mike",
+                                        "handle": "mikaeldorian",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "address": "",
+                                        "city": "",
+                                        "state": "",
+                                        "countryCode": "FR",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/256867_rwbT07Vb_sIpr85kUnT_RlBJETLOb4p9KZIFAfqXFuPrrQHmnYO_UzQHcvlBZV_-yj_G94shM"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 598
+                                },
+                                "listItems": {
+                                    "count": 199,
+                                    "items": [
+                                        {
+                                            "id": "t526b5a7111d2978e339c3793",
+                                            "createdAt": 1326508507,
+                                            "tip": {
+                                                "id": "526b5a7111d2978e339c3793",
+                                                "createdAt": 1382767217,
+                                                "text": "Au pied du Flatiron Building, le Madison Square Park est un parc tr\u00e8s agr\u00e9able. Vous pouvez profiter des bancs pour vous d\u00e9tendre et prendre un burger au Shake Shack du parc.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/526b5a7111d2978e339c3793",
+                                                "likes": {
+                                                    "count": 4,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 4,
+                                                            "items": [
+                                                                {
+                                                                    "id": "92069202",
+                                                                    "firstName": "Chelsea Agency",
+                                                                    "handle": "chelseaa2014859",
+                                                                    "privateProfile": false,
+                                                                    "gender": "none",
+                                                                    "countryCode": "FR",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/92069202-5A3ROKCGTS5P01PW.png"
+                                                                    },
+                                                                    "type": "page"
+                                                                },
+                                                                {
+                                                                    "id": "16425457",
+                                                                    "firstName": "Cris",
+                                                                    "handle": "crisdalvesco",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "countryCode": "TR",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/16425457-GEZ4G533EPZCGG4F.jpg"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "id": "1925252",
+                                                                    "firstName": "Aurelia",
+                                                                    "lastName": "B.",
+                                                                    "handle": "aureliathecity",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "countryCode": "FR",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/1925252-4EGZHO1QDOO0G0P3.jpg"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "id": "256867",
+                                                                    "firstName": "Mike",
+                                                                    "handle": "mikaeldorian",
+                                                                    "privateProfile": false,
+                                                                    "gender": "male",
+                                                                    "address": "",
+                                                                    "city": "",
+                                                                    "state": "",
+                                                                    "countryCode": "FR",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/256867_rwbT07Vb_sIpr85kUnT_RlBJETLOb4p9KZIFAfqXFuPrrQHmnYO_UzQHcvlBZV_-yj_G94shM"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "summary": "4 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 4,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 6
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "6082867",
+                                                    "firstName": "ParisianGeek",
+                                                    "handle": "parisiangeek",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "FR",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/6082867-YRA5X0IQ1FO5OJA2.png"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "526b5a6d498ec47dfd3f3255",
+                                                "createdAt": 1382767213,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/6082867_WsccGc9k2LZIa1Mf_zyKqMTTUY2gVky5JmArCuir7tk.jpg",
+                                                "width": 2520,
+                                                "height": 3776,
+                                                "user": {
+                                                    "id": "6082867",
+                                                    "firstName": "ParisianGeek",
+                                                    "handle": "parisiangeek",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "FR",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/6082867-YRA5X0IQ1FO5OJA2.png"
+                                                    },
+                                                    "type": "page"
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4f230a4ae4b0a93fbd74392d",
+                                "name": "The Most Romantic Locations in NYC Parks",
+                                "description": "Our natural settings reign supreme as romantic spots. In any given park, you will often find New Yorkers hand-in-hand (or, sometimes, lip-to-lip).",
+                                "type": "others",
+                                "user": {
+                                    "id": "805536",
+                                    "firstName": "NYC Parks",
+                                    "handle": "nycparks",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/001JBVL1X5TPDRTV.gif"
+                                    },
+                                    "type": "chain"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nycparks/list/the-most-romantic-locations-in-nyc-parks",
+                                "canonicalUrl": "https://foursquare.com/nycparks/list/the-most-romantic-locations-in-nyc-parks",
+                                "createdAt": 1327696458,
+                                "updatedAt": 1385585988,
+                                "photo": {
+                                    "id": "4f23154e7beb1aaca7a4aa18",
+                                    "createdAt": 1327699278,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/I2VRIWWZSUORV3SYFE0OF1BNTVBMOQJGSXO3KKEJJU5SBL5N.jpg",
+                                    "width": 2100,
+                                    "height": 1500,
+                                    "user": {
+                                        "id": "805536",
+                                        "firstName": "NYC Parks",
+                                        "handle": "nycparks",
+                                        "privateProfile": false,
+                                        "gender": "none",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/001JBVL1X5TPDRTV.gif"
+                                        },
+                                        "type": "chain"
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 995
+                                },
+                                "listItems": {
+                                    "count": 21,
+                                    "items": [
+                                        {
+                                            "id": "t4f231869e4b02a95fcff522d",
+                                            "createdAt": 1327700039,
+                                            "tip": {
+                                                "id": "4f231869e4b02a95fcff522d",
+                                                "createdAt": 1327700073,
+                                                "text": "Enjoy world-class outdoor art in this historic park right in the heart of Manhattan.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4f231869e4b02a95fcff522d",
+                                                "likes": {
+                                                    "count": 48,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 48,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "48 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 47,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 11
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "805536",
+                                                    "firstName": "NYC Parks",
+                                                    "handle": "nycparks",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/001JBVL1X5TPDRTV.gif"
+                                                    },
+                                                    "type": "chain"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "shake shack",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    37
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... nice in the evenings. Shake shack always has a line, but it's worth the wait"
+                    },
+                    "count": 78
+                },
+                {
+                    "phrase": "flatiron building",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    23,
+                                    40
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... a nice view of the Flatiron Building. Especially nice during the summer because..."
+                    },
+                    "count": 20
+                },
+                {
+                    "phrase": "squirrel",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    34
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... apparently never seen squirrel before, it is perfect.  A great place for a..."
+                    },
+                    "count": 24
+                }
+            ],
+            "hours": {
+                "status": "Open until Midnight",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until Midnight"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u2013Midnight"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Thu",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "Noon\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open until Midnight",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until Midnight"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u2013Midnight"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "No Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Free Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Free"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "582c7d061656b84aed3e8420",
+                "createdAt": 1479310598,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/36424109_8vmtkI25GakeZP4LIvDSDui2Wl64_b9aJ6v9XTCTIZA.jpg",
+                "width": 1440,
+                "height": 1440,
+                "visibility": "public"
+            },
+            "colors": {
+                "highlightColor": {
+                    "photoId": "582c7d061656b84aed3e8420",
+                    "value": -15200232
+                },
+                "highlightTextColor": {
+                    "photoId": "582c7d061656b84aed3e8420",
+                    "value": -1
+                },
+                "algoVersion": 3
+            }
+        }
+    }
+}

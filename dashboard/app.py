@@ -28,7 +28,7 @@ if "chosenCity" in st.session_state:
     })
 
     # Render map
-    output = st_folium(RenderMap(data, latlong), width=1000, height=500)
+    output = st_folium(RenderMap(data, latlong,chosen_city), width=1000, height=500)
 
     # Display popular venues
     venue_counts = data['venueId'].value_counts().head(5).reset_index()
@@ -50,8 +50,8 @@ if "chosenCity" in st.session_state:
                         st.write(address)
                     st.write(venue_data.get("contact", "No contact info"))
                     st.write(venue_data.get("canonicalUrl", "No URL available"))
-                    if st.button(f"Informasi {venue_data.get("name")}"):
-                        @st.dialog(f"Informasi {venue_data.get("name")}")
+                    if st.button(f"Informasi {venue_data.get('name')} {str(uuid.uuid4())}"):
+                        @st.dialog(f"Informasi {venue_data.get("name")} ")
                         def yapper():
                             st.session_state["selectedVenue"]=loc["Venue"]
                             WorkHour(st.session_state["selectedVenue"])

@@ -1,0 +1,838 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765ccd01bb5c158dc41f835"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4b19f917f964a520abe623e3",
+            "name": "Akihabara Station (\u79cb\u8449\u539f\u99c5)",
+            "contact": {},
+            "location": {
+                "address": "\u5916\u795e\u75301/\u795e\u7530\u4f50\u4e45\u9593\u753a1",
+                "lat": 35.698357154071296,
+                "lng": 139.7731203585863,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 35.698357154071296,
+                        "lng": 139.7731203585863
+                    }
+                ],
+                "radius50": 93,
+                "radius90": 1034,
+                "postalCode": "101-0021",
+                "cc": "JP",
+                "city": "\u5343\u4ee3\u7530\u533a",
+                "state": "\u6771\u4eac\u90fd",
+                "country": "\u65e5\u672c",
+                "formattedAddress": [
+                    "\u5916\u795e\u75301/\u795e\u7530\u4f50\u4e45\u9593\u753a1",
+                    "\u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd",
+                    "101-0021",
+                    "\u65e5\u672c"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/user80677226",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d129951735",
+                    "name": "Rail Station",
+                    "pluralName": "Rail Stations",
+                    "shortName": "Rail Station",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19047,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                },
+                {
+                    "id": "4bf58dd8d48988d1fd931735",
+                    "name": "Metro Station",
+                    "pluralName": "Metro Stations",
+                    "shortName": "Metro",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/subway_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19046,
+                    "mapIcon": "fsq-default"
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 126
+            },
+            "likes": {
+                "count": 1315,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 1315,
+                        "items": []
+                    }
+                ],
+                "summary": "1315 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is an 8.0 out of 10.",
+            "rating": 8.0,
+            "ratingColor": "73CF42",
+            "ratingSignals": 1832,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "great",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 15421,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 15421,
+                        "items": [
+                            {
+                                "id": "5186239e498e233a79f6bf36",
+                                "createdAt": 1367745438,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/48362659_FSK-py6OAZclRoZrNTQ0RF53Qa1bkgBGymUE8c0Y3-w.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "48362659",
+                                    "firstName": "\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u30c9\u30e9\u30b4\u30f3",
+                                    "handle": "detabesu9828548",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/DYJCMQKDITWBRULW.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "51871348498eee9ac80f1cd7",
+                                "createdAt": 1367806792,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/53828138_Ji7WdbvQjrcJWDTN1y147mQIbUU57da-6PtUWHYBeDs.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "53828138",
+                                    "firstName": "Fg",
+                                    "lastName": "3",
+                                    "handle": "fg7172927",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/GGLWYJND3SO0MBGC.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "570cb82c498eb3e2943dcd7a",
+                                "createdAt": 1460451372,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/5499042_tW48KSyYMLMkDEPMMKGLIQ7KKtBo_PeNxlmDqnQYE5w.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "5499042",
+                                    "firstName": "Jaesang",
+                                    "lastName": "Eun",
+                                    "handle": "chris_eun",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "KR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/5499042-SMNH0SDOXPBISNCS.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "518319eb498e416d9e4974ad",
+                                "createdAt": 1367546347,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/11501424_tWzh2Y6SbE3lJQQtOXVMXR2MGN7RWkja_Fvr1QsFcAM.jpg",
+                                "width": 1080,
+                                "height": 1920,
+                                "user": {
+                                    "id": "11501424",
+                                    "firstName": "\u5c0f\u677e\u5d0e",
+                                    "lastName": "\u6d69\u53f8",
+                                    "handle": "kojikomatsuzaki",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/1TCVQW2P41BRCGGQ.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venuePage": {
+                "id": "80677226"
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "page": {
+                "user": {
+                    "id": "80677226",
+                    "firstName": "\u79cb\u8449\u539f\u99c5 (Akihabara Sta.)",
+                    "handle": "user80677226",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "JP",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/80677226-VLZG3MO5MMGTNUUA.png"
+                    },
+                    "type": "venuePage",
+                    "venue": {
+                        "id": "4b19f917f964a520abe623e3"
+                    },
+                    "tips": {
+                        "count": 0
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "\u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd",
+                    "bio": "",
+                    "contact": {}
+                }
+            },
+            "createdAt": 1259993367,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 126,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 126,
+                        "items": [
+                            {
+                                "id": "50e81f43e4b066549435023a",
+                                "createdAt": 1357389635,
+                                "text": "\u591a\u304f\u306e\u4eba\u304c\u884c\u304d\u4ea4\u3046\u4e57\u308a\u63db\u3048\u99c5\u3002\u5c71\u624b\u7dda/\u4eac\u6d5c\u6771\u5317\u7dda/\u7dcf\u6b66\u7dda\u30fb\u4e2d\u592e\u7dda\u5404\u505c/\u3064\u304f\u3070\u30a8\u30af\u30b9\u30d7\u30ec\u30b9/\u5730\u4e0b\u9244\u65e5\u6bd4\u8c37\u7dda\u304c\u4e57\u308a\u5165\u308c\u308b\u3002TX\u2194JR\u306e\u4e57\u308a\u63db\u3048\u3092\u3059\u308b\u306b\u3042\u305f\u3063\u3066\u306f\u3001\u65b0\u3057\u304f\u4ea4\u901a\u5e83\u5834\u306b\u3067\u304d\u305f\u51fa\u53e3\u306e\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\u3092\u4f7f\u3046\u3068\u65e9\u3044\u3002JR\u7dda\u6539\u672d\u8fd1\u304f\u306e\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\u3088\u308a\u7a7a\u3044\u3066\u308b\u3057\u3001TX\u6539\u672d\u307e\u3067\u306e\u5dee\u3082\u5168\u304f\u3068\u3044\u3063\u3066\u3044\u3044\u307b\u3069\u306a\u3044\u3002",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/50e81f43e4b066549435023a",
+                                "lang": "ja",
+                                "likes": {
+                                    "count": 42,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 42,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "42 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "editedAt": 1373806935,
+                                "agreeCount": 57,
+                                "disagreeCount": 0,
+                                "lastVoteText": "Upvoted Oct 13",
+                                "lastUpvoteTimestamp": 1728816972,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "7304772",
+                                    "firstName": "\u3068\u30fc\u305a\u3093",
+                                    "handle": "green_tokimaru",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/7304772_rOmEr4MV_neH2xbFtlbd2rr5aWIlNMV_nbxeg5ZogM1LChk6d_f0ZIZIMddxR3nyKumCWR4bz.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            },
+                            {
+                                "id": "4d4556302e326ea81f51eda6",
+                                "createdAt": 1296389680,
+                                "text": "\u4e2d\u592e\u7dcf\u6b66\u7dda\u30db\u30fc\u30e0\u6a2a\u306b\u3042\u308b\u725b\u4e73\u5c4b\u306e\u81ea\u8ca9\u6a5f\u306e\u54c1\u63c3\u3048\u304c\u6700\u9ad8",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d4556302e326ea81f51eda6",
+                                "lang": "ja",
+                                "likes": {
+                                    "count": 29,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 29,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "29 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 30,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 10
+                                },
+                                "user": {
+                                    "id": "291926",
+                                    "firstName": "Yo Satsuki",
+                                    "lastName": "\u7690\u6708\u30e8\u30a6",
+                                    "handle": "yo_satsuki",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/291926_1pkikH4U_ntnhdYS1AuRH5_kRdPuC68v5cdDnZ6m6hlfn5ETJKhMvN09gnPfNwUUM8P-YyWmS.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "507630b4e4b015e54662aadf",
+                                "createdAt": 1349922996,
+                                "text": "\u660e\u6cbb\u5929\u7687\u304c\u79cb\u8449\u539f\u99c5\u69cb\u5185\u306e\u5730\u306b\u52e7\u8acb\u3055\u308c\u305f\u300c\u93ae\u706b\u793e\u300d\u306b\u3001\u79cb\u8449\u5927\u6a29\u73fe\u304c\u52e7\u8acb\u3055\u308c\u305f\u3082\u306e\u3068\u8aa4\u89e3\u3057\u305f\u4eba\u3005\u304c\u300c\u79cb\u8449\u69d8\u300d\u300c\u79cb\u8449\u3055\u3093\u300d\u3068\u547c\u3073\u3001\u706b\u707d\u6642\u306b\u306f\u7de9\u885d\u5730\u5e2f\u3068\u306a\u308b\u3088\u3046\u7a7a\u304d\u5730\u3068\u3055\u308c\u3066\u3044\u305f\u793e\u57df\u3092\u300c\u79cb\u8449\u306e\u539f\u300d\u300c\u79cb\u8449\u3063\u539f\u300d\u3068\u547c\u3093\u3060\u3053\u3068\u304c\u300c\u79cb\u8449\u539f\u300d\u306e\u540d\u524d\u306e\u7531\u6765\u3002",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/507630b4e4b015e54662aadf",
+                                "lang": "ja",
+                                "likes": {
+                                    "count": 18,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 18,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "18 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 127,
+                                "disagreeCount": 0,
+                                "lastVoteText": "Upvoted 1 week ago",
+                                "lastUpvoteTimestamp": 1733566053,
+                                "todo": {
+                                    "count": 2
+                                },
+                                "user": {
+                                    "id": "279363",
+                                    "firstName": "Kazu",
+                                    "lastName": "S",
+                                    "handle": "kazusanjp",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/279363-RTVCW5FHOZOF5QNT.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4ed6af4c0aaf7ccfdb3951cf",
+                                "createdAt": 1322692428,
+                                "text": "\u96fb\u6c17\u8857\u53e3\u3068\u7dcf\u6b66\u7dda\u5404\u99c5\u505c\u8eca\u30db\u30fc\u30e0(5\u30fb6\u756a\u7dda)\u306f\u5c11\u3057\u8ddd\u96e2\u304c\u3042\u308a\u307e\u3059\u3002\u30a8\u30b9\u30ab\u30ec\u30fc\u30bf\u30fc\u3092\u4f7f\u3044\u3064\u3064\u6700\u77ed\u8ddd\u96e2\u3067\u697d\u3057\u3066\u884c\u304d\u305f\u3044\u306e\u3067\u3042\u308c\u3070\u30a2\u30c8\u30ec1\u6539\u672d\u53e3\u3092\u4f7f\u3046\u3068\u3044\u3044\u3067\u3057\u3087\u3046\u30021\u968e\u304b\u30893\u968e\u306e\u6539\u672d\u307e\u3067\u30a8\u30b9\u30ab\u30ec\u30fc\u30bf\u30fc\u3092\u4f7f\u3063\u3066\u884c\u3051\u307e\u3059\u3002",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ed6af4c0aaf7ccfdb3951cf",
+                                "lang": "ja",
+                                "likes": {
+                                    "count": 17,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 17,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "17 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 24,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 7
+                                },
+                                "user": {
+                                    "id": "12313344",
+                                    "firstName": "\u7adc\u5150",
+                                    "lastName": "\u9854\u9808",
+                                    "handle": "ryuujik1362716",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/ZLS3WB1KHGQLRSSI.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/68fhHr",
+            "timeZone": "Asia/Tokyo",
+            "listed": {
+                "count": 797,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 797,
+                        "items": [
+                            {
+                                "id": "4e4b80b9a8097d9c84bc2adf",
+                                "name": "\u4e2d\u592e\u30fb\u7dcf\u6b66\u7de9\u884c\u7dda [JB]",
+                                "description": "\u6771\u65e5\u672c\u65c5\u5ba2\u9244\u9053 https://www.jreast.co.jp/",
+                                "entities": [
+                                    {
+                                        "indices": [
+                                            8,
+                                            33
+                                        ],
+                                        "type": "url",
+                                        "object": {
+                                            "url": "https://www.jreast.co.jp/"
+                                        }
+                                    }
+                                ],
+                                "type": "others",
+                                "user": {
+                                    "id": "271248",
+                                    "firstName": "nakanao",
+                                    "handle": "nakanao",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/R35HQNUATXGFDCNL.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nakanao/list/%E4%B8%AD%E5%A4%AE%E7%B7%8F%E6%AD%A6%E7%B7%A9%E8%A1%8C%E7%B7%9A-jb",
+                                "canonicalUrl": "https://foursquare.com/nakanao/list/%E4%B8%AD%E5%A4%AE%E7%B7%8F%E6%AD%A6%E7%B7%A9%E8%A1%8C%E7%B7%9A-jb",
+                                "createdAt": 1313571001,
+                                "updatedAt": 1584259019,
+                                "photo": {
+                                    "id": "4dc1ab32a12d7d35b4ad174b",
+                                    "createdAt": 1304537906,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/422JFYWXSKBVDZTQBYSLQSYJDLOYZ0B5GNRPEZ2DB5EKE5UU.jpg",
+                                    "width": 612,
+                                    "height": 612,
+                                    "user": {
+                                        "id": "271248",
+                                        "firstName": "nakanao",
+                                        "handle": "nakanao",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "JP",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/R35HQNUATXGFDCNL.jpg"
+                                        }
+                                    },
+                                    "visibility": "friends"
+                                },
+                                "followers": {
+                                    "count": 214
+                                },
+                                "listItems": {
+                                    "count": 39,
+                                    "items": [
+                                        {
+                                            "id": "v4b19f917f964a520abe623e3",
+                                            "createdAt": 1313571001,
+                                            "photo": {
+                                                "id": "4ec9baef5c5ce271c0435fdb",
+                                                "createdAt": 1321843439,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/IBB5VRCJ3ECY2STZZ5VSSPPEHRLHS2ZEDYZGSCISMRGEOAFP.jpg",
+                                                "width": 612,
+                                                "height": 612,
+                                                "user": {
+                                                    "id": "279363",
+                                                    "firstName": "Kazu",
+                                                    "lastName": "S",
+                                                    "handle": "kazusanjp",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "JP",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/279363-RTVCW5FHOZOF5QNT.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e4b849f7d8b6016b18931e5",
+                                "name": "\u5c71\u624b\u7dda [JY]",
+                                "description": "\u6771\u65e5\u672c\u65c5\u5ba2\u9244\u9053 https://www.jreast.co.jp/",
+                                "entities": [
+                                    {
+                                        "indices": [
+                                            8,
+                                            33
+                                        ],
+                                        "type": "url",
+                                        "object": {
+                                            "url": "https://www.jreast.co.jp/"
+                                        }
+                                    }
+                                ],
+                                "type": "others",
+                                "user": {
+                                    "id": "271248",
+                                    "firstName": "nakanao",
+                                    "handle": "nakanao",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/R35HQNUATXGFDCNL.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nakanao/list/%E5%B1%B1%E6%89%8B%E7%B7%9A-jy",
+                                "canonicalUrl": "https://foursquare.com/nakanao/list/%E5%B1%B1%E6%89%8B%E7%B7%9A-jy",
+                                "createdAt": 1313571999,
+                                "updatedAt": 1584254704,
+                                "photo": {
+                                    "id": "4dd70abaa12d431f8bab01ac",
+                                    "createdAt": 1305938618,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/0PVGYFURTULL2Z1RLW4GSH1KXP1UYAPIP0IT3CO4KX3F3HBO.jpg",
+                                    "width": 720,
+                                    "height": 480,
+                                    "user": {
+                                        "id": "2106636",
+                                        "firstName": "JP",
+                                        "lastName": "malabares",
+                                        "handle": "malabares88",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "JP",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/DVINM2HRBGMFR22I.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 401
+                                },
+                                "listItems": {
+                                    "count": 30,
+                                    "items": [
+                                        {
+                                            "id": "v4b19f917f964a520abe623e3",
+                                            "createdAt": 1313571999,
+                                            "photo": {
+                                                "id": "4ed86b6a8231efe38cfd0000",
+                                                "createdAt": 1322806122,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/OOBTY5JVXOMBTJWR5HHUGFCFWII0HIMYUQWRIIMX5TACWFDZ.jpg",
+                                                "width": 720,
+                                                "height": 540,
+                                                "user": {
+                                                    "id": "689591",
+                                                    "firstName": "Richard",
+                                                    "lastName": "Lai",
+                                                    "handle": "richardlai",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "HK",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/K35FO1ATB4PMBLJ0.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "otaku",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    27,
+                                    32
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... Best place to be for a otaku. Especially me as a gaijin. I was so broke..."
+                    },
+                    "count": 3
+                },
+                {
+                    "phrase": "manga",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    23,
+                                    28
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... sell Whiskey, TVs, manga, every kind of camera and all sorts of..."
+                    },
+                    "count": 4
+                },
+                {
+                    "phrase": "yodobashi camera",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    41
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... the exit opposite to Yodobashi camera to access the main street."
+                    },
+                    "count": 2
+                }
+            ],
+            "popular": {
+                "isOpen": false,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "10:00 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "10:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "3:00 PM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue\u2013Thu",
+                        "open": [
+                            {
+                                "renderedTime": "4:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "2:00 PM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "No Credit Cards",
+                        "count": 5,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "No"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "5186239e498e233a79f6bf36",
+                "createdAt": 1367745438,
+                "source": {
+                    "name": "Foursquare for iOS",
+                    "url": "https://foursquare.com/download/#/iphone"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/48362659_FSK-py6OAZclRoZrNTQ0RF53Qa1bkgBGymUE8c0Y3-w.jpg",
+                "width": 1920,
+                "height": 1440,
+                "visibility": "public"
+            },
+            "colors": {
+                "highlightColor": {
+                    "photoId": "5186239e498e233a79f6bf36",
+                    "value": -9934752
+                },
+                "highlightTextColor": {
+                    "photoId": "5186239e498e233a79f6bf36",
+                    "value": -1
+                },
+                "algoVersion": 3
+            }
+        }
+    }
+}

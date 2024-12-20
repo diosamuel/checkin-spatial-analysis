@@ -1,0 +1,1047 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "6765cc227f1d324136ae3b83"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "49b7ed6df964a52030531fe3",
+            "name": "Times Square",
+            "contact": {
+                "phone": "2127681560",
+                "formattedPhone": "(212) 768-1560",
+                "twitter": "timessquarenyc",
+                "instagram": "timessquarenyc",
+                "facebook": "39875583837",
+                "facebookUsername": "timessquarenyc",
+                "facebookName": "Times Square, New York City"
+            },
+            "location": {
+                "address": "Broadway & 7th Ave",
+                "crossStreet": "btwn W 42nd & 47th St",
+                "lat": 40.75734624948815,
+                "lng": -73.98584961891174,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.75734624948815,
+                        "lng": -73.98584961891174
+                    }
+                ],
+                "radius50": 208,
+                "radius90": 2505,
+                "postalCode": "10036",
+                "cc": "US",
+                "neighborhood": "Theater District",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Broadway & 7th Ave (btwn W 42nd & 47th St)",
+                    "New York, NY 10036",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/times-square/49b7ed6df964a52030531fe3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d164941735",
+                    "name": "Plaza",
+                    "pluralName": "Plazas",
+                    "shortName": "Plaza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 16041,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 2355
+            },
+            "url": "https://www.timessquarenyc.org",
+            "likes": {
+                "count": 16299,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 16299,
+                        "items": []
+                    }
+                ],
+                "summary": "16299 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is an 8.4 out of 10.",
+            "rating": 8.4,
+            "ratingColor": "73CF42",
+            "ratingSignals": 20828,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "great",
+            "ticketProviders": [
+                {
+                    "id": "KovZ917AJyQ",
+                    "url": "http://www.ticketmaster.com/venue/KovZ917AJyQ",
+                    "provider": {
+                        "name": "tm"
+                    }
+                }
+            ],
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 64213,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 64213,
+                        "items": [
+                            {
+                                "id": "558deb63498e8f4a87a7c024",
+                                "createdAt": 1435364195,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/30867711_uzNa9Jd2GgwHmv75rNJ2pJPe_mKvl2ED9uCH6_lmyVc.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "30867711",
+                                    "firstName": "Mehdi",
+                                    "lastName": "\u015eent\u00fcrk",
+                                    "handle": "mehdis9691282",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/30867711_n6fMPRCz_Ze1uqirByKyevEjeSlhYMOjwPQqkksNtXhyJL1XOH_ZaN_LacVoccoR0NwjMycEq.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "577fca16498ea953b188b7d2",
+                                "createdAt": 1467992598,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/36567351_mFtC85ZXpjOUKY_rkpcLQ50CJLuqQQ1gVczrIspjAQ0.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "36567351",
+                                    "firstName": "Kerim Ali",
+                                    "lastName": "Y\u0131lmaz",
+                                    "handle": "kerimaly8945254",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/36567351-JC0N5KINT3ZHNWT2.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "590401c5a4b51b124b80fc5a",
+                                "createdAt": 1493434821,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/5954262_bciMgIg5Y8I_DzWy3fbyHzoGlfKL6bPn_wb6asn1cYc.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "5954262",
+                                    "firstName": "Dan",
+                                    "handle": "darthstereo",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/5954262-CJX21D2AOTYQRY0Z.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "57d43919498eb7b15d8e44c0",
+                                "createdAt": 1473526041,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/19755734_I1pttV5N70ntdiZ1-5ShKjYbqAPGBhba5akwUa02Cnk.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "19755734",
+                                    "firstName": "Bruno",
+                                    "lastName": "Will.I.Am",
+                                    "handle": "brunowpp",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "BR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/19755734_wzQlWHTN_XAxO8VKNQzZSGXm_NTcbIPgFrQ_QKetWumErruICECEFTHqrPtLpoWCKS6KU8gMG.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "page": {
+                "pageInfo": {
+                    "description": "The Official Source of Times Square NYC",
+                    "banner": "https://is1.4sqi.net/userpix/HXDX11LJQQAF3VSM.png",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://timessquarenyc.org/index.aspx"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "5273346",
+                    "firstName": "Times Square NYC",
+                    "handle": "timessqu7445417",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/R25MVD1AJNHE5GKY.jpg"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 39
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 3,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "New York, NY",
+                    "bio": "",
+                    "contact": {}
+                }
+            },
+            "createdAt": 1236790637,
+            "hereNow": {
+                "count": 4,
+                "summary": "4 people are here",
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Other people here",
+                        "count": 4,
+                        "items": []
+                    }
+                ]
+            },
+            "tips": {
+                "count": 2355,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 2355,
+                        "items": [
+                            {
+                                "id": "4bc0f5d270c603bb7f6a97b4",
+                                "createdAt": 1270937042,
+                                "text": "This area was originally named Longacre Square but was renamed in 1904 when the NY Times moved to the skyscraper now known as One Times Square at 42nd St., famous for the Times Square Ball drop.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4bc0f5d270c603bb7f6a97b4",
+                                "photo": {
+                                    "id": "4fa3f8d3c2ee72287d71060b",
+                                    "createdAt": 1336146131,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/qa0EIJKDeM0OFj4qlFFs81uxxI88lf2UqaSWRSSYdFw.jpg",
+                                    "width": 1500,
+                                    "height": 2400,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "4fa3f8d3c2ee72287d71060b",
+                                        "createdAt": 1336146131,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/qa0EIJKDeM0OFj4qlFFs81uxxI88lf2UqaSWRSSYdFw.jpg",
+                                        "width": 1500,
+                                        "height": 2400,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/qa0EIJKDeM0OFj4qlFFs81uxxI88lf2UqaSWRSSYdFw.jpg",
+                                "likes": {
+                                    "count": 495,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 495,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "495 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 578,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 878
+                                },
+                                "user": {
+                                    "id": "376887",
+                                    "firstName": "HISTORY",
+                                    "handle": "historychannel",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/376887-4KMRMDF4C2IGL1QX.png"
+                                    },
+                                    "type": "chain"
+                                }
+                            },
+                            {
+                                "id": "4ecd2cf30aafc14746710842",
+                                "createdAt": 1322069235,
+                                "text": "When the New York Times moved into offices at Broadway and 42nd Street on Dec 31, 1904, it threw a party so legendary that New Yorkers started to celebrate New Year\u2019s Eve in Times Square every year.",
+                                "type": "user",
+                                "url": "http://newyork.timeout.com/things-to-do/2255971/times-square?package=2256527&cmpid=4sq",
+                                "canonicalUrl": "https://foursquare.com/item/4ecd2cf30aafc14746710842",
+                                "likes": {
+                                    "count": 209,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 209,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "209 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 206,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 80
+                                },
+                                "user": {
+                                    "id": "742542",
+                                    "firstName": "Time Out New York",
+                                    "handle": "timeoutnewyork",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/XXHKCBSQHBORZNSR.jpg"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4f8dba54e4b0a7ee5a944bc6",
+                                "createdAt": 1334688340,
+                                "text": "Don't forget to stop by the Visitor Center!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f8dba54e4b0a7ee5a944bc6",
+                                "likes": {
+                                    "count": 184,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 184,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "184 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 182,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 25
+                                },
+                                "user": {
+                                    "id": "5273346",
+                                    "firstName": "Times Square NYC",
+                                    "handle": "timessqu7445417",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/R25MVD1AJNHE5GKY.jpg"
+                                    },
+                                    "type": "chain"
+                                }
+                            },
+                            {
+                                "id": "523df82c11d23025abfa0107",
+                                "createdAt": 1379792940,
+                                "text": "Ziyaret\u00e7ilerini b\u00fcy\u00fcleyen, \u0131\u015f\u0131lt\u0131l\u0131 ve \u015f\u0131k otellerin, restoranlar\u0131n bulundu\u011fu d\u00fcnyan\u0131n en \u00fcnl\u00fc, en canl\u0131 meydanlar\u0131ndan! Civardaki \u00fcnl\u00fc tiyatrolarda m\u00fczikali ya da tiyatro oyununu izlemelisiniz! :)",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/523df82c11d23025abfa0107",
+                                "photo": {
+                                    "id": "523df83f93cdb27bf808483b",
+                                    "createdAt": 1379792959,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/private_content_2.png",
+                                    "width": 400,
+                                    "height": 400,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "523df83f93cdb27bf808483b",
+                                        "createdAt": 1379792959,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/private_content_2.png",
+                                        "width": 400,
+                                        "height": 400,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/30167046_eH6o1d8mXwe-G8kIT99r5H8vMEm72kbwBhE_8Oj8Eg4.jpg",
+                                "lang": "tr",
+                                "likes": {
+                                    "count": 462,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 462,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "462 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 464,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 79
+                                },
+                                "user": {
+                                    "id": "30167046",
+                                    "firstName": "\u00c7ok Gezen Gen\u00e7",
+                                    "handle": "cokgezengenc",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "TR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/30167046-TCRZZRW0L11MAD4Z.jpg"
+                                    },
+                                    "type": "page"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/10sc1s",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 5682,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 5682,
+                        "items": [
+                            {
+                                "id": "4fad24a2e4b0bcc0c18be03c",
+                                "name": "101 places to see in Manhattan before you die",
+                                "description": "Best spots to see in Manhattan (New York City) as restaurants, monuments and public spaces. Enjoy!",
+                                "type": "others",
+                                "user": {
+                                    "id": "356747",
+                                    "firstName": "Victor",
+                                    "lastName": "Garrido",
+                                    "handle": "boke",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "ES",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/356747-WQOTM2ASOIERONL3.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/boke/list/101-places-to-see-in-manhattan-before-you-die",
+                                "canonicalUrl": "https://foursquare.com/boke/list/101-places-to-see-in-manhattan-before-you-die",
+                                "createdAt": 1336747170,
+                                "updatedAt": 1406242886,
+                                "photo": {
+                                    "id": "4fa97b0c121d8a3faef6f2df",
+                                    "createdAt": 1336507148,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/IcmBihQCVr4Zt0Vxt9l237NHv--nxg1Z5_8QIMjeD8E.jpg",
+                                    "width": 325,
+                                    "height": 487,
+                                    "user": {
+                                        "id": "13125997",
+                                        "firstName": "IWalked Audio Tours",
+                                        "handle": "iwalkedaudio",
+                                        "privateProfile": false,
+                                        "gender": "none",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/KZCTVBJ0FXUHSQA5.jpg"
+                                        },
+                                        "type": "page"
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 948
+                                },
+                                "listItems": {
+                                    "count": 101,
+                                    "items": [
+                                        {
+                                            "id": "t4bc0f5d270c603bb7f6a97b4",
+                                            "createdAt": 1336747725,
+                                            "tip": {
+                                                "id": "4bc0f5d270c603bb7f6a97b4",
+                                                "createdAt": 1270937042,
+                                                "text": "This area was originally named Longacre Square but was renamed in 1904 when the NY Times moved to the skyscraper now known as One Times Square at 42nd St., famous for the Times Square Ball drop.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4bc0f5d270c603bb7f6a97b4",
+                                                "likes": {
+                                                    "count": 495,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 495,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "495 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 578,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 878
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "376887",
+                                                    "firstName": "HISTORY",
+                                                    "handle": "historychannel",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/376887-4KMRMDF4C2IGL1QX.png"
+                                                    },
+                                                    "type": "chain"
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "4fa3f8d3c2ee72287d71060b",
+                                                "createdAt": 1336146131,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/qa0EIJKDeM0OFj4qlFFs81uxxI88lf2UqaSWRSSYdFw.jpg",
+                                                "width": 1500,
+                                                "height": 2400,
+                                                "user": {
+                                                    "id": "376887",
+                                                    "firstName": "HISTORY",
+                                                    "handle": "historychannel",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/376887-4KMRMDF4C2IGL1QX.png"
+                                                    },
+                                                    "type": "chain"
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "58e3acffeb645b244376f079",
+                                "name": "Go Ahead, Be A Tourist",
+                                "description": "We\u2019ve collected some of the top spots that travelers like to visit around the world. Use Swarm to check in at one of these places and you\u2019ll unlock The Tourist sticker!",
+                                "type": "others",
+                                "user": {
+                                    "id": "23438729",
+                                    "firstName": "Foursquare City Guide",
+                                    "handle": "FoursquareGuide",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/23438729-TODURDIUDUMY4JF5.png"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/FoursquareGuide/list/go-ahead-be-a-tourist",
+                                "canonicalUrl": "https://foursquare.com/FoursquareGuide/list/go-ahead-be-a-tourist",
+                                "createdAt": 1491315967,
+                                "updatedAt": 1668277470,
+                                "photo": {
+                                    "id": "51ebd8f4e4b0cf59949e5806",
+                                    "createdAt": 1374410996,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/9422249_uwEknPie4eGShUQwgWYtK-UfdzFt-UAi7aivCunvCRQ.jpg",
+                                    "width": 960,
+                                    "height": 720,
+                                    "user": {
+                                        "id": "9422249",
+                                        "firstName": "Roberta",
+                                        "lastName": "SDREA",
+                                        "handle": "robertas9289889",
+                                        "privateProfile": false,
+                                        "gender": "female",
+                                        "countryCode": "BR",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/9422249-2JGCXQWJ2UGYSZQL.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 1365
+                                },
+                                "listItems": {
+                                    "count": 205,
+                                    "items": [
+                                        {
+                                            "id": "t5790a9fb498e0368ad35f32a",
+                                            "createdAt": 1491319599,
+                                            "tip": {
+                                                "id": "5790a9fb498e0368ad35f32a",
+                                                "createdAt": 1469098491,
+                                                "text": "Most crowded NYC attraction, be prepared for slow walkers! Billboard lights are always illuminated and awesome to see at night. Easily accessible by subway or walking. Lots of good eats on 9th Avenue",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/5790a9fb498e0368ad35f32a",
+                                                "likes": {
+                                                    "count": 1,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 1,
+                                                            "items": [
+                                                                {
+                                                                    "id": "102925773",
+                                                                    "firstName": "David",
+                                                                    "lastName": "Sellona",
+                                                                    "handle": "davids9314341",
+                                                                    "privateProfile": false,
+                                                                    "gender": "male",
+                                                                    "countryCode": "US",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/102925773-HMSN3FIIT4WPYJ5S.jpg"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "summary": "1 like"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "editedAt": 1534363260,
+                                                "agreeCount": 496,
+                                                "disagreeCount": 0,
+                                                "lastVoteText": "Upvoted 3 days ago",
+                                                "lastUpvoteTimestamp": 1734453765,
+                                                "todo": {
+                                                    "count": 6
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "2787312",
+                                                    "firstName": "\u2133\ud835\udcb6\ud835\udcce\u264d",
+                                                    "handle": "may7204117",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "AE",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/2787312_kaq-1qGi_-dg6p1IPecRRQ1ojXYkrfkMSbnCy1FljmxKTioIuJEKhWI3s5IrzddSDcFS4iO9D.jpg"
+                                                    }
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "51e969b4498e72571c6e2ef6",
+                                                "createdAt": 1374251444,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/662656_vSichVeoxwACljCTJ-bgXC2vxzrqUGXWvsjMAtOJoDQ.jpg",
+                                                "width": 612,
+                                                "height": 612,
+                                                "user": {
+                                                    "id": "662656",
+                                                    "firstName": "Armando",
+                                                    "lastName": "Correa",
+                                                    "handle": "armandoc8467943",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/25U542QX0BCQ4RCU.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "tourists",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    22,
+                                    30
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "A must experience for tourists. Too hectic for locals."
+                    },
+                    "count": 147
+                },
+                {
+                    "phrase": "al mondo",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    6,
+                                    14
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Unica al mondo.. favolosa.. bellissima.. Uno scintillio..."
+                    },
+                    "count": 3
+                },
+                {
+                    "phrase": "film",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    27,
+                                    31
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... e' indiscusso. In ogni film, in ogni libro su NYC c'\u00e8 e non si pu\u00f2 non..."
+                    },
+                    "count": 2
+                }
+            ],
+            "hours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "1:00 PM\u2013Midnight"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u2013Midnight"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u201311:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Tue",
+                        "open": [
+                            {
+                                "renderedTime": "4:00 PM\u201311:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Wed",
+                        "open": [
+                            {
+                                "renderedTime": "1:00 PM\u20132:00 PM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u201311:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "4:00 PM\u201311:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "No Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Free Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Free"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "558deb63498e8f4a87a7c024",
+                "createdAt": 1435364195,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/30867711_uzNa9Jd2GgwHmv75rNJ2pJPe_mKvl2ED9uCH6_lmyVc.jpg",
+                "width": 1920,
+                "height": 1440,
+                "visibility": "public"
+            }
+        }
+    }
+}
