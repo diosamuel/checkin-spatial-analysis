@@ -29,7 +29,6 @@ st.markdown(
 
 def WorkDay(venueId,city):
     venue = fetchAPI(venueId)
-    st.session_state["selectedVenueJSON"] = venue
     if city=="NYC":
         place = NYC[NYC["venueId"] == venueId]
     else:
@@ -59,7 +58,6 @@ def WorkDay(venueId,city):
 
 def WorkDayCategory(Kategori,city):
     # venue = fetchAPI(Kategori)
-    # st.session_state["selectedVenueJSON"] = venue
     if city=="NYC":
         place = NYC[NYC["Kategori"] == Kategori]
     else:
@@ -88,11 +86,15 @@ def WorkDayCategory(Kategori,city):
     st.plotly_chart(fig, use_container_width=True)
 
 def WorkHour(venueId,city):
-    matching_rows = TKY[TKY[city] == venueId]
-    matching_rows["utcTimestamp"] = pd.to_datetime(matching_rows["utcTimestamp"])
-    matching_rows["Days"] = matching_rows["utcTimestamp"].dt.day_name()
-    matching_rows["Hour"] = matching_rows["utcTimestamp"].dt.hour
-    average_time_per_day = matching_rows.groupby("Days")["Hour"].mean()
+    if city=="NYC":
+        place = NYC[NYC["venueId"] == venueId]
+    else:
+        place = TKY[TKY["venueId"] == venueId]
+    place = place.reset_index()
+    place["utcTimestamp"] = pd.to_datetime(place["utcTimestamp"])
+    place["Days"] = place["utcTimestamp"].dt.day_name()
+    place["Hour"] = place["utcTimestamp"].dt.hour
+    average_time_per_day = place.groupby("Days")["Hour"].mean()
     average_time_per_day_df = average_time_per_day.reset_index()
     average_time_per_day_df.columns = ["Days", "Average Hour"]
     day_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]

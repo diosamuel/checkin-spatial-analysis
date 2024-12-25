@@ -1,7 +1,7 @@
 import folium
 import streamlit as st
 from folium.plugins import HeatMap
-from streamlit_folium import st_folium
+from streamlit_folium import st_folium,folium_static
 import pandas as pd
 from util.sidebar import *
 from util.fetching import fetchAPI
@@ -38,21 +38,7 @@ if "chosenCity" in st.session_state:
     density = st.checkbox("density")
     pinpoin = st.checkbox("pinpoin")
     rendered = RenderMap(data, latlong,chosen_city,heatmap=heat,density=density,pinpoin=pinpoin)
-    output = st_folium(rendered, width=1000, height=500)
-    if(output["last_object_clicked_popup"]):
-        @st.dialog(f"Informasi")
-        def yapper():
-            st.session_state["selectedVenue"]=output["last_object_clicked_popup"]
-            data = fetchAPI(st.session_state["selectedVenue"])
-            venue_data = data.get("response", {}).get("venue", {})
-            st.subheader(venue_data.get("name", "Unknown"))
-            address = venue_data.get("location", {}).get("address")
-            if address:
-                st.write(address)
-            st.write(venue_data.get("contact", "No contact info"))
-            st.write(venue_data.get("canonicalUrl", "No URL available"))
-            WorkDay(st.session_state["selectedVenue"],chosen_city)
-        yapper()
+    output = folium_static(rendered, width=1000, height=500)
     # Display popular venues
     venue_counts = data['venueId'].value_counts().head(10).reset_index()
     venue_counts.columns = ["Venue", "Count"]
@@ -64,6 +50,7 @@ if "chosenCity" in st.session_state:
             if pos + i < len(venue_counts):
                 loc = venue_counts.iloc[pos + i]
                 with col:
+                    st.session_state["selectedVenue"] = loc["Venue"]
                     data = fetchAPI(loc["Venue"])
                     venue_data = data.get("response", {}).get("venue", {})
                     st.subheader(venue_data.get("name", "Unknown"))
@@ -75,7 +62,6 @@ if "chosenCity" in st.session_state:
                     if st.button(f"Informasi {venue_data.get('name')}"):
                         @st.dialog(f"Informasi {venue_data.get("name")} ")
                         def yapper():
-                            st.session_state["selectedVenue"]=loc["Venue"]
                             WorkDay(st.session_state["selectedVenue"],chosen_city)
                             WorkHour(st.session_state["selectedVenue"],chosen_city)
                             lat = venue_data.get("location", {}).get("lat")
@@ -83,5 +69,5 @@ if "chosenCity" in st.session_state:
                             map_center = [lat, lng]
                             m = folium.Map(location=map_center, zoom_start=20)
                             folium.Marker(location=map_center, popup=venue_data.get("name", "Unknown")).add_to(m)
-                            st_folium(m, width=700, height=500)
+                            folium_static(m, width=700, height=500)
                         yapper()
