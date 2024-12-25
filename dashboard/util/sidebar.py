@@ -27,7 +27,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-def WorkHour(venueId,city):
+def WorkDay(venueId,city):
     venue = fetchAPI(venueId)
     st.session_state["selectedVenueJSON"] = venue
     if city=="NYC":
@@ -37,7 +37,7 @@ def WorkHour(venueId,city):
     place = place.reset_index()
     place['Day'] = pd.to_datetime(place['utcTimestamp']).dt.day_name()
     daysCount = place["Day"].value_counts().reset_index()
-    print(daysCount)
+    # print(daysCount)
     fixed_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     fig = px.bar(
         daysCount,
@@ -57,7 +57,7 @@ def WorkHour(venueId,city):
     )
     st.plotly_chart(fig, use_container_width=True)
 
-def WorkHourCategory(Kategori,city):
+def WorkDayCategory(Kategori,city):
     # venue = fetchAPI(Kategori)
     # st.session_state["selectedVenueJSON"] = venue
     if city=="NYC":
@@ -67,7 +67,7 @@ def WorkHourCategory(Kategori,city):
     place = place.reset_index()
     place['Day'] = pd.to_datetime(place['utcTimestamp']).dt.day_name()
     daysCount = place["Day"].value_counts().reset_index()
-    print(daysCount)
+    # print(daysCount)
     fixed_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     fig = px.bar(
         daysCount,
@@ -86,6 +86,32 @@ def WorkHourCategory(Kategori,city):
         title=dict(x=0.25),
     )
     st.plotly_chart(fig, use_container_width=True)
+
+def WorkHour(venueId,city):
+    matching_rows = TKY[TKY[city] == venueId]
+    matching_rows["utcTimestamp"] = pd.to_datetime(matching_rows["utcTimestamp"])
+    matching_rows["Days"] = matching_rows["utcTimestamp"].dt.day_name()
+    matching_rows["Hour"] = matching_rows["utcTimestamp"].dt.hour
+    average_time_per_day = matching_rows.groupby("Days")["Hour"].mean()
+    average_time_per_day_df = average_time_per_day.reset_index()
+    average_time_per_day_df.columns = ["Days", "Average Hour"]
+    day_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    average_time_per_day_df["Days"] = pd.Categorical(average_time_per_day_df["Days"], categories=day_order, ordered=True)
+    average_time_per_day_df = average_time_per_day_df.sort_values("Days")
+    fig = px.line(
+        average_time_per_day_df,
+        x="Days",
+        y="Average Hour",
+        title=f"Average Time Per Day",
+        labels={"Days": "Day of the Week", "Average Hour": "Average Hour"},
+        markers=True
+    )
+    fig.update_layout(
+        xaxis_title="Day of the Week",
+        yaxis_title="Average Hour"
+    )
+    st.plotly_chart(fig, use_container_width=True)
+
 
 def MostVisited(city):
     if city == "NYC":

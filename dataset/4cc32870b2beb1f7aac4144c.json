@@ -1,0 +1,1043 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc32c6d3382cc5d8c581"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4cc32870b2beb1f7aac4144c",
+            "name": "B.A.D. Burger",
+            "contact": {
+                "phone": "7183847273",
+                "formattedPhone": "(718) 384-7273"
+            },
+            "location": {
+                "address": "131 Grand St",
+                "crossStreet": "btwn Bedford & Berry",
+                "lat": 40.71499186262144,
+                "lng": -73.96257335973604,
+                "radius50": 9,
+                "radius90": 395,
+                "postalCode": "11249",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "131 Grand St (btwn Bedford & Berry)",
+                    "Brooklyn, NY 11249",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/bad-burger/4cc32870b2beb1f7aac4144c",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16c941735",
+                    "name": "Burger Joint",
+                    "pluralName": "Burger Joints",
+                    "shortName": "Burgers",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 13031,
+                    "mapIcon": "fsq-dining",
+                    "primary": true
+                },
+                {
+                    "id": "4bf58dd8d48988d1d3941735",
+                    "name": "Vegan and Vegetarian Restaurant",
+                    "pluralName": "Vegan and Vegetarian Restaurants",
+                    "shortName": "Vegan and Vegetarian Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 13377,
+                    "mapIcon": "fsq-dining"
+                },
+                {
+                    "id": "4bf58dd8d48988d143941735",
+                    "name": "Breakfast Spot",
+                    "pluralName": "Breakfast Spots",
+                    "shortName": "Breakfast",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 13028,
+                    "mapIcon": "fsq-dining"
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 60
+            },
+            "closed": true,
+            "url": "https://badburgernewyork.com",
+            "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+            },
+            "likes": {
+                "count": 39,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 39,
+                        "items": []
+                    }
+                ],
+                "summary": "39 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 88,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 88,
+                        "items": [
+                            {
+                                "id": "56b2c50f498ebefebb545a4d",
+                                "createdAt": 1454556431,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/73045662_4Ch3GhpNgAMmS31m_b6wljIvwKMQJrdV-kczd7XHVOo.jpg",
+                                "width": 1440,
+                                "height": 1440,
+                                "user": {
+                                    "id": "73045662",
+                                    "firstName": "Rique",
+                                    "lastName": "Lo",
+                                    "handle": "riquel7613078",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/73045662-5OE0FYZCVRBKKOAJ.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "55ea8627498ec8914976481a",
+                                "createdAt": 1441433127,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/15199234_KdX2Jli3VlKQoXn8oS5YeXRLQLs4gFBKy9YUvHm-hVI.jpg",
+                                "width": 1080,
+                                "height": 1920,
+                                "user": {
+                                    "id": "15199234",
+                                    "firstName": "Jamie",
+                                    "lastName": "Ferguson",
+                                    "handle": "myinnervisions",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/15199234-ISK4LRJGVJUZD2L0.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "55d8aa20498eef35cd5d806f",
+                                "createdAt": 1440262688,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/68027481_3E09CKJUlOT6Bm_xitBQNBsP_YXEvh2ifzEe0aRNdf0.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "68027481",
+                                    "firstName": "Patrick",
+                                    "lastName": "Tisdale",
+                                    "handle": "rayban11",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/68027481-KF15LSDLWG4VSRXM.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "55b32eec498eb9ee1975ceee",
+                                "createdAt": 1437806316,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/539103_p9cR3v4K9LIvs0H7AjD1L1mB2cIel2K7LHoeVLNUVfQ.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "539103",
+                                    "firstName": "E.T.",
+                                    "lastName": "Craven",
+                                    "handle": "badgnarly",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/539103_FQ4yhwPv_kU0BzCedGFFvbViIJt9YjT2U46jAFTiHtr7kE53ePcL28qU0YgORvUNy8sFeR-aO.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "Burgers/Breakfast All Day.  Wide variety of delicious vegan/vegetarian alternatives",
+            "storeId": "",
+            "page": {
+                "pageInfo": {
+                    "description": "Diner-style comfort food for vegans, vegetarians, and meat-eaters alike. Burgers, breakfast, and scores of other items available 24 hours a day, 7 days a week.\r\nGluten-free options available by request.",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "https://badburgernewyork.com"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "47552156",
+                    "firstName": "B.A.D. Burger",
+                    "handle": "b.a.d.bu4285499",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/MYQVZWYWU25MN3CT.jpg"
+                    },
+                    "type": "page",
+                    "tips": {
+                        "count": 0
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "New York",
+                    "bio": "",
+                    "contact": {}
+                }
+            },
+            "createdAt": 1287858288,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 60,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 60,
+                        "items": [
+                            {
+                                "id": "4c8a7b6755f9b71361784add",
+                                "createdAt": 1284143975,
+                                "text": "The concept joint will serve an ICMB-grade brunch menu up & down the clock. Highlights are some combination of Matzoh Brie, Flapjacks Road Warriors & a chicken-fried bacon cheeseburger.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c8a7b6755f9b71361784add",
+                                "likes": {
+                                    "count": 13,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 13,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "13 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 11
+                                },
+                                "user": {
+                                    "id": "311503",
+                                    "firstName": "AskMen",
+                                    "handle": "askmen",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/W12HFINBWKQZJ15Z.jpg"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4ded704245dd3aa41d6627ec",
+                                "createdAt": 1307406402,
+                                "text": "You'll be like \"that wasn't too bad\" and you will also be like \"why did I eat that\"",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ded704245dd3aa41d6627ec",
+                                "photo": {
+                                    "id": "4ded704cfd2884fe153e5085",
+                                    "createdAt": 1307406412,
+                                    "source": {
+                                        "name": "Foursquare for iOS",
+                                        "url": "https://foursquare.com/download/#/iphone"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/24Z1OTQTUO0IQNZYD5YZN1GX32FDXCQRDVMSU240OZJU0FZ5.jpg",
+                                    "width": 720,
+                                    "height": 537,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "4ded704cfd2884fe153e5085",
+                                        "createdAt": 1307406412,
+                                        "source": {
+                                            "name": "Foursquare for iOS",
+                                            "url": "https://foursquare.com/download/#/iphone"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/24Z1OTQTUO0IQNZYD5YZN1GX32FDXCQRDVMSU240OZJU0FZ5.jpg",
+                                        "width": 720,
+                                        "height": 537,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/24Z1OTQTUO0IQNZYD5YZN1GX32FDXCQRDVMSU240OZJU0FZ5.jpg",
+                                "likes": {
+                                    "count": 5,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 5,
+                                            "items": [
+                                                {
+                                                    "id": "1485766",
+                                                    "firstName": "Katie",
+                                                    "lastName": "A.",
+                                                    "handle": "ktnlo",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/35KIZSVQKG0T5EYY.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "3772339",
+                                                    "firstName": "Olivier",
+                                                    "lastName": "Kitenge",
+                                                    "handle": "kitenge",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "CD",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/3772339-M2EQHFEZKG5DEAD5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "38558153",
+                                                    "firstName": "Barry",
+                                                    "lastName": "Billiamson",
+                                                    "handle": "l422y",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/38558153_h1APAgGm_ZVaQVs26kEYKd2gCXH0K8KghRy39pLPYJXobszhhgSY6MPTdPfRD1kmxEbn_kt63"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "38020",
+                                                    "firstName": "Jason",
+                                                    "lastName": "Koxvold",
+                                                    "handle": "jkoxvold",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/38020_1254327949381.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "5 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 4,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "6500",
+                                    "firstName": "Noah",
+                                    "lastName": "Kalina",
+                                    "handle": "noahkalina",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/PDAFW5SV4D2OX0BW.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "512635e8e4b00d2b80c11e11",
+                                "createdAt": 1361458664,
+                                "text": "Heard the vegan mac & cheese balls are IT",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/512635e8e4b00d2b80c11e11",
+                                "likes": {
+                                    "count": 4,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 4,
+                                            "items": [
+                                                {
+                                                    "id": "4529091",
+                                                    "firstName": "Melissa",
+                                                    "lastName": "Meyer",
+                                                    "handle": "melissam3701408",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/ADI3DABSHPSDDJWC.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "3461512",
+                                                    "firstName": "Jon",
+                                                    "handle": "jbleiche",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/JECGSGOCUPVZ431W.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "36189789",
+                                                    "firstName": "Pumpkin",
+                                                    "lastName": "\u2764\ufe0f",
+                                                    "handle": "pumpkin4944748",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/36189789_dXS-QrrC_h-OqX92xRdwlGdSWZg0Zz-SXGZfKM_kUKAsGDgC_RWwKEQhuhmfxM0ingriED91k.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "3562058",
+                                                    "firstName": "Ali",
+                                                    "handle": "ali6305247",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/3562058_mC-Kw5m1_1BeXskNT3P1YhlcDDEkvx3oOolmcLo-qTUhVcbjA3CaQzNBwJ516qku--lgjQkox.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "4 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 4,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "33950",
+                                    "firstName": "Demetrius",
+                                    "lastName": "Bagley",
+                                    "handle": "vegand",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/33950_9pZjmrdl_d37zhzrEIXigsoKNCzc56OU7Tx1tbD6XGYAVo6jF_3S0i08D1uae_58wSsFWGeqf.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "506802a8e4b0fb7004d12c6f",
+                                "createdAt": 1348993704,
+                                "text": "This is the worst place I've paid to eat at.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/506802a8e4b0fb7004d12c6f",
+                                "likes": {
+                                    "count": 3,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 3,
+                                            "items": [
+                                                {
+                                                    "id": "6730959",
+                                                    "firstName": "Dan",
+                                                    "lastName": "Valen",
+                                                    "handle": "dnvln",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/6730959-BYNEOIM3S2QYVZOI.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "652279",
+                                                    "firstName": "Nate",
+                                                    "lastName": "F.",
+                                                    "handle": "natefoulds",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/DDTPYSWNFL5XAOL2.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "352345",
+                                                    "firstName": "Brett",
+                                                    "lastName": "Harmon",
+                                                    "handle": "brettharmon",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/352345-UKX3IQNCUW4PNZBB.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "3 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 3,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "1042017",
+                                    "firstName": "Kelsea",
+                                    "lastName": "Stahler",
+                                    "handle": "kelseas3389314",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/0ADGK23BK0QTSJMO.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "disliked"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/c0pPan",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 72,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 72,
+                        "items": [
+                            {
+                                "id": "4e921dbae5fa72f70fa7f1a7",
+                                "name": "Bedfood Avenue",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "6181440",
+                                    "firstName": "Nao",
+                                    "lastName": "Miz",
+                                    "handle": "naom6622790",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/BSWOZRAQILQYWQFB.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/naom6622790/list/bedfood-avenue",
+                                "canonicalUrl": "https://foursquare.com/naom6622790/list/bedfood-avenue",
+                                "createdAt": 1318198714,
+                                "updatedAt": 1381100429,
+                                "photo": {
+                                    "id": "4d12d68bc8eba34064e7187e",
+                                    "createdAt": 1293080203,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/KKEVUJT5FWDW2NVSGUKI2RL2Z55KH523WG3KTJGHWUL5PVB3.jpg",
+                                    "width": 405,
+                                    "height": 540,
+                                    "user": {
+                                        "id": "4051",
+                                        "firstName": "bk",
+                                        "handle": "wordbk",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/4051_1mZkXTPT_RgsxIrcW4IA-006tfJh-gqOpOESCxkWmQoBXNNCDIwnpNAZYfyjjnrq6CEfAvrP4.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 10
+                                },
+                                "listItems": {
+                                    "count": 44,
+                                    "items": [
+                                        {
+                                            "id": "v4cc32870b2beb1f7aac4144c",
+                                            "createdAt": 1337637088
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "519c08e2498e61cb2e1eeb13",
+                                "name": "140+ Vegan possible places",
+                                "description": "At least some vegan options are available at these places. Some are full vegan.",
+                                "type": "others",
+                                "user": {
+                                    "id": "30043953",
+                                    "firstName": "Sasha",
+                                    "lastName": "Safonova",
+                                    "handle": "sashas8236888",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/GD1BNPKAUHJV4NQR.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": true,
+                                "url": "/sashas8236888/list/140-vegan-possible-places",
+                                "canonicalUrl": "https://foursquare.com/sashas8236888/list/140-vegan-possible-places",
+                                "createdAt": 1369180386,
+                                "updatedAt": 1399687078,
+                                "photo": {
+                                    "id": "4f6a9df8e4b07325776b0232",
+                                    "createdAt": 1332387320,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/Odh0cvRmSg0zYX1JtzQtDg_6l7bEY8OuTjcAikagAac.jpg",
+                                    "width": 720,
+                                    "height": 540,
+                                    "user": {
+                                        "id": "8603",
+                                        "firstName": "Whitney",
+                                        "lastName": "Jefferson",
+                                        "handle": "twitney",
+                                        "privateProfile": false,
+                                        "gender": "female",
+                                        "address": "",
+                                        "city": "",
+                                        "state": "",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/8603_1255100716675.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 9
+                                },
+                                "listItems": {
+                                    "count": 144,
+                                    "items": [
+                                        {
+                                            "id": "v4cc32870b2beb1f7aac4144c",
+                                            "createdAt": 1369674603,
+                                            "photo": {
+                                                "id": "4ed96d046c2547bc617fd608",
+                                                "createdAt": 1322872068,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/QBTT03NSHJSWNSE3HFBCRP4N3RLR1A3RQKNLOZRQQMOAFMTM.jpg",
+                                                "width": 612,
+                                                "height": 612,
+                                                "user": {
+                                                    "id": "1288",
+                                                    "firstName": "Justin",
+                                                    "lastName": "Dickinson",
+                                                    "handle": "jmdickinson",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1288-R5BWZT0Z2ITVEYW3.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "dirty south",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    37
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... food craving. Try the Dirty South sandwich!"
+                    },
+                    "count": 2
+                },
+                {
+                    "phrase": "cheese balls",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    37
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... with the fried mac & cheese balls, jalape\u00f1o poppers &the bad dates. All were..."
+                    },
+                    "count": 3
+                },
+                {
+                    "phrase": "vegan",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    30
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... slow, but, its 24/7. Vegan pancakes are delicious."
+                    },
+                    "count": 7
+                }
+            ],
+            "hours": {
+                "status": "Permanently closed",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Permanently closed"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Permanently closed",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Permanently closed"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "24 Hours"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "price",
+                        "name": "Price",
+                        "summary": "$$",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Price",
+                                "displayValue": "$$",
+                                "priceTier": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "reservations",
+                        "name": "Reservations",
+                        "count": 3,
+                        "items": [
+                            {
+                                "displayName": "Reservations",
+                                "displayValue": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. American Express & MasterCard)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "outdoorSeating",
+                        "name": "Outdoor Seating",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Outdoor Seating",
+                                "displayValue": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Free Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Free"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "serves",
+                        "name": "Menus",
+                        "summary": "Breakfast & Dessert",
+                        "count": 8,
+                        "items": [
+                            {
+                                "displayName": "Breakfast",
+                                "displayValue": "Breakfast"
+                            },
+                            {
+                                "displayName": "Dessert",
+                                "displayValue": "Dessert"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "drinks",
+                        "name": "Drinks",
+                        "summary": "Beer",
+                        "count": 5,
+                        "items": [
+                            {
+                                "displayName": "Beer",
+                                "displayValue": "Beer"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "56b2c50f498ebefebb545a4d",
+                "createdAt": 1454556431,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/73045662_4Ch3GhpNgAMmS31m_b6wljIvwKMQJrdV-kczd7XHVOo.jpg",
+                "width": 1440,
+                "height": 1440,
+                "visibility": "public"
+            }
+        }
+    }
+}

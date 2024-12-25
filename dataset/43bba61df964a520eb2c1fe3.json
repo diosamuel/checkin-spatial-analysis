@@ -1,0 +1,1017 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc35930acc7168742be9"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "43bba61df964a520eb2c1fe3",
+            "name": "Whole Foods Market",
+            "contact": {
+                "phone": "2126735388",
+                "formattedPhone": "(212) 673-5388",
+                "twitter": "wholefoodsnyc",
+                "facebook": "24922591487",
+                "facebookUsername": "wholefoodsmarket",
+                "facebookName": "Whole Foods Market"
+            },
+            "location": {
+                "address": "4 Union Square South",
+                "crossStreet": "btwn Broadway & University Pl",
+                "lat": 40.73504451480305,
+                "lng": -73.99110084279937,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.73504451480305,
+                        "lng": -73.99110084279937
+                    }
+                ],
+                "radius50": 15,
+                "radius90": 199,
+                "postalCode": "10003",
+                "cc": "US",
+                "neighborhood": "Union Square",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "4 Union Square South (btwn Broadway & University Pl)",
+                    "New York, NY 10003",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/whole-foods-market/43bba61df964a520eb2c1fe3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "shortName": "Grocery Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 17069,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                },
+                {
+                    "id": "50aa9e744b90af0d42d5de0e",
+                    "name": "Health Food Store",
+                    "pluralName": "Health Food Stores",
+                    "shortName": "Health Food Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 17071,
+                    "mapIcon": "fsq-default"
+                },
+                {
+                    "id": "52f2ab2ebcbc57f1066b8b45",
+                    "name": "Organic Grocery",
+                    "pluralName": "Organic Groceries",
+                    "shortName": "Organic Grocery",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 17070,
+                    "mapIcon": "fsq-default"
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 386
+            },
+            "url": "http://www.wholefoodsmarket.com/stores/unionsquare",
+            "hasMenu": true,
+            "likes": {
+                "count": 2096,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 2096,
+                        "items": []
+                    }
+                ],
+                "summary": "2096 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is an 8.3 out of 10.",
+            "rating": 8.3,
+            "ratingColor": "73CF42",
+            "ratingSignals": 2887,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "great",
+            "menu": {
+                "type": "Products",
+                "label": "Products",
+                "anchor": "View Products",
+                "url": "https://foursquare.com/v/whole-foods-market/43bba61df964a520eb2c1fe3/menu",
+                "mobileUrl": "https://foursquare.com/v/43bba61df964a520eb2c1fe3/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 1541,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 1541,
+                        "items": [
+                            {
+                                "id": "51e80b6c454a407fc47d0cfd",
+                                "createdAt": 1374161772,
+                                "source": {
+                                    "name": "Foursquare Web",
+                                    "url": "https://foursquare.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/95423_wiDtQ2t1nBrtd1pXuYW_QkTeW17mXJAUiPrB0m3G62o.jpg",
+                                "width": 1317,
+                                "height": 1172,
+                                "user": {
+                                    "id": "95423",
+                                    "firstName": "The Corcoran Group",
+                                    "handle": "corcoran_group",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/95423-FGRZ1IMU5FZQMCZB.jpg"
+                                    },
+                                    "type": "page"
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "517c991de4b04cd481594668",
+                                "createdAt": 1367120157,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/2644858_ONcZumnw8OwYDnv27T2TQXkOpeLfpGNyRll5Tn8GgPs.jpg",
+                                "width": 1440,
+                                "height": 1440,
+                                "user": {
+                                    "id": "2644858",
+                                    "firstName": "Elias",
+                                    "lastName": "Zapata",
+                                    "handle": "zapata381",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "ES",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/HVUB1RNYBOBOTYYY.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "5c92a519f4b5250039efe2b9",
+                                "createdAt": 1553114393,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/403234928_IjKwtRSR7o2boxl4iODvtLZRM19_uXrLfIeyKTm6JeY.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "403234928",
+                                    "firstName": "Anna",
+                                    "lastName": "Ukrainets",
+                                    "handle": "annau1212252",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "BR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/403234928_pWcj8c5O_h2r7hmL0F0XH1qqtPyEDGgHxa3HZSI7_pkQ6ejs5fcxho6vXP-BZm2SXbwHIAkE_.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "51720185e4b0debe8486eecb",
+                                "createdAt": 1366425989,
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/53822101_94xabBczjratir-8vRFSEsGqhcC7PlJouc1etSHJmcY.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "53822101",
+                                    "firstName": "Caitrin",
+                                    "lastName": "Facini",
+                                    "handle": "the_c_facini",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/53822101-2QVTJHDIGLB3RQ3D.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "Welcome to New York, NY Whole Foods Market! Whole Foods is the leading retailer of natural and organic foods uniquely positioned as America's Healthiest Grocery Store.",
+            "storeId": "10162",
+            "page": {
+                "pageInfo": {
+                    "description": "Whole Foods Market is the world's largest natural and organic grocer. Find one near you, check in, and say hello!",
+                    "banner": "https://is1.4sqi.net/userpix/SH5LGHJZBJEIIJUW.jpg",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://www.wholefoodsmarket.com/stores/fremont-ca"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "12191971",
+                    "firstName": "Whole Foods Market",
+                    "handle": "wholefoo4105770",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/12191971_6iYJBK90_UPhvdNxsyweHh5G0iF_hz8bDKTW9ZMz3j6gedXvOqFnFGCTlVrctL2TeVjtB7oQb.jpg"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 71
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 17,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "Austin, TX",
+                    "bio": "",
+                    "contact": {}
+                }
+            },
+            "createdAt": 1136371229,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 386,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 386,
+                        "items": [
+                            {
+                                "id": "4dd2b29952b15d0acc8460ca",
+                                "createdAt": 1305653913,
+                                "text": "WHOLE PAYCHECK",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4dd2b29952b15d0acc8460ca",
+                                "likes": {
+                                    "count": 11,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 11,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "11 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 11,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "4350492",
+                                    "firstName": "JetzNY",
+                                    "handle": "jetzgretz",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/TLFQ5MPR2WODVWBH.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4db2541afa8c6bb2d0af26ed",
+                                "createdAt": 1303532570,
+                                "text": "The long lines here will lead you to check in and leave tips on foursquare.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4db2541afa8c6bb2d0af26ed",
+                                "likes": {
+                                    "count": 11,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 11,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "11 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 11,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "6563482",
+                                    "firstName": "Stephanie",
+                                    "lastName": "Kim",
+                                    "handle": "stephank5812051",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/KJ1KBPUPW1CBJVZ2.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4ceab34ab5c35941b5266b8f",
+                                "createdAt": 1290449738,
+                                "text": "Great selection of organic products and great selection of sugar derivatives for people with diabetes. I did a dinner and made desserts using Stevia. -Ed Cotton, Top Chef",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ceab34ab5c35941b5266b8f",
+                                "likes": {
+                                    "count": 11,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 11,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "11 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 11,
+                                "disagreeCount": 1,
+                                "todo": {
+                                    "count": 113
+                                },
+                                "user": {
+                                    "id": "282219",
+                                    "firstName": "Bravo",
+                                    "handle": "bravo",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/NNF50Z2WRF3DQMRR.gif"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "52b4c6a8498e11c54c4c3113",
+                                "createdAt": 1387579048,
+                                "text": "Pick up our Pepper Sauce, carrot juice, orange juice, ginger, lemon juice, parsley. Use those to make the March Hare, our fresh take on the classic Bloody Mary (vodka sold separately)",
+                                "type": "user",
+                                "url": "http://www.abamerican.com/1/post/2012/09/how-to-use-ab-american-style-pepper-sauce-the-march-hare-a-drink.html",
+                                "canonicalUrl": "https://foursquare.com/item/52b4c6a8498e11c54c4c3113",
+                                "photo": {
+                                    "id": "52b4c6cd11d2f8619f957656",
+                                    "createdAt": 1387579085,
+                                    "source": {
+                                        "name": "Foursquare Web",
+                                        "url": "https://foursquare.com"
+                                    },
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/12259069_RdawK0XpPyjVN4WPKELAkeQt8oFjxpnixR5d_WTtxYo.jpg",
+                                    "width": 3000,
+                                    "height": 1800,
+                                    "visibility": "public"
+                                },
+                                "photos": [
+                                    {
+                                        "id": "52b4c6cd11d2f8619f957656",
+                                        "createdAt": 1387579085,
+                                        "source": {
+                                            "name": "Foursquare Web",
+                                            "url": "https://foursquare.com"
+                                        },
+                                        "prefix": "https://fastly.4sqi.net/img/general/",
+                                        "suffix": "/12259069_RdawK0XpPyjVN4WPKELAkeQt8oFjxpnixR5d_WTtxYo.jpg",
+                                        "width": 3000,
+                                        "height": 1800,
+                                        "visibility": "public"
+                                    }
+                                ],
+                                "photourl": "https://fastly.4sqi.net/img/general/original/12259069_RdawK0XpPyjVN4WPKELAkeQt8oFjxpnixR5d_WTtxYo.jpg",
+                                "likes": {
+                                    "count": 7,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 7,
+                                            "items": [
+                                                {
+                                                    "id": "19680",
+                                                    "firstName": "Robert",
+                                                    "lastName": "Freeborn",
+                                                    "handle": "robfreeborn",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/4a5bb190f1e61.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "474498",
+                                                    "firstName": "Tracey",
+                                                    "lastName": "Churray",
+                                                    "handle": "traceychurray",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/474498-CJPMXPMV4JA3DWOK"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "25886308",
+                                                    "firstName": "Nur",
+                                                    "lastName": "Syuhada",
+                                                    "handle": "nurs9653801",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "MY",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/EQCNWG3D2UHZESS5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "7565135",
+                                                    "firstName": "k!moch!mo\u00ae",
+                                                    "handle": "user7565135",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "MY",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/7565135-2SSVSM3NUPW2TOG5.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "7 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 7,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "12259069",
+                                    "firstName": "A&B American Style",
+                                    "handle": "abamericanstyle",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/CGSFOZHJLWOOFDOQ.png"
+                                    },
+                                    "type": "page"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/4E0RIC",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 487,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 487,
+                        "items": [
+                            {
+                                "id": "4e62aba5aeb736031508c6cf",
+                                "name": "NYC: Gluten-Free Globetrotter",
+                                "description": "Gluten-free friendly in New York City. Blogging at Gluten-Free Fun and Gluten-Free Globetrotter. Tweeting at @gfreefun and @gfglobetrotter. Living with Celiac Disease since 1981",
+                                "type": "others",
+                                "user": {
+                                    "id": "12778436",
+                                    "firstName": "Erin",
+                                    "lastName": "Smith",
+                                    "handle": "gfreefun",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/CFT0TM3E2RNQ5MXU.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/gfreefun/list/nyc-glutenfree-globetrotter",
+                                "canonicalUrl": "https://foursquare.com/gfreefun/list/nyc-glutenfree-globetrotter",
+                                "createdAt": 1315089317,
+                                "updatedAt": 1395502309,
+                                "photo": {
+                                    "id": "5279c5aa11d2429681ed7f01",
+                                    "createdAt": 1383712170,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/12778436_wc7KHRBg291nvfGAphQIT8WzbxexGzLU7N8VEooqGyo.jpg",
+                                    "width": 1936,
+                                    "height": 2592,
+                                    "user": {
+                                        "id": "12778436",
+                                        "firstName": "Erin",
+                                        "lastName": "Smith",
+                                        "handle": "gfreefun",
+                                        "privateProfile": false,
+                                        "gender": "female",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/CFT0TM3E2RNQ5MXU.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 202
+                                },
+                                "listItems": {
+                                    "count": 34,
+                                    "items": [
+                                        {
+                                            "id": "t4eb8a0552c5b53141bb11839",
+                                            "createdAt": 1320722455,
+                                            "tip": {
+                                                "id": "4eb8a0552c5b53141bb11839",
+                                                "createdAt": 1320722517,
+                                                "text": "Always crowded, but there is a huge selection of gluten-free food. Tip: Whole Foods accepts manufacturers coupons and also has their own coupons on their website. Clip, print, and save!",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4eb8a0552c5b53141bb11839",
+                                                "likes": {
+                                                    "count": 2,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 2,
+                                                            "items": [
+                                                                {
+                                                                    "id": "1364906",
+                                                                    "firstName": "mikaaa\ud83c\udf1f",
+                                                                    "lastName": "shikiiii",
+                                                                    "handle": "shikiiii8954937",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "countryCode": "US",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/1364906_kH-5AfEu_AK5baqwFaf5pUPlO03WBq_UkQMSEz6n7sN36cEEgydzpEFupw6Y_HtxU40ygvk0d.jpg"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "summary": "2 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 1,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 3
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "12778436",
+                                                    "firstName": "Erin",
+                                                    "lastName": "Smith",
+                                                    "handle": "gfreefun",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/CFT0TM3E2RNQ5MXU.jpg"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e528c3c18381362f73026eb",
+                                "name": "New York City",
+                                "description": "Pr\u00eat \u00e0 croquer la Grosse Pomme?",
+                                "type": "others",
+                                "user": {
+                                    "id": "6082867",
+                                    "firstName": "ParisianGeek",
+                                    "handle": "parisiangeek",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "FR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/6082867-YRA5X0IQ1FO5OJA2.png"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/parisiangeek/list/new-york-city",
+                                "canonicalUrl": "https://foursquare.com/parisiangeek/list/new-york-city",
+                                "createdAt": 1314032700,
+                                "updatedAt": 1432916683,
+                                "photo": {
+                                    "id": "523389c911d2db109c49c4ab",
+                                    "createdAt": 1379109321,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/256867_CIu5FhyHmuNdnJ3TRW-OMt3fy62Q8yjrzN-fNVFCqjw.jpg",
+                                    "width": 960,
+                                    "height": 641,
+                                    "user": {
+                                        "id": "256867",
+                                        "firstName": "Mike",
+                                        "handle": "mikaeldorian",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "address": "",
+                                        "city": "",
+                                        "state": "",
+                                        "countryCode": "FR",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/256867_rwbT07Vb_sIpr85kUnT_RlBJETLOb4p9KZIFAfqXFuPrrQHmnYO_UzQHcvlBZV_-yj_G94shM"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 598
+                                },
+                                "listItems": {
+                                    "count": 199,
+                                    "items": [
+                                        {
+                                            "id": "v43bba61df964a520eb2c1fe3",
+                                            "createdAt": 1377714068,
+                                            "photo": {
+                                                "id": "52bdd2f311d24cfb92987cd7",
+                                                "createdAt": 1388172019,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/28315511_zhqEhTDS7bqZmdQQTBd1KARD1lxUmRZVKEiqXVbGPEo.jpg",
+                                                "width": 640,
+                                                "height": 640,
+                                                "user": {
+                                                    "id": "28315511",
+                                                    "firstName": "Takashi",
+                                                    "lastName": "Uematsu",
+                                                    "handle": "hispine",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "JP",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/28315511-0YBVIBNARS4E2TYM.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "line",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    18,
+                                    22
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... to what color line you're in for checkout! System is great."
+                    },
+                    "count": 52
+                },
+                {
+                    "phrase": "salad bar",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    13,
+                                    22
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "I love their salad bar"
+                    },
+                    "count": 16
+                },
+                {
+                    "phrase": "view of union",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    38
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... admire the beautiful view of Union Square from above"
+                    },
+                    "count": 6
+                }
+            ],
+            "hours": {
+                "status": "Closed until 7:00 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 7:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu, Sat\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu\u2013Fri",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Tue",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Closed until 7:00 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 7:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu, Sat\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. NFC Payments & American Express)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "51e80b6c454a407fc47d0cfd",
+                "createdAt": 1374161772,
+                "source": {
+                    "name": "Foursquare Web",
+                    "url": "https://foursquare.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/95423_wiDtQ2t1nBrtd1pXuYW_QkTeW17mXJAUiPrB0m3G62o.jpg",
+                "width": 1317,
+                "height": 1172,
+                "visibility": "public"
+            }
+        }
+    }
+}

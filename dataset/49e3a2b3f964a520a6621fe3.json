@@ -1,0 +1,1082 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc33cdf9396146d30ab9"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "49e3a2b3f964a520a6621fe3",
+            "name": "Starbucks",
+            "contact": {
+                "phone": "2127259469",
+                "formattedPhone": "(212) 725-9469",
+                "twitter": "starbucks",
+                "instagram": "starbucks",
+                "facebook": "22092443056",
+                "facebookUsername": "Starbucks",
+                "facebookName": "Starbucks"
+            },
+            "location": {
+                "address": "3 Park Ave",
+                "crossStreet": "at E 34th St",
+                "lat": 40.746723,
+                "lng": -73.981094,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.746723,
+                        "lng": -73.981094
+                    },
+                    {
+                        "label": "entrance",
+                        "lat": 40.746616,
+                        "lng": -73.981359
+                    }
+                ],
+                "radius50": 20,
+                "radius90": 205,
+                "postalCode": "10016",
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "3 Park Ave (at E 34th St)",
+                    "New York, NY 10016",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/starbucks/49e3a2b3f964a520a6621fe3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "shortName": "Coffee Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 13035,
+                    "mapIcon": "fsq-coffee",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 38
+            },
+            "url": "https://www.starbucks.com/store/14526",
+            "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+            },
+            "hasMenu": true,
+            "likes": {
+                "count": 175,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 175,
+                        "items": []
+                    }
+                ],
+                "summary": "175 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 6.5 out of 10.",
+            "rating": 6.5,
+            "ratingColor": "FFC800",
+            "ratingSignals": 276,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "poor",
+            "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://www.starbucks.com/menu",
+                "mobileUrl": "https://www.starbucks.com/menu",
+                "externalUrl": "https://www.starbucks.com/menu"
+            },
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 111,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 111,
+                        "items": [
+                            {
+                                "id": "624379c03264860ca1831a59",
+                                "createdAt": 1648589248,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/8914615_mJV5jeB-sPnCVJst6BSarCjU97nVQ4MILFVAjdeO78Y.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "8914615",
+                                    "firstName": "Naish",
+                                    "lastName": "M",
+                                    "handle": "naishm4477429",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/SV4JGAY1PQB3VJMX.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "61435e15005885463df721b8",
+                                "createdAt": 1631804949,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/8914615_oIAIg0mzRumSMw5lp9venIZdYmQZ0J0rprsNSAmdnQA.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "8914615",
+                                    "firstName": "Naish",
+                                    "lastName": "M",
+                                    "handle": "naishm4477429",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/SV4JGAY1PQB3VJMX.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "5fa40e56e944ec5de65a25aa",
+                                "createdAt": 1604587094,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/5786349_uoQnbKlFNioBnvlFxZJYlFvhZEDV9ERMhRuR4GSq3so.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "5786349",
+                                    "firstName": "Lynn",
+                                    "lastName": "B",
+                                    "handle": "smilingdaily",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/MOH2YY1OGYQIOJYP.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "5ee79b8d8ad9840008796019",
+                                "createdAt": 1592236941,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/12631288__HK-lza2l6WtQwHm0H6KigkC_kpwlSfovaffTcN0iY4.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "12631288",
+                                    "firstName": "Tony",
+                                    "lastName": "Buckland",
+                                    "handle": "bigtonybuck",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/5F5U5ERSEG5MPOVA.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "East 34th and Park",
+            "storeId": "8130",
+            "page": {
+                "pageInfo": {
+                    "description": "Follow Starbucks on Foursquare to check in and earn great badges. Visit enough stores to become the envy of your friends with the Barista Badge.",
+                    "banner": "https://is1.4sqi.net/userpix/EEKNV3AQRAQ4IV3G.png",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://www.starbucks.com/"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "1070527",
+                    "firstName": "Starbucks",
+                    "handle": "starbucks",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/PM3ZCXLZIG3WZHVC.png"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 45
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "Seattle, WA",
+                    "bio": "",
+                    "contact": {
+                        "twitter": "starbucks",
+                        "facebook": "22092443056"
+                    }
+                }
+            },
+            "createdAt": 1239655091,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 38,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 38,
+                        "items": [
+                            {
+                                "id": "4bfdd55570c603bb15219db4",
+                                "createdAt": 1274926421,
+                                "text": "Stop by often enough so that Delilah or Tina know you by name and start your drink order while you're at the back of the line.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4bfdd55570c603bb15219db4",
+                                "likes": {
+                                    "count": 7,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 7,
+                                            "items": [
+                                                {
+                                                    "id": "85909985",
+                                                    "firstName": "Adam",
+                                                    "lastName": "Cerny",
+                                                    "handle": "adamcerny",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/85909985_RAFiMup7_x79kql0KsQCoHkZofDAavy5SWtbVcb6vW2Mdvd557U4qIke0okcZsJWReHi7RF-l.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "18903986",
+                                                    "firstName": "Malia",
+                                                    "lastName": "Yoshioka",
+                                                    "handle": "maliayoshioka",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "TR",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/II4MR1IXSRKUZSTA.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "4413594",
+                                                    "firstName": "Carlos",
+                                                    "lastName": "Arias",
+                                                    "handle": "carlosarias82",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "DO",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/4413594_QfH1wdkA_dICSRH7e2CsNleORjvl3L6AipY4hCYy_ZK8LUtaTeE8KJHGKepb_UZ6GFgVhicXW.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "74617617",
+                                                    "firstName": "Marisa",
+                                                    "handle": "marisa3949090",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/74617617-RYJIGVEN4QXLFQBJ.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "7 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 7,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "1016249",
+                                    "firstName": "Nate",
+                                    "lastName": "Richards",
+                                    "handle": "natejrichards",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/FOSOXVPFCRNKFTLW.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4ca3b1c45e3076b0ddb7f80c",
+                                "createdAt": 1285796292,
+                                "text": "There's a quite long communal table in the back, and good wireless internet access. There's also a sunporch for people-watching. One of the larger Starbucks I've seen in NY.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ca3b1c45e3076b0ddb7f80c",
+                                "likes": {
+                                    "count": 3,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 3,
+                                            "items": [
+                                                {
+                                                    "id": "74617617",
+                                                    "firstName": "Marisa",
+                                                    "handle": "marisa3949090",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/74617617-RYJIGVEN4QXLFQBJ.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "3103452",
+                                                    "firstName": "Nazary",
+                                                    "lastName": "Nebeluk",
+                                                    "handle": "nnebeluk",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/3103452-GWSRR3ZMHPONZYMP.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "1256856",
+                                                    "firstName": "Scott",
+                                                    "lastName": "K",
+                                                    "handle": "scottk_nyc",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1256856_wP09s4wj_NDRtnNfe7mAXyDyQLDdoFIlK31GjZI2-SNHwZZFP0XeNd2mG8zSlleM_OTVwNka8.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "3 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 3,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "11133",
+                                    "firstName": "Cam",
+                                    "lastName": "Cross",
+                                    "handle": "camc1887373",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/PGL2I55CW1RFORRA.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "507f25f4e4b0225db1755626",
+                                "createdAt": 1350510068,
+                                "text": "New management tries to cheat you out of your free refills.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/507f25f4e4b0225db1755626",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 2,
+                                            "items": [
+                                                {
+                                                    "id": "24816180",
+                                                    "firstName": "Alexandra",
+                                                    "lastName": "D.",
+                                                    "handle": "alexandd1580557",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "MX",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/KWGSMRURPBHMVVPX.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "17853217",
+                                                    "firstName": "EMB",
+                                                    "handle": "eom5002",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/C2ZM0I20RCJIMRQ5.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "2 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 2,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "284370",
+                                    "firstName": "Katherine",
+                                    "lastName": "Huang Ortiz",
+                                    "handle": "kathhuang",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/VAURJTULFZUUVRZB.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4f4bcf46e4b0605e460e3072",
+                                "createdAt": 1330368326,
+                                "text": "Literally live here, can catch me sipping  an ice coffee with 2 pumps caramel accompanied by chocolate covered graham crackers, on the DaAILY.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f4bcf46e4b0605e460e3072",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 2,
+                                            "items": [
+                                                {
+                                                    "id": "36936351",
+                                                    "firstName": "Valerie",
+                                                    "lastName": "Kapassakis",
+                                                    "handle": "valeriek1727749",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/LG3D454DPLDMO5OB.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "25972414",
+                                                    "firstName": "Ed",
+                                                    "lastName": "Deline",
+                                                    "handle": "mikemettler",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/25972414_-kUKROOw_In8LR3957h-MtMAe0ekF4rNS8xORG-xjY_T87Tckr69HXCuNNOIHYrwGBITGq16k.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "2 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 4,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "22115744",
+                                    "firstName": "robin",
+                                    "lastName": "pollack",
+                                    "handle": "robinp5980809",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_girl.png",
+                                        "default": true
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/5Bpsxh",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 15,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 15,
+                        "items": [
+                            {
+                                "id": "5016f0c5e4b035462abb6ef3",
+                                "name": "NYC Starbucks",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "26120399",
+                                    "firstName": "Meghana",
+                                    "lastName": "Pakala",
+                                    "handle": "meghananana",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/HPSFGPMRT4W2IR0A.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/meghananana/list/nyc-starbucks",
+                                "canonicalUrl": "https://foursquare.com/meghananana/list/nyc-starbucks",
+                                "createdAt": 1343680709,
+                                "updatedAt": 1404729288,
+                                "followers": {
+                                    "count": 20
+                                },
+                                "listItems": {
+                                    "count": 150,
+                                    "items": [
+                                        {
+                                            "id": "v49e3a2b3f964a520a6621fe3",
+                                            "createdAt": 1343706425
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4eb2a95ce5faec3a7e3dd815",
+                                "name": "Every Starbucks in NYC",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "387297",
+                                    "firstName": "alen",
+                                    "lastName": "teplitsky",
+                                    "handle": "alent1234",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/DDIEPNDRPWCHWDQO.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/alent1234/list/every-starbucks-in-nyc",
+                                "canonicalUrl": "https://foursquare.com/alent1234/list/every-starbucks-in-nyc",
+                                "createdAt": 1320331612,
+                                "updatedAt": 1636158831,
+                                "followers": {
+                                    "count": 112
+                                },
+                                "listItems": {
+                                    "count": 87,
+                                    "items": [
+                                        {
+                                            "id": "v49e3a2b3f964a520a6621fe3",
+                                            "createdAt": 1320331752
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "worst starbucks in nyc",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    11,
+                                    33
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "by far the worst Starbucks in NYC. the staff is loud, rude and..."
+                    },
+                    "count": 2
+                },
+                {
+                    "phrase": "delilah",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    7
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Delilah and the rest of the girls at the 34th St...."
+                    },
+                    "count": 2
+                },
+                {
+                    "phrase": "drink order",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    27,
+                                    38
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... by name and start your drink order while you're at the back of the line."
+                    },
+                    "count": 2
+                }
+            ],
+            "hours": {
+                "status": "Closed until 5:30 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 5:30 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Fri",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:30 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu\u2013Fri",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "10:00 AM\u20133:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20131:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Tue",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Closed until 5:30 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 5:30 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Fri",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:30 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "parent": {
+                "id": "515b4f06e4b02ddfd29a4228",
+                "name": "3 Park Avenue",
+                "location": {
+                    "address": "3 Park Ave",
+                    "crossStreet": "at E 34th St",
+                    "lat": 40.746807868512406,
+                    "lng": -73.9812382058189,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.746807868512406,
+                            "lng": -73.9812382058189
+                        }
+                    ],
+                    "postalCode": "10016",
+                    "cc": "US",
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "3 Park Ave (at E 34th St)",
+                        "New York, NY 10016",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Structure",
+                        "pluralName": "Structures",
+                        "shortName": "Structure",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "categoryCode": 16007,
+                        "mapIcon": "fsq-default",
+                        "primary": true
+                    }
+                ],
+                "createdAt": 1364938502
+            },
+            "hierarchy": [
+                {
+                    "name": "3 Park Avenue",
+                    "lang": "en",
+                    "id": "515b4f06e4b02ddfd29a4228",
+                    "canonicalUrl": "https://foursquare.com/v/3-park-avenue/515b4f06e4b02ddfd29a4228"
+                }
+            ],
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "price",
+                        "name": "Price",
+                        "summary": "$$",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Price",
+                                "displayValue": "$$",
+                                "priceTier": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. NFC Payments & American Express)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "outdoorSeating",
+                        "name": "Outdoor Seating",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Outdoor Seating",
+                                "displayValue": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Free Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Free"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "serves",
+                        "name": "Menus",
+                        "summary": "Breakfast & Lunch",
+                        "count": 8,
+                        "items": [
+                            {
+                                "displayName": "Breakfast",
+                                "displayValue": "Breakfast"
+                            },
+                            {
+                                "displayName": "Lunch",
+                                "displayValue": "Lunch"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "parking",
+                        "name": "Parking",
+                        "summary": "Street Parking",
+                        "count": 5,
+                        "items": [
+                            {
+                                "displayName": "Street Parking",
+                                "displayValue": "Street"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "restroom",
+                        "name": "Restroom",
+                        "summary": "Restroom",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Restroom",
+                                "displayValue": "Yes"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "wheelchairAccessible",
+                        "name": "Wheelchair Accessible",
+                        "summary": "Wheelchair Accessible",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wheelchair Accessible",
+                                "displayValue": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "624379c03264860ca1831a59",
+                "createdAt": 1648589248,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/8914615_mJV5jeB-sPnCVJst6BSarCjU97nVQ4MILFVAjdeO78Y.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+            }
+        }
+    }
+}

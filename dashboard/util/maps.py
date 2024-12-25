@@ -29,7 +29,6 @@ def RenderMap(data,latlong,city,heatmap=False,density=False,pinpoin=False):
                 overlay=True,
                 control=True
             ).add_to(m)
-    # borough = gpd.read_file('dataset/Borough Boundaries.geojson')
     if heatmap:
         HeatMap(latlong).add_to(m)
 

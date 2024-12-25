@@ -1,0 +1,1105 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc31afcc7d5f51786cd8"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4a991c59f964a520662d20e3",
+            "name": "Paramus Park Mall",
+            "contact": {
+                "phone": "2012616108",
+                "formattedPhone": "(201) 261-6108",
+                "twitter": "paramuspark",
+                "facebook": "276221408978",
+                "facebookUsername": "ParamusPark",
+                "facebookName": "Paramus Park"
+            },
+            "location": {
+                "address": "700 Paramus Park",
+                "crossStreet": "btwn Route 17 & Garden State Pkwy",
+                "lat": 40.9566715,
+                "lng": -74.0688646,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.9566715,
+                        "lng": -74.0688646
+                    }
+                ],
+                "radius50": 15,
+                "radius90": 187,
+                "postalCode": "07652",
+                "cc": "US",
+                "city": "Paramus",
+                "state": "NJ",
+                "country": "United States",
+                "formattedAddress": [
+                    "700 Paramus Park (btwn Route 17 & Garden State Pkwy)",
+                    "Paramus, NJ 07652",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/paramus-park-mall/4a991c59f964a520662d20e3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fd941735",
+                    "name": "Shopping Mall",
+                    "pluralName": "Shopping Malls",
+                    "shortName": "Mall",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 17114,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 63
+            },
+            "url": "https://www.paramuspark.com/en.html",
+            "likes": {
+                "count": 329,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 329,
+                        "items": []
+                    }
+                ],
+                "summary": "329 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 7.4 out of 10.",
+            "rating": 7.4,
+            "ratingColor": "C5DE35",
+            "ratingSignals": 480,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "ok",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 311,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 311,
+                        "items": [
+                            {
+                                "id": "632e47b7234bbe2acb331572",
+                                "createdAt": 1663977399,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/565791__rn2PDxnlaPvgQjgjCyVMmXRMROgaH9BgjjPsQSy9sk.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "565791",
+                                    "firstName": "Jordan",
+                                    "handle": "jgollup",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/565791-C1BF003QRPQMMXR1.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "616f27f8788f89637d31d554",
+                                "createdAt": 1634674680,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/14562964_xagh-1j9s1CEL3W02X16WW0wcO--ESKqrFnAiG0pa38.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "14562964",
+                                    "firstName": "Angela",
+                                    "lastName": "Kuzmenka",
+                                    "handle": "angelak6425874",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/14562964_lBkKpT9H_Z8Ns7FLjdA8ZiQTf7XFv_8m7b7GTOX_KPJif5tB9P8QSldphqg1hpqXuRE8CZ3Hd.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "57312959cd10c838145af189",
+                                "createdAt": 1462839641,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/7033361_LSR7zRfxQbEtO__FWydi4aDFB4xdF_ExdMYxCzI0TMI.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "7033361",
+                                    "firstName": "Alain",
+                                    "lastName": "Gomez",
+                                    "handle": "alaingomez15",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/7033361-PQ2Y1IJVTNWB4AYY.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "54e22e0e498e0c64ca22bbee",
+                                "createdAt": 1424109070,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/30990334_v8gz3gQQi5mV1eWJKZQNxcXZpVTzXuBdhdmovToceW8.jpg",
+                                "width": 1440,
+                                "height": 1564,
+                                "user": {
+                                    "id": "30990334",
+                                    "firstName": "Piyawan",
+                                    "lastName": "Singh",
+                                    "handle": "piyawans4109850",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/30990334-DFRBBLN1B13WQ2JS.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "Welcome to Paramus Park, where you\u2019ll discover more than 100 specialty shops and your favorite department stores filled with everything on your list. Bring the kids and take a load off at the children\u2019s play area, then grab a bite at one of the popular quick-serve or full service restaurants.",
+            "storeId": "1370",
+            "page": {
+                "pageInfo": {
+                    "description": "GGP is a fully integrated, self-managed real estate investment trust focused on owning, managing, leasing, and redeveloping high-quality shopping malls.",
+                    "banner": "https://is1.4sqi.net/userpix/V2B4ZCVPET2YSNWL.jpg",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://www.ggp.com"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "id": "41103333",
+                    "firstName": "GGP",
+                    "handle": "ggp6348102",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/S0XRNFZXEFCSIQ2P.jpg"
+                    },
+                    "type": "chain",
+                    "tips": {
+                        "count": 108
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "Chicago, IL",
+                    "bio": "",
+                    "contact": {}
+                }
+            },
+            "createdAt": 1251548249,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 63,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 63,
+                        "items": [
+                            {
+                                "id": "506228e9e4b02b8da40bac2d",
+                                "createdAt": 1348610281,
+                                "text": "I like this mall because my go-to shops are here! Also, I'm 24 not 14. I want to get in & out without dodging packs of slow-moving high schoolers trying to make friends with \"cute\" strangers.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/506228e9e4b02b8da40bac2d",
+                                "likes": {
+                                    "count": 8,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 8,
+                                            "items": [
+                                                {
+                                                    "id": "26469979",
+                                                    "firstName": "Angela",
+                                                    "lastName": "Gugliotta-Maher",
+                                                    "handle": "higoodgirl",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/SRRIMUTJTUKEDGUS.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "12091",
+                                                    "firstName": "Andrew",
+                                                    "lastName": "Hogue",
+                                                    "handle": "ahogue",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/GVN0D4GLOHJNHQIP.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "13066898",
+                                                    "firstName": "Maggie",
+                                                    "lastName": "Dziadosz",
+                                                    "handle": "maggied6810282",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/13066898-QO0SPBWYPJLQPCR5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "9033319",
+                                                    "firstName": "Alex",
+                                                    "lastName": "V",
+                                                    "handle": "drinkingbadtea",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/RR202KCHIHTRETAU.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "8 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 13,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "17959149",
+                                    "firstName": "xxx",
+                                    "lastName": "xxx",
+                                    "handle": "xxxx8111824",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/FYGGXGS3VYJAMHQO.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4e7a4668d16401fc627540f3",
+                                "createdAt": 1316636264,
+                                "text": "come here if you dont wanna deal with GSP",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4e7a4668d16401fc627540f3",
+                                "likes": {
+                                    "count": 6,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 6,
+                                            "items": [
+                                                {
+                                                    "id": "2260340",
+                                                    "firstName": "Jana",
+                                                    "lastName": "O'Grady",
+                                                    "handle": "mrszog",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/42SVYR3BDL5OEUP5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "2206325",
+                                                    "firstName": "Victoria",
+                                                    "lastName": "Menichetti",
+                                                    "handle": "t0r14",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/blank_girl.png"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "7591055",
+                                                    "firstName": "Scott",
+                                                    "lastName": "Ruchok",
+                                                    "handle": "scottr7976558",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/7591055_FEaYRFmV_wLkvi-V6DwTsV4R0p8jJ9ayBDSsaQcjOLiDNY8f6IumGgP6-XbJi-6YmYbHdhhmX.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "6 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 5,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2206325",
+                                    "firstName": "Victoria",
+                                    "lastName": "Menichetti",
+                                    "handle": "t0r14",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_girl.png"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            },
+                            {
+                                "id": "4f886f9be4b04a075db5bdf1",
+                                "createdAt": 1334341531,
+                                "text": "Very low key, no obnoxious people.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f886f9be4b04a075db5bdf1",
+                                "likes": {
+                                    "count": 5,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 5,
+                                            "items": [
+                                                {
+                                                    "id": "13066898",
+                                                    "firstName": "Maggie",
+                                                    "lastName": "Dziadosz",
+                                                    "handle": "maggied6810282",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/13066898-QO0SPBWYPJLQPCR5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "2260340",
+                                                    "firstName": "Jana",
+                                                    "lastName": "O'Grady",
+                                                    "handle": "mrszog",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/42SVYR3BDL5OEUP5.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "34217306",
+                                                    "firstName": "John",
+                                                    "lastName": "N.",
+                                                    "handle": "jniebo",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/RMMCVTTBSTJBKINF.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "17959149",
+                                                    "firstName": "xxx",
+                                                    "lastName": "xxx",
+                                                    "handle": "xxxx8111824",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/FYGGXGS3VYJAMHQO.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "5 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 5,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "25513684",
+                                    "firstName": "Mike",
+                                    "lastName": "Preciado",
+                                    "handle": "mikeysocold",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/W2KQ4CVQNPLXUCVE.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "50104d41e4b017f65b495557",
+                                "createdAt": 1343245633,
+                                "text": "The food court is way better than the one at Garden State Plaza",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/50104d41e4b017f65b495557",
+                                "likes": {
+                                    "count": 3,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 3,
+                                            "items": [
+                                                {
+                                                    "id": "10477777",
+                                                    "firstName": "Sue",
+                                                    "lastName": "Buck",
+                                                    "handle": "sue7eleven",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/BLURRZR0GVVGUI5L.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "8541721",
+                                                    "firstName": "Chris",
+                                                    "lastName": "Whitney",
+                                                    "handle": "sevendustaholic",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/8541721-EACQ4ICSD00RPGDJ.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "30602329",
+                                                    "firstName": "Robert",
+                                                    "lastName": "Kramisen",
+                                                    "handle": "robertk6706611",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/CQ5W0KWIP1MPHXET.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "3 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 3,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "16950269",
+                                    "firstName": "Rachel",
+                                    "lastName": "K",
+                                    "handle": "zombieslayer87",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/C40ULCYFIX1MD02D.jpg"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/7rlMqb",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 61,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 61,
+                        "items": [
+                            {
+                                "id": "4fc57846e4b0a39ab0c3de47",
+                                "name": "Cleaning Kitchen &Portable Dishwasher on!",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "25198562",
+                                    "firstName": "Nancy A.",
+                                    "lastName": "Kraus",
+                                    "handle": "nancya.k2780302",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "DE",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/25198562-NB12KJJAV2NHSHSJ.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/nancya.k2780302/list/cleaning-kitchen-portable-dishwasher-on",
+                                "canonicalUrl": "https://foursquare.com/nancya.k2780302/list/cleaning-kitchen-portable-dishwasher-on",
+                                "createdAt": 1338341446,
+                                "updatedAt": 1636606465,
+                                "photo": {
+                                    "id": "504db65af31cb63fa77ee61e",
+                                    "createdAt": 1347270234,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/6EykV1SJzUQ9-IPy-WauYnJn7F8F9dPdzuySY4UWxqc.png",
+                                    "width": 300,
+                                    "height": 300,
+                                    "user": {
+                                        "id": "12720253",
+                                        "firstName": "4sq Addict",
+                                        "handle": "user12720253",
+                                        "privateProfile": false,
+                                        "gender": "none",
+                                        "countryCode": "TR",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/BWUTHSW4FMDI1O04.png"
+                                        },
+                                        "type": "chain"
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 12
+                                },
+                                "listItems": {
+                                    "count": 199,
+                                    "items": [
+                                        {
+                                            "id": "v4a991c59f964a520662d20e3",
+                                            "createdAt": 1339238122
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4ea05a196da1f94e5c3a7479",
+                                "name": "New Jersey Shopping Malls",
+                                "description": "New Jersey has more malls per square mile than any other state. This list is sorted (as best as possible), from the biggest malls to smallest. Now you know the best places to shop.",
+                                "type": "others",
+                                "user": {
+                                    "id": "161669",
+                                    "firstName": "Jimmy",
+                                    "lastName": "Kastner",
+                                    "handle": "jimmykastner",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/161669_fWgfcE-X_UHlpZfqUrMGrIEhkoP3DD1r5YymclhcBtHFnGxdAkrVHyh8OwXpX_uoYOnt6Nqhz.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/jimmykastner/list/new-jersey-shopping-malls",
+                                "canonicalUrl": "https://foursquare.com/jimmykastner/list/new-jersey-shopping-malls",
+                                "createdAt": 1319131673,
+                                "updatedAt": 1606079852,
+                                "photo": {
+                                    "id": "4e8cc89eb8f711fd9740acd6",
+                                    "createdAt": 1317849246,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/P5HG1GX1EYRU3NWNGJCALU2EUOGVFGVLTSAISOSPG3DTJZR0.jpg",
+                                    "width": 720,
+                                    "height": 540,
+                                    "user": {
+                                        "id": "14094508",
+                                        "firstName": "Walter",
+                                        "lastName": "Duralek Jr",
+                                        "handle": "durae66",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/14094508_d8vYqOBm_-wP_fO9Q02QFtjg9ryaLkaRuykv96ErxeMRd4DZSK44-f1JfEDBfdnVvUoLmmWwE.jpg"
+                                        }
+                                    },
+                                    "visibility": "friends"
+                                },
+                                "followers": {
+                                    "count": 206
+                                },
+                                "listItems": {
+                                    "count": 56,
+                                    "items": [
+                                        {
+                                            "id": "t4bf2915b70c603bbb1f89bb4",
+                                            "createdAt": 1319132632,
+                                            "tip": {
+                                                "id": "4bf2915b70c603bbb1f89bb4",
+                                                "createdAt": 1274188123,
+                                                "text": "It's a nice mall that isn't overcrowded.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4bf2915b70c603bbb1f89bb4",
+                                                "likes": {
+                                                    "count": 3,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 3,
+                                                            "items": [
+                                                                {
+                                                                    "id": "71138709",
+                                                                    "firstName": "Hakan",
+                                                                    "lastName": "Han",
+                                                                    "handle": "hakanh6042800",
+                                                                    "privateProfile": false,
+                                                                    "gender": "male",
+                                                                    "countryCode": "US",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/71138709-PWAEWC1E0O1ZJWWA.jpg"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "id": "26905844",
+                                                                    "firstName": "Andrea",
+                                                                    "lastName": "Piccinini",
+                                                                    "handle": "andreap7952421",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "countryCode": "US",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/B25TOY2MLBCZ0VVT.jpg"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "summary": "3 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 2,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 4
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "1283094",
+                                                    "firstName": "Rick",
+                                                    "lastName": "Knight",
+                                                    "handle": "rick_954",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1H2SHBB2DL2FAAX4.jpg"
+                                                    }
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "4e8c8b4c6da188ea92c30ef8",
+                                                "createdAt": 1317833548,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/JIESJ20AM2L2QNRG402UUGL3JFKIGTFIKCTJZAF5X0UANLAN.jpg",
+                                                "width": 540,
+                                                "height": 720,
+                                                "user": {
+                                                    "id": "1909264",
+                                                    "firstName": "Thomas",
+                                                    "lastName": "Reynolds",
+                                                    "handle": "randomtom83",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/1909264-C0MYSEHYXGIZ4DYQ.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "garden state plaza",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    25,
+                                    43
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... coming here over the garden state plaza. Always less crowded and some nice shops to..."
+                    },
+                    "count": 4
+                },
+                {
+                    "phrase": "worst mall",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    36
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... tip? Don't come here. Worst mall ever!"
+                    },
+                    "count": 2
+                }
+            ],
+            "hours": {
+                "status": "Closed until 11:00 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 11:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri\u2013Sat",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri\u2013Sat",
+                        "open": [
+                            {
+                                "renderedTime": "10:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "None"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue",
+                        "open": [
+                            {
+                                "renderedTime": "Noon\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Closed until 11:00 AM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 11:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri\u2013Sat",
+                        "open": [
+                            {
+                                "renderedTime": "11:00 AM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. American Express)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "632e47b7234bbe2acb331572",
+                "createdAt": 1663977399,
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/565791__rn2PDxnlaPvgQjgjCyVMmXRMROgaH9BgjjPsQSy9sk.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+            }
+        }
+    }
+}

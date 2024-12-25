@@ -17,7 +17,7 @@ with st.sidebar:
        'Tempat Kerja', 'Layanan Publik', 'Wisata',
        'Residental (Perumahan/Privat)'))
     if kategori:
-        WorkHourCategory(kategori,kota)
+        WorkDayCategory(kategori,kota)
     MostVisitedPlace(kota)
 
 # Main section
@@ -51,7 +51,7 @@ if "chosenCity" in st.session_state:
                 st.write(address)
             st.write(venue_data.get("contact", "No contact info"))
             st.write(venue_data.get("canonicalUrl", "No URL available"))
-            WorkHour(st.session_state["selectedVenue"],chosen_city)
+            WorkDay(st.session_state["selectedVenue"],chosen_city)
         yapper()
     # Display popular venues
     venue_counts = data['venueId'].value_counts().head(10).reset_index()
@@ -76,6 +76,7 @@ if "chosenCity" in st.session_state:
                         @st.dialog(f"Informasi {venue_data.get("name")} ")
                         def yapper():
                             st.session_state["selectedVenue"]=loc["Venue"]
+                            WorkDay(st.session_state["selectedVenue"],chosen_city)
                             WorkHour(st.session_state["selectedVenue"],chosen_city)
                             lat = venue_data.get("location", {}).get("lat")
                             lng = venue_data.get("location", {}).get("lng")

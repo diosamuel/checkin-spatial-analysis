@@ -1,0 +1,271 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc36518b5b0be2992353"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "500aaf82e4b008129699926f",
+            "name": "Big Vic's Gym",
+            "contact": {},
+            "location": {
+                "lat": 40.63130818716343,
+                "lng": -74.02330556282206,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63130818716343,
+                        "lng": -74.02330556282206
+                    }
+                ],
+                "radius50": 479,
+                "radius90": 711,
+                "postalCode": "11209",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "Brooklyn, NY 11209",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/big-vics-gym/500aaf82e4b008129699926f",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d176941735",
+                    "name": "Gym",
+                    "pluralName": "Gyms",
+                    "shortName": "Gym",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 18077,
+                    "mapIcon": "fsq-sports-rec",
+                    "primary": true
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 0
+            },
+            "likes": {
+                "count": 2,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 2,
+                        "items": [
+                            {
+                                "id": "39373973",
+                                "firstName": "Caren",
+                                "lastName": "Ccat",
+                                "handle": "carenc6806185",
+                                "privateProfile": false,
+                                "gender": "female",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/-YK2PJE5ODNJ3SWDD.jpg"
+                                }
+                            },
+                            {
+                                "id": "2179444",
+                                "firstName": "Vicario Brensley",
+                                "lastName": "Phillip",
+                                "handle": "mr_vbp",
+                                "privateProfile": false,
+                                "gender": "male",
+                                "countryCode": "US",
+                                "followingRelationship": "none",
+                                "photo": {
+                                    "prefix": "https://fastly.4sqi.net/img/user/",
+                                    "suffix": "/G2ZAH4AZQO5S3V5V.jpg"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "summary": "Caren Ccat & Vicario Brensley Phillip"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 1,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 1,
+                        "items": [
+                            {
+                                "id": "59975272f8cbd46f1c226a06",
+                                "createdAt": 1503089266,
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                                "width": 3888,
+                                "height": 2592,
+                                "user": {
+                                    "id": "212169387",
+                                    "firstName": "pivot_photos",
+                                    "handle": "pivot_ph1171738",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    },
+                                    "type": "page"
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 0,
+                "items": []
+            },
+            "createdAt": 1342877570,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 0,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/MsLL1d",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 0,
+                "groups": []
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 AM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu\u2013Fri",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 AM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "open": [
+                            {
+                                "renderedTime": "6:00 AM\u20139:00 AM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Tue",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 AM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "No Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "No"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "59975272f8cbd46f1c226a06",
+                "createdAt": 1503089266,
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                "width": 3888,
+                "height": 2592,
+                "visibility": "public"
+            },
+            "colors": {
+                "highlightColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -14145480
+                },
+                "highlightTextColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -1
+                },
+                "algoVersion": 3
+            }
+        }
+    }
+}

@@ -35,7 +35,6 @@ def fetchAPI(venueId):
         data = response.json()
 
         # Save JSON data to file
-        # os.makedirs("datasets", exist_ok=True)  # Ensure the datasets/ folder exists
         with open(file_path, "w", encoding="utf-8") as file:
             json.dump(data, file, indent=4)
 

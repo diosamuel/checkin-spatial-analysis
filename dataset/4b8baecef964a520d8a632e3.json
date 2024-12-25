@@ -1,0 +1,744 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc33c4eda827b2e20533"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4b8baecef964a520d8a632e3",
+            "name": "Terminal A",
+            "contact": {
+                "facebook": "105640549469653",
+                "facebookName": "Newark Liberty International Airport"
+            },
+            "location": {
+                "address": "EWR Airport",
+                "lat": 40.68756976065278,
+                "lng": -74.18234825134277,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.68756976065278,
+                        "lng": -74.18234825134277
+                    }
+                ],
+                "radius50": 102,
+                "radius90": 432,
+                "postalCode": "07114",
+                "cc": "US",
+                "city": "Newark",
+                "state": "NJ",
+                "country": "United States",
+                "formattedAddress": [
+                    "EWR Airport",
+                    "Newark, NJ 07114",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/terminal-a/4b8baecef964a520d8a632e3",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1eb931735",
+                    "name": "Airport Terminal",
+                    "pluralName": "Airport Terminals",
+                    "shortName": "Terminal",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_gate_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 19037,
+                    "mapIcon": "fsq-default",
+                    "primary": true
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 325
+            },
+            "closed": true,
+            "url": "https://www.newarkairport.com",
+            "likes": {
+                "count": 155,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 155,
+                        "items": []
+                    }
+                ],
+                "summary": "155 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "This place doesn't have a rating yet. Once more members of the Foursquare community visit, we can calculate a rating.",
+            "venueRatingBlacklisted": true,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 462,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 462,
+                        "items": [
+                            {
+                                "id": "63be9f48dd853d6eab10b80c",
+                                "createdAt": 1673437000,
+                                "source": {
+                                    "name": "Swarm for Android",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/147499219_6luKhxQnDORPQez1SGifWLbC7FScgmAL2ZRNt-kD-c4.jpg",
+                                "width": 1080,
+                                "height": 1440,
+                                "user": {
+                                    "id": "147499219",
+                                    "firstName": "Beatriz",
+                                    "lastName": "Benz",
+                                    "handle": "biamodels",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "BR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/147499219_Y7n04TdP_Kr4AabWop1VRnRMA-88uPG8hxp1hzmJBADcOnSiEr-ojUnu7aoVZ6yQSCG7f1-Lw.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "63817844ec0ebb5c516cf494",
+                                "createdAt": 1669429316,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/49472377_ESv5EhocxjnAl4U3Uzuu629LFCER3rzf_NLd8Q1lwJg.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "49472377",
+                                    "firstName": "\u0418\u0433\u043e\u0440\u044c",
+                                    "lastName": "\u041a\u0440\u0430\u0441\u0443\u043b\u0438\u043d",
+                                    "handle": "gormatniu88",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "UA",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/49472377_zumQir5U_u0DPgilxb3dw6r-vwFnljY0R-YfYPANNnMurvcH2Ocn-kONIA_f6Azv-CDloB8QG.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "6324f1ca2a0a2a4598ca098f",
+                                "createdAt": 1663365578,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/3999816_88csUi60-MSKV0uraM0eS40cpZ_cVUpUYpu_GgKZtI4.jpg",
+                                "width": 1920,
+                                "height": 1440,
+                                "user": {
+                                    "id": "3999816",
+                                    "firstName": "Rumi",
+                                    "handle": "rumiide",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/3999816_M1KZni3b_qGgbf3aCVLleFkd-ZVRk4Wv76XNcEjxYwn2ruMT1Z9XwbAzQqRj0quqYZzVO0Vma.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            },
+                            {
+                                "id": "621e2ac9c247493e79420b6f",
+                                "createdAt": 1646144201,
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/499470561_LUFwkKFIJaPdVNZCeQI99PUxOn9yAFdFrwGZd24zGL0.jpg",
+                                "width": 1440,
+                                "height": 1920,
+                                "user": {
+                                    "id": "499470561",
+                                    "firstName": "Matthew",
+                                    "lastName": "Katzenstein",
+                                    "handle": "matthewk1439845",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/499470561_KPPlQzH0_z0nvlWKtEnJeN0ULaXiZEWpr9Jtw5p4orKYYpeqV6Efz0PD6ZnFxwDbsXdEWhJig.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "Newark Liberty has three major terminals: A, B and C. With 27 gates, Terminal A branches out into three circular satellite buildings, designed as A-1, A-2 and A-3.",
+            "createdAt": 1267445454,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 325,
+                "groups": [
+                    {
+                        "type": "self",
+                        "name": "Tips you\u2019ve left here",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "friends",
+                        "name": "Tips from friends",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 325,
+                        "items": [
+                            {
+                                "id": "4bf452db70c603bb30289cb4",
+                                "createdAt": 1274303195,
+                                "text": "Slowest security screening on the eastern seaboard",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4bf452db70c603bb30289cb4",
+                                "likes": {
+                                    "count": 88,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 88,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "88 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 32,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "32488",
+                                    "firstName": "shaun",
+                                    "lastName": "quigley",
+                                    "handle": "shaunq6903292",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/32488_1259959415377.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4d5ec8809f67f04db5c064fb",
+                                "createdAt": 1298057344,
+                                "text": "Soviet Era Terminal. Pure disgrace that we actually have infrastructure like this.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d5ec8809f67f04db5c064fb",
+                                "likes": {
+                                    "count": 41,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 41,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "41 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 24,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2010992",
+                                    "firstName": "Geoff",
+                                    "lastName": "Schneider",
+                                    "handle": "gschneider7",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4b543c1e70c603bbb97a90b4",
+                                "createdAt": 1263811614,
+                                "text": "Eat before you get through security. The food choices inside are next to none",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b543c1e70c603bbb97a90b4",
+                                "likes": {
+                                    "count": 41,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 41,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "41 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 38,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 2
+                                },
+                                "user": {
+                                    "id": "31712",
+                                    "firstName": "Scott",
+                                    "lastName": "Menzer",
+                                    "handle": "smenzer",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "FR",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/31712-53DENEODQKTHBDAB.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "4eebd8c74901dff30575dded",
+                                "createdAt": 1324079303,
+                                "text": "Somewhat better than prison.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4eebd8c74901dff30575dded",
+                                "likes": {
+                                    "count": 27,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 27,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "27 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 27,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2434612",
+                                    "firstName": "David",
+                                    "lastName": "Smagula",
+                                    "handle": "davids8241215",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/GWDP50NIWMS4ZMRM.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/aYiVwO",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 20,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 20,
+                        "items": [
+                            {
+                                "id": "4eae786282315d0ca602a691",
+                                "name": "Follow @yosoyfresko @buildinvibe on twitter",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "2167101",
+                                    "firstName": "Fresko",
+                                    "lastName": "BUILDING VIBE\u2122",
+                                    "handle": "yosoyfresko",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/2167101-OCJD5QM2MYXZYUO5.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/yosoyfresko/list/follow-yosoyfresko-buildinvibe-on-twitter-1",
+                                "canonicalUrl": "https://foursquare.com/yosoyfresko/list/follow-yosoyfresko-buildinvibe-on-twitter-1",
+                                "createdAt": 1320056930,
+                                "updatedAt": 1370137434,
+                                "followers": {
+                                    "count": 5
+                                },
+                                "listItems": {
+                                    "count": 40,
+                                    "items": [
+                                        {
+                                            "id": "v4b8baecef964a520d8a632e3",
+                                            "createdAt": 1320057107
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4e79761545dd919c6127b618",
+                                "name": "Airports in US, Canada, Mexico and South America",
+                                "description": "Airport in Nortth and South America",
+                                "type": "others",
+                                "user": {
+                                    "id": "12100135",
+                                    "firstName": "Hiro A",
+                                    "lastName": "H R",
+                                    "handle": "arthurrussell",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "countryCode": "JP",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/12100135-YTANKZDGZOPHBSTB.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": true,
+                                "url": "/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "canonicalUrl": "https://foursquare.com/arthurrussell/list/airports-in-us-canada-mexico-and-south-america",
+                                "createdAt": 1316582933,
+                                "updatedAt": 1537626554,
+                                "photo": {
+                                    "id": "4e84bba6b8f7fa1afc191e0a",
+                                    "createdAt": 1317321638,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/ERSP3UH2STFLZCH5ATDDKKK20C5JR2FBHFIVXDBDSJ1VPQTN.jpg",
+                                    "width": 720,
+                                    "height": 402,
+                                    "user": {
+                                        "id": "1176147",
+                                        "firstName": "Larry",
+                                        "lastName": "Fretz",
+                                        "handle": "larryfretz",
+                                        "privateProfile": false,
+                                        "gender": "male",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/5LV1JEWVY3R0AZWZ.jpg"
+                                        }
+                                    },
+                                    "visibility": "public"
+                                },
+                                "followers": {
+                                    "count": 1094
+                                },
+                                "listItems": {
+                                    "count": 200,
+                                    "items": [
+                                        {
+                                            "id": "t4b543c1e70c603bbb97a90b4",
+                                            "createdAt": 1320076419,
+                                            "tip": {
+                                                "id": "4b543c1e70c603bbb97a90b4",
+                                                "createdAt": 1263811614,
+                                                "text": "Eat before you get through security. The food choices inside are next to none",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/4b543c1e70c603bbb97a90b4",
+                                                "likes": {
+                                                    "count": 41,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 41,
+                                                            "items": []
+                                                        }
+                                                    ],
+                                                    "summary": "41 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 38,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 2
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "31712",
+                                                    "firstName": "Scott",
+                                                    "lastName": "Menzer",
+                                                    "handle": "smenzer",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "FR",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/31712-53DENEODQKTHBDAB.jpg"
+                                                    }
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "4e5eefbdd4c08cf7f595260b",
+                                                "createdAt": 1314844605,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/N2RAY0PHIPTVIG0UI0L4NBMX2PKTCOOPGD50XWLYTJDTL1AY.jpg",
+                                                "width": 720,
+                                                "height": 537,
+                                                "user": {
+                                                    "id": "11362904",
+                                                    "firstName": "Armando",
+                                                    "lastName": "De la Cruz",
+                                                    "handle": "armandod4111621",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/X4KV55CMEL4UQB30.jpg"
+                                                    }
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "terminal c",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    36
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... to navigate. Got from terminal c to terminal a in about 5 mins"
+                    },
+                    "count": 19
+                },
+                {
+                    "phrase": "worst terminal",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    4,
+                                    18
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "The worst terminal of Newark and probably any other airport in..."
+                    },
+                    "count": 11
+                },
+                {
+                    "phrase": "eat before",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    27,
+                                    37
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... at the boarding gate!  Eat before you enter screening. There are only 4..."
+                    },
+                    "count": 14
+                }
+            ],
+            "seasonalHours": [],
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "parent": {
+                "id": "4459d2f1f964a520d7321fe3",
+                "name": "Newark Liberty International Airport (EWR)",
+                "location": {
+                    "address": "Brewster Rd",
+                    "crossStreet": "at Lindbergh Rd",
+                    "lat": 40.692971458363075,
+                    "lng": -74.17799234390257,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.692971458363075,
+                            "lng": -74.17799234390257
+                        }
+                    ],
+                    "postalCode": "07114",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "NJ",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Brewster Rd (at Lindbergh Rd)",
+                        "Newark, NJ 07114",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "63be6904847c3692a84b9c29",
+                        "name": "International Airport",
+                        "pluralName": "International Airports",
+                        "shortName": "International Airport",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+                            "suffix": ".png"
+                        },
+                        "categoryCode": 19040,
+                        "mapIcon": "fsq-travel",
+                        "primary": true
+                    }
+                ],
+                "venuePage": {
+                    "id": "73526424"
+                },
+                "createdAt": 1146737393
+            },
+            "hierarchy": [
+                {
+                    "name": "Newark Liberty International Airport",
+                    "lang": "en",
+                    "id": "4459d2f1f964a520d7321fe3",
+                    "canonicalUrl": "https://foursquare.com/v/newark-liberty-international-airport-ewr/4459d2f1f964a520d7321fe3"
+                }
+            ],
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "wifi",
+                        "name": "Wi-Fi",
+                        "summary": "Wi-Fi",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "63be9f48dd853d6eab10b80c",
+                "createdAt": 1673437000,
+                "source": {
+                    "name": "Swarm for Android",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/147499219_6luKhxQnDORPQez1SGifWLbC7FScgmAL2ZRNt-kD-c4.jpg",
+                "width": 1080,
+                "height": 1440,
+                "visibility": "public"
+            }
+        }
+    }
+}

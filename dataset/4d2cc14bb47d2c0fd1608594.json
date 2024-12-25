@@ -1,0 +1,1097 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "676bdc347b49d71d730d7e23"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venue": {
+            "id": "4d2cc14bb47d2c0fd1608594",
+            "name": "Barry's Bootcamp",
+            "contact": {
+                "phone": "6465592721",
+                "formattedPhone": "(646) 559-2721",
+                "twitter": "barrysbootcamp",
+                "facebook": "223775994302621",
+                "facebookUsername": "barrysnyc",
+                "facebookName": "Barry's Bootcamp New York City"
+            },
+            "location": {
+                "address": "135 W 20th St",
+                "crossStreet": "btwn 6th & 7th Ave",
+                "lat": 40.74164734518163,
+                "lng": -73.99576918937264,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.74164734518163,
+                        "lng": -73.99576918937264
+                    }
+                ],
+                "radius50": 51,
+                "radius90": 319,
+                "postalCode": "10011",
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [
+                    "135 W 20th St (btwn 6th & 7th Ave)",
+                    "New York, NY 10011",
+                    "United States"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/barrysbo5000586",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d175941735",
+                    "name": "Gym and Studio",
+                    "pluralName": "Gym and Studios",
+                    "shortName": "Gym and Studio",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 18021,
+                    "mapIcon": "fsq-sports-rec",
+                    "primary": true
+                },
+                {
+                    "id": "4bf58dd8d48988d176941735",
+                    "name": "Gym",
+                    "pluralName": "Gyms",
+                    "shortName": "Gym",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                        "suffix": ".png"
+                    },
+                    "categoryCode": 18077,
+                    "mapIcon": "fsq-sports-rec"
+                }
+            ],
+            "verified": true,
+            "stats": {
+                "tipCount": 63
+            },
+            "url": "http://www.barrysbootcamp.com/chelsea/location",
+            "hasMenu": true,
+            "likes": {
+                "count": 441,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 441,
+                        "items": []
+                    }
+                ],
+                "summary": "441 Likes"
+            },
+            "like": false,
+            "dislike": false,
+            "ok": false,
+            "header": "According to the Foursquare community, this place is a 9.1 out of 10.",
+            "rating": 9.1,
+            "ratingColor": "00B551",
+            "ratingSignals": 519,
+            "explanation": "We take into account visits and input from our community. You'll see a number on places based off of ratings and tips written by people like you.",
+            "ratingCategory": "topRated",
+            "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/barrysbo5000586/menu",
+                "mobileUrl": "https://foursquare.com/v/4d2cc14bb47d2c0fd1608594/device_menu"
+            },
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "photos": {
+                "count": 1,
+                "groups": [
+                    {
+                        "type": "venue",
+                        "name": "Venue photos",
+                        "count": 1,
+                        "items": [
+                            {
+                                "id": "59975272f8cbd46f1c226a06",
+                                "createdAt": 1503089266,
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                                "width": 3888,
+                                "height": 2592,
+                                "user": {
+                                    "id": "212169387",
+                                    "firstName": "pivot_photos",
+                                    "handle": "pivot_ph1171738",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    },
+                                    "type": "page"
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venuePage": {
+                "id": "33360126"
+            },
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "summary": "Lots of people like this place",
+                        "type": "general",
+                        "reasonName": "rawLikesReason"
+                    }
+                ]
+            },
+            "description": "30 minutes of cardio/treadmills and 30 minutes of strength training with free weights, bars, bands, and core strength drills in a dance club-like space.",
+            "storeId": "",
+            "page": {
+                "user": {
+                    "id": "33360126",
+                    "firstName": "Barry's Bootcamp",
+                    "handle": "barrysbo5000586",
+                    "privateProfile": false,
+                    "gender": "none",
+                    "countryCode": "US",
+                    "followingRelationship": "none",
+                    "photo": {
+                        "prefix": "https://fastly.4sqi.net/img/user/",
+                        "suffix": "/33360126-FZ5SIDXJRUK21EJE.png"
+                    },
+                    "type": "venuePage",
+                    "venue": {
+                        "id": "4d2cc14bb47d2c0fd1608594"
+                    },
+                    "tips": {
+                        "count": 0
+                    },
+                    "lists": {
+                        "groups": [
+                            {
+                                "type": "created",
+                                "count": 2,
+                                "items": []
+                            }
+                        ]
+                    },
+                    "homeCity": "New York, NY",
+                    "bio": "",
+                    "contact": {
+                        "facebook": "223775994302621"
+                    }
+                }
+            },
+            "createdAt": 1294778699,
+            "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+            },
+            "tips": {
+                "count": 63,
+                "groups": [
+                    {
+                        "type": "following",
+                        "name": "Tips from people you follow",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "others",
+                        "name": "All tips",
+                        "count": 63,
+                        "items": [
+                            {
+                                "id": "51731d49e4b05bb9f7efc6bd",
+                                "createdAt": 1366498633,
+                                "text": "I think everyone is gay here. No, I mean everyone.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/51731d49e4b05bb9f7efc6bd",
+                                "likes": {
+                                    "count": 14,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 14,
+                                            "items": []
+                                        }
+                                    ],
+                                    "summary": "14 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 14,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 6
+                                },
+                                "user": {
+                                    "id": "1700850",
+                                    "firstName": "Brian",
+                                    "lastName": "Michael",
+                                    "handle": "pacliboi04",
+                                    "privateProfile": false,
+                                    "gender": "male",
+                                    "address": "",
+                                    "city": "",
+                                    "state": "",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png"
+                                    }
+                                },
+                                "authorInteractionType": "liked"
+                            },
+                            {
+                                "id": "509834c6e4b0a40e1e0ece7a",
+                                "createdAt": 1352152262,
+                                "text": "Not for the weak of ambition!  The classes are doable for a beginner but get ready to WORK.  TIP: Get there early because everyone rushes to be on the treadmill first.  Try Rhonda or Harley!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/509834c6e4b0a40e1e0ece7a",
+                                "likes": {
+                                    "count": 8,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 8,
+                                            "items": [
+                                                {
+                                                    "id": "1700850",
+                                                    "firstName": "Brian",
+                                                    "lastName": "Michael",
+                                                    "handle": "pacliboi04",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/blank_boy.png"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "75327540",
+                                                    "firstName": "Brittany",
+                                                    "lastName": "Blonkvist",
+                                                    "handle": "brittanb5672777",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/75327540-2XHPTIUX43ZJ10NG.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "81856652",
+                                                    "firstName": "Avi",
+                                                    "lastName": "Lasri",
+                                                    "handle": "avil7533594",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/81856652-D2P25CK42LRTLGOD.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "10515614",
+                                                    "firstName": "Venessa Marie",
+                                                    "lastName": "Vargas",
+                                                    "handle": "venessav6694741",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/BJSRR3LU5O4ZIU24.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "8 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 9,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "39835000",
+                                    "firstName": "Sportaneous",
+                                    "handle": "sportaneous",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/BO0WMR1GPFZR2TEN.png"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4f46d60ae4b0db1b33348f15",
+                                "createdAt": 1330042378,
+                                "text": "No class is ever the same: Some days you\u2019ll run for 30 minutes on joint-friendly Woodway treadmills then switch to free weights; other days you\u2019ll alternate every five minutes.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f46d60ae4b0db1b33348f15",
+                                "likes": {
+                                    "count": 6,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 6,
+                                            "items": [
+                                                {
+                                                    "id": "1700850",
+                                                    "firstName": "Brian",
+                                                    "lastName": "Michael",
+                                                    "handle": "pacliboi04",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "address": "",
+                                                    "city": "",
+                                                    "state": "",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/blank_boy.png"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "40914728",
+                                                    "firstName": "Tara",
+                                                    "lastName": "Doyle",
+                                                    "handle": "tarad6389525",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/40914728-EQNPSZERL3HIKFGD.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "12998944",
+                                                    "firstName": "Alisa",
+                                                    "lastName": "Richter Sheridan",
+                                                    "handle": "alisaq",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/12998944-SWKONXS1EEWLCFOH.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "2013491",
+                                                    "firstName": "Joleen",
+                                                    "handle": "joleenzanuzoski",
+                                                    "privateProfile": false,
+                                                    "gender": "female",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/2013491_jwpXrUiS_2NHbbSy6Vkwe2PAlSbox3dDcKcAKepyxeYjnoaQ_Ez1yr6kzSNftQ8RqrP867oH2.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "6 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 6,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "14046172",
+                                    "firstName": "amNewYork",
+                                    "handle": "amnewyor7318562",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/W5FDOL52N2AT4M4G.jpg"
+                                    },
+                                    "type": "page"
+                                }
+                            },
+                            {
+                                "id": "4e511fa8ae6051db8de34b8e",
+                                "createdAt": 1313939368,
+                                "text": "Just took Harley's class... Soo good!! Much better than the last one I had.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4e511fa8ae6051db8de34b8e",
+                                "likes": {
+                                    "count": 5,
+                                    "groups": [
+                                        {
+                                            "type": "others",
+                                            "count": 5,
+                                            "items": [
+                                                {
+                                                    "id": "61207536",
+                                                    "firstName": "Michael",
+                                                    "lastName": "Clusk",
+                                                    "handle": "michaelc5547850",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/61207536-C2S05305F0IDWXE2.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "70144243",
+                                                    "firstName": "Christopher",
+                                                    "lastName": "Vicini",
+                                                    "handle": "cmvicini",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/70144243-B4GTZ5I1YK5BMWCO.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "38059492",
+                                                    "firstName": "Dean",
+                                                    "lastName": "Diefendorf",
+                                                    "handle": "deand6780552",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/GPNXM4RP2FF1XT13.jpg"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "20683720",
+                                                    "firstName": "Blair",
+                                                    "lastName": "Puscas",
+                                                    "handle": "blairp1142693",
+                                                    "privateProfile": false,
+                                                    "gender": "male",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/SIBUPGIBDVIWGCQ5.jpg"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "summary": "5 likes"
+                                },
+                                "like": false,
+                                "logView": true,
+                                "agreeCount": 5,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2603148",
+                                    "firstName": "Robyn",
+                                    "lastName": "Gurin",
+                                    "handle": "gurinrk",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/PJ2ABK1ZPCFPMJMW.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/jmqZ50",
+            "timeZone": "America/New_York",
+            "listed": {
+                "count": 67,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Lists from other people",
+                        "count": 67,
+                        "items": [
+                            {
+                                "id": "51eed1a9498e2513f9fb3341",
+                                "name": "The Chelsea List by Urban Compass",
+                                "description": "The best of the best in Chelsea, NYC including restaurants, bars, parks, art galleries and more.\n\nCheck out our full neighborhood guide for Chelsea here: urbancompass.com/neighborhood_guides/chelsea",
+                                "entities": [
+                                    {
+                                        "indices": [
+                                            154,
+                                            198
+                                        ],
+                                        "type": "url",
+                                        "object": {
+                                            "url": "http://urbancompass.com/neighborhood_guides/chelsea"
+                                        }
+                                    }
+                                ],
+                                "type": "others",
+                                "user": {
+                                    "id": "60624226",
+                                    "firstName": "Compass",
+                                    "handle": "compassinc",
+                                    "privateProfile": false,
+                                    "gender": "none",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/60624226-2LIVNATZ0DB1Y2B5.jpg"
+                                    },
+                                    "type": "page"
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/compassinc/list/the-chelsea-list-by-urban-compass",
+                                "canonicalUrl": "https://foursquare.com/compassinc/list/the-chelsea-list-by-urban-compass",
+                                "createdAt": 1374605737,
+                                "updatedAt": 1398457495,
+                                "photo": {
+                                    "id": "51eeea74ccdac1287784793b",
+                                    "createdAt": 1374612084,
+                                    "prefix": "https://fastly.4sqi.net/img/general/",
+                                    "suffix": "/60624226_yyagnDrCDTSAysIHS3Gtgx7KApeaw6_46bxANQ6Osj4.jpg",
+                                    "width": 1600,
+                                    "height": 1068,
+                                    "user": {
+                                        "id": "60624226",
+                                        "firstName": "Compass",
+                                        "handle": "compassinc",
+                                        "privateProfile": false,
+                                        "gender": "none",
+                                        "countryCode": "US",
+                                        "followingRelationship": "none",
+                                        "photo": {
+                                            "prefix": "https://fastly.4sqi.net/img/user/",
+                                            "suffix": "/60624226-2LIVNATZ0DB1Y2B5.jpg"
+                                        },
+                                        "type": "page"
+                                    },
+                                    "visibility": "public"
+                                },
+                                "logView": true,
+                                "followers": {
+                                    "count": 23
+                                },
+                                "listItems": {
+                                    "count": 38,
+                                    "items": [
+                                        {
+                                            "id": "t51eee82c498ee72a162cd582",
+                                            "createdAt": 1374611489,
+                                            "tip": {
+                                                "id": "51eee82c498ee72a162cd582",
+                                                "createdAt": 1374611500,
+                                                "text": "Find custom-designed treadmills, specialized Bootcamp classes, and a protein shake bar at Barry\u2019s. A recent expansion made it one of the biggest gyms in the neighborhood.",
+                                                "type": "user",
+                                                "canonicalUrl": "https://foursquare.com/item/51eee82c498ee72a162cd582",
+                                                "likes": {
+                                                    "count": 2,
+                                                    "groups": [
+                                                        {
+                                                            "type": "others",
+                                                            "count": 2,
+                                                            "items": [
+                                                                {
+                                                                    "id": "645",
+                                                                    "firstName": "Kristin",
+                                                                    "lastName": "Maverick",
+                                                                    "handle": "kmaverick",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "address": "",
+                                                                    "city": "",
+                                                                    "state": "",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/M1XBGUZ2KQDO4LG4.jpg"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "id": "317464",
+                                                                    "firstName": "Miriam",
+                                                                    "lastName": "Ryan",
+                                                                    "handle": "mirryan",
+                                                                    "privateProfile": false,
+                                                                    "gender": "female",
+                                                                    "address": "",
+                                                                    "city": "",
+                                                                    "state": "",
+                                                                    "countryCode": "IE",
+                                                                    "followingRelationship": "none",
+                                                                    "photo": {
+                                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                                        "suffix": "/UXZWJSGY0Z0TKMJL.jpg"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "summary": "2 likes"
+                                                },
+                                                "like": false,
+                                                "logView": true,
+                                                "agreeCount": 10,
+                                                "disagreeCount": 0,
+                                                "todo": {
+                                                    "count": 1
+                                                },
+                                                "saves": {},
+                                                "user": {
+                                                    "id": "60624226",
+                                                    "firstName": "Compass",
+                                                    "handle": "compassinc",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/60624226-2LIVNATZ0DB1Y2B5.jpg"
+                                                    },
+                                                    "type": "page"
+                                                }
+                                            },
+                                            "photo": {
+                                                "id": "51eee826ccdac1287782944b",
+                                                "createdAt": 1374611494,
+                                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                                "suffix": "/60624226_1sp-TKKuc4ISUyTwShZBvzkCwQgq40nqBQuR_j1A_Fs.jpg",
+                                                "width": 1600,
+                                                "height": 1068,
+                                                "user": {
+                                                    "id": "60624226",
+                                                    "firstName": "Compass",
+                                                    "handle": "compassinc",
+                                                    "privateProfile": false,
+                                                    "gender": "none",
+                                                    "countryCode": "US",
+                                                    "followingRelationship": "none",
+                                                    "photo": {
+                                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                                        "suffix": "/60624226-2LIVNATZ0DB1Y2B5.jpg"
+                                                    },
+                                                    "type": "page"
+                                                },
+                                                "visibility": "public"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "4f2e9f9ee4b040ea006b6967",
+                                "name": "NYC Workout",
+                                "description": "",
+                                "type": "others",
+                                "user": {
+                                    "id": "9547542",
+                                    "firstName": "Lil",
+                                    "lastName": "Ly",
+                                    "handle": "newshopkins",
+                                    "privateProfile": false,
+                                    "gender": "female",
+                                    "countryCode": "US",
+                                    "followingRelationship": "none",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/GYMQEOWW5OZAF3TW.jpg"
+                                    }
+                                },
+                                "editable": false,
+                                "public": true,
+                                "collaborative": false,
+                                "url": "/newshopkins/list/nyc-workout",
+                                "canonicalUrl": "https://foursquare.com/newshopkins/list/nyc-workout",
+                                "createdAt": 1328455582,
+                                "updatedAt": 1430945876,
+                                "followers": {
+                                    "count": 15
+                                },
+                                "listItems": {
+                                    "count": 27,
+                                    "items": [
+                                        {
+                                            "id": "v4d2cc14bb47d2c0fd1608594",
+                                            "createdAt": 1332283033
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "phrase": "best workouts",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    24,
+                                    37
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "So hard, but one of the best workouts I have ever had"
+                    },
+                    "count": 3
+                },
+                {
+                    "phrase": "harley",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    6
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Harley's 5:30pm workouts are the business. Even..."
+                    },
+                    "count": 7
+                },
+                {
+                    "phrase": "keoni",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    26,
+                                    31
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... especially with Joey, Keoni, or Noah."
+                    },
+                    "count": 3
+                }
+            ],
+            "hours": {
+                "status": "Open until 10:00 PM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until 10:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "7:30 AM\u20136:30 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "8:30 AM\u20136:30 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Likely open",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Likely open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "5:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u201310:00 AM"
+                            },
+                            {
+                                "renderedTime": "5:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20132:00 PM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20138:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20132:00 PM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "9:00 AM\u20132:00 PM"
+                            },
+                            {
+                                "renderedTime": "4:00 PM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u201311:00 AM"
+                            },
+                            {
+                                "renderedTime": "5:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Tue",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 AM"
+                            },
+                            {
+                                "renderedTime": "5:00 PM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "seasonalHours": [],
+            "defaultHours": {
+                "status": "Open until 10:00 PM",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Open until 10:00 PM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": true,
+                "localHolidayName": "Christmas",
+                "dayData": [],
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Thu",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u201310:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "5:00 AM\u20139:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat",
+                        "open": [
+                            {
+                                "renderedTime": "7:30 AM\u20136:30 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "8:30 AM\u20136:30 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "price",
+                        "name": "Price",
+                        "summary": "$$",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Price",
+                                "displayValue": "$$",
+                                "priceTier": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "payments",
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes (incl. Discover & Visa)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "59975272f8cbd46f1c226a06",
+                "createdAt": 1503089266,
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/212169387_C2-Wh9iB-a9yFzkkMFUuT3RsxV7Rna5lQWhqCNs0Bds.jpg",
+                "width": 3888,
+                "height": 2592,
+                "visibility": "public"
+            },
+            "colors": {
+                "highlightColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -14145480
+                },
+                "highlightTextColor": {
+                    "photoId": "59975272f8cbd46f1c226a06",
+                    "value": -1
+                },
+                "algoVersion": 3
+            }
+        }
+    }
+}
