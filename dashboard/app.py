@@ -43,7 +43,31 @@ if "chosenCity" in st.session_state:
     venue_counts = data['venueId'].value_counts().head(10).reset_index()
     venue_counts.columns = ["Venue", "Count"]
     st.header(f"Pilihan Tempat di {chosen_city}")
-
+    venueid = st.text_input("Masukkan Venue ID")
+    if st.button("Submit"):
+        try:
+            data = fetchAPI(venueid)
+            venue_data = data.get("response", {}).get("venue", {})
+            st.subheader(venue_data.get("name", "Unknown"))
+            address = venue_data.get("location", {}).get("address")
+            if address:
+                st.write(address)
+            st.write(venue_data.get("contact", "No contact info"))
+            st.write(venue_data.get("canonicalUrl", "No URL available"))
+            if st.button(f"Informasi {venue_data.get('name')}"):
+                @st.dialog(f"Informasi {venue_data.get("name")} ")
+                def yapper():
+                    WorkDay(st.session_state["selectedVenue"],chosen_city)
+                    WorkHour(st.session_state["selectedVenue"],chosen_city)
+                    lat = venue_data.get("location", {}).get("lat")
+                    lng = venue_data.get("location", {}).get("lng")
+                    map_center = [lat, lng]
+                    m = folium.Map(location=map_center, zoom_start=20)
+                    folium.Marker(location=map_center, popup=venue_data.get("name", "Unknown")).add_to(m)
+                    folium_static(m, width=700, height=500)
+                yapper()
+        except:
+            print("error")
     for pos in range(0, len(venue_counts), 2):
         cols = st.columns(2)
         for i, col in enumerate(cols):
