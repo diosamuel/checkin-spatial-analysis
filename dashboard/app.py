@@ -37,6 +37,8 @@ if "chosenCity" in st.session_state:
     heat = st.checkbox("heatmap")
     density = st.checkbox("density")
     pinpoin = st.checkbox("pinpoin")
+    if density:
+        st.image("dashboard/assets/densitylegend.png",caption="Density",width=100)
     rendered = RenderMap(data, latlong,chosen_city,heatmap=heat,density=density,pinpoin=pinpoin)
     output = folium_static(rendered, width=1000, height=500)
     # Display popular venues
