@@ -34,9 +34,9 @@ if "chosenCity" in st.session_state:
     })
 
     # Render map
-    heat = st.checkbox("heatmap")
-    density = st.checkbox("density")
-    pinpoin = st.checkbox("pinpoin")
+    heat = st.checkbox("Show Heatmap")
+    density = st.checkbox("Show Density")
+    pinpoin = st.checkbox("Show All Pinpoint")
     if density:
         st.image("dashboard/assets/densitylegend.png",caption="Density",width=100)
     rendered = RenderMap(data, latlong,chosen_city,heatmap=heat,density=density,pinpoin=pinpoin)
