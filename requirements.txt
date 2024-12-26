@@ -1,6 +1,6 @@
-folium
+folium==0.18.0
 streamlit
-streamlit-folium
+streamlit-folium==0.23.2
 matplotlib
 numpy
 plotly

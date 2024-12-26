@@ -94,7 +94,7 @@ def WorkHour(venueId,city):
     place["utcTimestamp"] = pd.to_datetime(place["utcTimestamp"])
     place["Days"] = place["utcTimestamp"].dt.day_name()
     place["Hour"] = place["utcTimestamp"].dt.hour
-    average_time_per_day = place.groupby("Days")["Hour"].mean()
+    average_time_per_day = place.groupby("Days")["Hour"].mean().astype(int)
     average_time_per_day_df = average_time_per_day.reset_index()
     average_time_per_day_df.columns = ["Days", "Average Hour"]
     day_order = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
@@ -104,13 +104,13 @@ def WorkHour(venueId,city):
         average_time_per_day_df,
         x="Days",
         y="Average Hour",
-        title=f"Average Time Per Day",
-        labels={"Days": "Day of the Week", "Average Hour": "Average Hour"},
+        title=f"Rata-Rata Jam Kunjungan (24-Hour-Format) Per Hari",
+        labels={"Days": "Day of the Week", "Average Hour": "Jam Kunjungan (24-Hour-Format)"},
         markers=True
     )
     fig.update_layout(
         xaxis_title="Day of the Week",
-        yaxis_title="Average Hour"
+        yaxis_title="Rata-Rata Jam Kunjungan (24-Hour-Format) Per Hari"
     )
     st.plotly_chart(fig, use_container_width=True)
 
